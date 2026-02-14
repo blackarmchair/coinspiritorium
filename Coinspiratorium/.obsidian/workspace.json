@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "2a31b1b0ca80495a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ccd3f2082829050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e99ae5e268203fa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/03 - Tomb of Horrors Spellbook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Tomb of Horrors Spellbook"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49e57c617ad3d414",
+    "type": "split",
+    "children": [
+      {
+        "id": "084bce5c71fa9549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83888d3f661c3356",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77c96e3ff4423a92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a651733eb04b9fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb648593ea8b6d32",
+    "type": "split",
+    "children": [
+      {
+        "id": "4014c32cc85e3919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba0fa0f71e5bedc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9758b1e13d7dfaf9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3990bc32db3de861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3db1d874bd22864",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e99ae5e268203fa4",
+  "lastOpenFiles": [
+    "Quests/02 - The Underdark Art Acquisition.md",
+    "Quests/06 - Aboleth Info-Vault.md",
+    "Quests/07 - Sigil Quick Pickup.md",
+    "Quests/04 - Blackstaff Tower Raid.md",
+    "Quests/05 - Steal a Solar's Halo.md",
+    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002840680",
+    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002790359",
+    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002774680",
+    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002755812",
+    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002699450",
+    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002670941",
+    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002131925",
+    "NPCs/Quest-Specific/Mnemon.md.tmp.852.1771002115865",
+    "NPCs/Quest-Specific/Yorham Voss.md.tmp.852.1771002100324",
+    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002065066",
+    "Quests/03 - Tomb of Horrors Spellbook.md",
+    "Quests/01 - Strahd's Favorite Mirror.md",
+    "Quests/10 - White Plume Mountain Redux.md",
+    "Items/Quest Items/Acererak's Warm-Up Notebook.md",
+    "NPCs/Main Characters/Director Casseel.md",
+    "NPCs/Main Characters/Agent Quill.md",
+    "NPCs/Main Characters/Agent Docket.md",
+    "Lore/The Device.md",
+    "Lore/Terms of Incoinspiration.md",
+    "Locations/The Superiority Complex.md",
+    "Locations/The Coinspiratorium (Location).md",
+    "Locations/Offledger.md",
+    "Locations/Menzoberranzan.md",
+    "Locations/Barovia.md",
+    "Items/Quest Items/Veezy's IOU.md",
+    "Items/Quest Items/The Vanishing Mirror.md",
+    "Items/Quest Items/The Primordial Memory Pearl.md",
+    "Items/Quest Items/The Key That Opens Any Door But Only Once.md",
+    "Items/Quest Items/The Keraptis Binder.md",
+    "Items/Quest Items/The Iris Prime.md",
+    "Items/Quest Items/The Black Ledger.md",
+    "Untitled.canvas"
+  ]
+}
