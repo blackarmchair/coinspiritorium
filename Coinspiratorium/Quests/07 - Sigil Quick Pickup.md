@@ -107,7 +107,7 @@ His voice drops.
 
 - **Portal:** A door in [[Offledger]]'s south wall — currently a broom closet — will, when opened with the provided portal key (a copper coin minted in the lost city of Moil — don't ask where [[Vizzok the Opulent|Veezy]] got it), deposit the PCs in the Clerk's Ward of Sigil. The door opens from the other side only — they'll need the exit key for the return trip
 - **Exit portal key:** A tuning fork that vibrates at the resonant frequency of [[Offledger]]'s dimensional shell. Strike it against any door frame in Sigil within 24 hours, and the door becomes a portal home. After 24 hours, the fork goes dead. *"Do not lose it. Do not break it. Do not use it to clean your teeth."*
-- **Currency:** Standard gold works in Sigil, but [[Iris Major]] provides 200 gp in Sigil trade bars (universally accepted, untraceable). *"The petty cash fund. There will be an accounting."*
+- **Currency:** Standard gold works in Sigil, but [[Iris Major]] provides 200gp in Sigil trade bars (universally accepted, untraceable). *"The petty cash fund. There will be an accounting."*
 - **Contact:** A tout named [[Krix]], who can be found at the Fortune's Wheel tavern in the Lady's Ward. *"[[Krix]] is a distributed cranium rat collective operating in a stolen Harmonium overcoat. They are reliable, expensive, and deeply unpleasant. Do not call them 'rats.' They bill by the question: 5 gold per inquiry, 20 for a guided tour."*
 - **Target name:** The Collector is known as **[[Rue Kethani]]**. She lives in the Clerk's Ward. She does not advertise. Finding her address requires local intelligence. *"This is what [[Krix]] is for."*
 - **Timeline:** 24 hours. The exit tuning fork is calibrated to a specific planar alignment window. After that, the PCs are stranded in Sigil until alternative extraction can be arranged, which [[Iris Major]] describes as *"expensive, slow, and not your employer's problem."*
@@ -150,9 +150,24 @@ The portal deposited them in the Clerk's Ward — Sigil's administrative distric
 
 This is where the factions process paperwork, file claims, and adjudicate disputes. It is boring on purpose. Boring is safe. Boring keeps the Lady's attention elsewhere.
 
+### Retailable Loot — Sigil Trade Goods
+
+*Available throughout the city exploration scenes. Sigil is the multiversal crossroads — its market produces the best side-loot variety in the campaign. Items reflect planar diversity.*
+
+| Item | Listed Value | Acquisition | Notes |
+|------|-------------|-------------|-------|
+| Modron-crafted precision compass (always points to the nearest portal) | 300gp | Available at a Clerk's Ward gadget stall | **Auction candidate.** Unique planar utility; navigators and planars pay premium |
+| Sensory stone (Sensate memory fragment, contains 10 seconds of a stranger's happiest moment) | 75gp | Purchased at the Civic Festhall | [[Offledger]]'s clientele find this either profoundly moving or profoundly unsettling |
+| Bottled Limbo essence (swirling chaos-stuff in a sealed vial, shifts color constantly) | 100gp | Alchemical supply stall, Lower Ward | Alchemical curiosity; unstable if opened |
+| Dabus rebus tile (discarded pictographic message-tile, stone, faintly magical) | 50gp | Found on the street | Collectors of Sigil ephemera pay well |
+| Faction pin (Fated, Mercykillers, or Sensates — faction-branded, minor enchantment) | 80gp each (up to 2) | Sleight of Hand DC 14 to pocket from a stall | Faction memorabilia; niche collectors |
+| Planar phrasebook (Common/Infernal/Celestial/Modron, leather-bound) | 40gp | Purchased at a bookstall | Practical and saleable; translators and scholars buy |
+| Portal key fragment (inert, no longer functional, but appears to be a genuine Sigil portal key) | 200gp | [[Krix]] can source this for 80gp | **Auction candidate.** Portal keys are the most valuable commodity in Sigil. Even a dead one sells to collectors and researchers |
+| Cranium rat skull (preserved, silver-plated) | 25gp | Curiosity shop, Hive Ward | [[Krix]] is offended if the PCs buy this. *"That's — that's a RELATIVE. That's someone's COUSIN. We — disgusting."* |
+
 **Environmental detail:** Posted on a wall, a notice in Common, Planar Common, Infernal, Celestial, and six other languages:
 
-> *BY ORDER OF THE CLERK'S WARD ADMINISTRATIVE COUNCIL: ALL PLANAR ARTIFACTS OF TRANS-DIMENSIONAL SIGNIFICANCE MUST BE REGISTERED WITH THE WARD OFFICE PRIOR TO REMOVAL FROM SIGIL. FAILURE TO COMPLY WILL BE REPORTED TO THE HARMONIUM. FINE: 500 GP OR EQUIVALENT.*
+> *BY ORDER OF THE CLERK'S WARD ADMINISTRATIVE COUNCIL: ALL PLANAR ARTIFACTS OF TRANS-DIMENSIONAL SIGNIFICANCE MUST BE REGISTERED WITH THE WARD OFFICE PRIOR TO REMOVAL FROM SIGIL. FAILURE TO COMPLY WILL BE REPORTED TO THE HARMONIUM. FINE: 500gp OR EQUIVALENT.*
 
 This notice is relevant. The PCs will not register the key. The Harmonium will care.
 
@@ -455,7 +470,7 @@ The PCs need to get from Quill Street to any door frame where they can use the t
 The PCs need to find a stable door — one that hasn't been affected by the Lady's attention — and use the tuning fork. Stable doors can be identified by:
 
 - **Knowledge (the planes) DC 15:** The PC identifies structural indicators of portal stability — door frames with even coloring, no vibration, no smell of ozone
-- **[[Krix]] (if the PCs kept contact):** For 20 gp, [[Krix]] provides a route to a stable door four blocks away: *"The Gatehouse District, west entrance. The door to the old Bleaker hospice. That portal frame hasn't shifted in decades — it's too boring for — yes, too boring for anyone to notice. Go. Quickly. Don't — hurry."*
+- **[[Krix]] (if the PCs kept contact):** For 20gp, [[Krix]] provides a route to a stable door four blocks away: *"The Gatehouse District, west entrance. The door to the old Bleaker hospice. That portal frame hasn't shifted in decades — it's too boring for — yes, too boring for anyone to notice. Go. Quickly. Don't — hurry."*
 - **Spot/Listen DC 18:** The PCs notice that the locals are avoiding certain streets — those streets have destabilized portals. Following the locals' paths leads to stable areas
 
 ### Encounter: Portal Spillover (Optional)
@@ -673,13 +688,13 @@ They can't. The truth field's residual effect lingers for 1d4 hours after contac
 
 | Reward                       | Value                      | Notes                                                                                             |
 | ---------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------- |
-| Contract completion bonus    | 600 gp (split among party) | Premium rate for Sigil operations                                                                 |
-| Sigil trade goods (pocketed) | 50-150 gp                  | Anything the PCs picked up in the city — Sigil has everything                                     |
+| Contract completion bonus    | 600gp (split among party) | Premium rate for Sigil operations                                                                 |
+| Sigil trade goods (pocketed) | 150-950gp                 | Modron compass, sensory stones, Limbo essence, dabus tiles, faction pins, portal key fragment, phrasebook — see Retailable Loot (Sigil Trade Goods). Best side-loot variety in the campaign |
 | Rue's respect                | 0 gp                       | A contract lawyer who values truth owes you nothing — and that's the highest compliment she gives |
 | First visit to the Workshop  | 0 gp                       | The PCs have now seen the [[Crown Infinite]] taking shape. Knowledge is not always a reward       |
 | Quill's genuine concern      | 0 gp                       | An [[O.P.E.R.A.T.I.V.E.]] agent cares about you. This is either an asset or a liability           |
 
-**Total expected GP haul:** 650-750 gp. The payouts continue climbing. The PCs are richer, more experienced, and more compromised than ever. And for the first time, they've been forced to say out loud what they're building — in a room where they couldn't pretend it was anything other than what it is.
+**Total expected GP haul:** 650-750gp. The payouts continue climbing. The PCs are richer, more experienced, and more compromised than ever. And for the first time, they've been forced to say out loud what they're building — in a room where they couldn't pretend it was anything other than what it is.
 
 ### DM Notes
 - **The Workshop reveal is the campaign's visual climax so far.** Six artifacts orbiting a central point, connected by golden light, forming the skeleton of a crown/eye/cage — this is what the PCs have been building. Seeing it should be awe-inspiring and horrifying in equal measure. They MADE this. Every mission, every artifact, every moral compromise — it's all here, floating in front of them, taking shape
@@ -801,7 +816,27 @@ They can't. The truth field's residual effect lingers for 1d4 hours after contac
 - The Lady of Pain's shadow falls directly on the PCs, requiring a Will save (DC 25) or be shaken for 1 hour. A second shadow appearance requires a Will save (DC 30) or be mazed (DM should telegraph this clearly — the maze is an emergency, not a gotcha)
 - The truth field's residual effect lasts 24 hours, meaning the PCs cannot lie for an entire day after the mission — affecting all interactions in [[Offledger]], with [[Vizzok the Opulent|Veezy]], and with any other NPCs
 - **[[Auditor Pentival]]** is in Sigil. He's not following the PCs — he's independently researching planar contract law at the Clerk's Ward records office. If the PCs notice him (Spot DC 20), they can interact. [[Auditor Pentival|Pentival]], in his usual enthusiastic way, shares a detail: *"Did you know that in Sigil contract law, a key is legally considered a 'binding instrument'? Same category as a contract or an oath. Fascinating jurisdictional overlap. A key that enforces truth is, legally speaking, a contract that the universe signed with itself. Anyway. Tea?"*
-- An **Arcanaloth** (yugoloth information broker) approaches the PCs in the Market Ward, offering to buy the key for 10,000 gp and "certain considerations." The arcanaloth is charming, sophisticated, and cannot enter the truth field without revealing its true intentions — which are to sell the key to a consortium of fiends building their OWN reality-modifying device. Competition for the [[The Device|Crown Infinite]] exists. This thread can be expanded in later adventures
+- An **Arcanaloth** (yugoloth information broker) approaches the PCs in the Market Ward, offering to buy the key for 10,000gp and "certain considerations." The arcanaloth is charming, sophisticated, and cannot enter the truth field without revealing its true intentions — which are to sell the key to a consortium of fiends building their OWN reality-modifying device. Competition for the [[The Device|Crown Infinite]] exists. This thread can be expanded in later adventures
+
+---
+
+## Appendix: Retailable Loot Reference
+
+*Consolidated table for Store Phase processing. All values are listed prices in [[Offledger]]. Sigil's planar diversity produces the campaign's best side-loot variety.*
+
+| Item | Listed Value | Acquisition | Channel | Notes |
+|------|-------------|-------------|---------|-------|
+| Modron-crafted precision compass | 300gp | Clerk's Ward gadget stall | **Auction** | Points to nearest portal; unique planar utility |
+| Sensory stone (Sensate memory fragment) | 75gp | Civic Festhall | Bulk | 10 seconds of a stranger's happiest moment |
+| Bottled Limbo essence | 100gp | Lower Ward alchemical stall | Bulk | Unstable if opened; alchemical curiosity |
+| Dabus rebus tile (faintly magical) | 50gp | Found on the street | Bulk | Sigil ephemera collectors |
+| Faction pin (per pin, up to 2) | 80gp | Sleight of Hand DC 14 | Bulk | Fated, Mercykillers, or Sensates |
+| Planar phrasebook (leather-bound) | 40gp | Bookstall | Bulk | Common/Infernal/Celestial/Modron |
+| Portal key fragment (inert) | 200gp | [[Krix]] sources for 80gp | **Auction** | Dead portal key; collectors and researchers pay |
+| Cranium rat skull (preserved, silver-plated) | 25gp | Hive Ward curiosity shop | Bulk | [[Krix]]: *"That's someone's COUSIN."* |
+
+**Max potential Bulk pool:** ~530gp listed (before purchase costs)
+**Auction candidates:** Modron compass (300gp), portal key fragment (200gp)
 
 ---
 

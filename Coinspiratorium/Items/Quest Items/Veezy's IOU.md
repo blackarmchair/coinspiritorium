@@ -26,7 +26,7 @@ It is the most valuable object in the multiverse.
 ## The Text
 
 > *"I, Vizzok the Visionary, hereby promise to repay*
-> *forty-nine gold pieces (49 gp)*
+> *forty-nine gold pieces (49gp)*
 > *lent to me by Grindle Gruk'tak*
 > *for:*
 > *(1) One Vision Cape*
@@ -41,7 +41,7 @@ Yes, it is terrible.
 
 ## Properties
 - **Type:** Debt instrument / arcane contract
-- **Apparent Value:** Worthless (a forgotten IOU for 49 gp)
+- **Apparent Value:** Worthless (a forgotten IOU for 49gp)
 - **Actual Value:** Infinite — the highest-value debt instrument in existence
 - **Aura:** Faint (undetectable without specific divination targeting debt magic)
 - **Weight:** Negligible
@@ -58,7 +58,7 @@ Because:
 - The Universal Ledger prioritizes unresolved obligations
 - The engine cannot reconcile a creditor being a debtor
 
-Veezy's 49 gp debt — with centuries of compounding interest and no recipient to pay — creates a **metaphysical paradox** that is worth more than every soul, nation, and plane combined.
+Veezy's 49gp debt — with centuries of compounding interest and no recipient to pay — creates a **metaphysical paradox** that is worth more than every soul, nation, and plane combined.
 
 ## How It's Used
 The PCs present the IOU at the Coinspiratorium counter. The store appraises it at full metaphysical value. The debt transfers from Veezy (debtor) to the PCs (creditors presenting it). The infinite value is applied to the PCs' own debt.

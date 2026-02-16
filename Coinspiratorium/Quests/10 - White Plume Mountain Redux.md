@@ -172,7 +172,7 @@ It's a simple document. Handwritten in shaky Draconic on cheap parchment. It rea
 > *BORROWER: [[Vizzok the Opulent]]*
 > *LENDER: [[Grindle Gruk'tak]]*
 > *AMOUNT: 49 gold pieces*
-> *PURPOSE: 1 Vision Cape (37 gp), 10 copies "Eyes on the Horizon" demo (12 gp)*
+> *PURPOSE: 1 Vision Cape (37gp), 10 copies "Eyes on the Horizon" demo (12gp)*
 > *TERMS: Repayment upon borrower's first profitable venture*
 > *SIGNED: [a tentacle print] [a goblin thumbprint]*
 > *DATE: [over 400 years ago]*
@@ -631,14 +631,14 @@ Or maybe they do.
 
 | Reward                         | Value                      | Notes                                                                                                                                      |
 | ------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Contract completion bonus      | 850 gp (split among party) | Elevated rate — Crown approaching completion                                                                                               |
-| Rejected trap salvage          | 100-200 gp                 | Paradox-infused materials from the Wing — artificers and researchers pay well for impossible geometry                                      |
-| Prototype trap components      | 50-100 gp                  | Non-functional but collectible remnants from [[Keraptis]]'s rejects                                                                        |
+| Contract completion bonus      | 850gp (split among party) | Elevated rate — Crown approaching completion                                                                                               |
+| Rejected trap salvage          | 100-200gp                 | Paradox-infused materials from the Wing — artificers and researchers pay well for impossible geometry                                      |
+| Prototype trap components      | 50-100gp                  | Non-functional but collectible remnants from [[Keraptis]]'s rejects                                                                        |
 | [[Grindle Gruk'tak]]'s potions | Variable                   | Whatever the PCs bought at Stonekettle                                                                                                     |
 | [[EyeQ]]'s revelation          | 0 gp                       | The Crown's architect told you how to destroy the Crown. This is either the most valuable thing you've ever received or the most dangerous |
 | The IOU                        | 0 gp                       | 49 gold pieces. A cape. A mixtape. The most important piece of paper in the multiverse, and it looks like a receipt                        |
 
-**Total expected GP haul:** 1000-1200 gp. The highest payout yet. The PCs are richer than they've ever been. They're also holding the key to the campaign's endgame in someone's back pocket, next to a dead spider and some lint.
+**Total expected GP haul:** 100gp. The highest payout yet. The PCs are richer than they've ever been. They're also holding the key to the campaign's endgame in someone's back pocket, next to a dead spider and some lint.
 
 ### DM Notes
 - **"Nobody gets to decide I don't matter. Ever. Again." is the campaign's most tragic line.** [[Vizzok the Opulent|Veezy]] has just stated, plainly, what the [[The Device|Crown Infinite]] is actually for. It's not about power. It's not about clout. It's not about gold. It's about a being who was told he didn't matter — by the gods, by the planes, by every system that defines who gets to be important — and decided to rebuild reality rather than accept the verdict. The Crown is an act of revenge against a universe that made him feel small. It's also, in its way, a cry for help. But the help it would require is someone making [[Vizzok the Opulent|Veezy]] feel like he matters WITHOUT the Crown, and the PCs can't do that. Nobody can. [[Vizzok the Opulent|Veezy]] stopped being able to feel valued through anything less than cosmic enforcement centuries ago. That's the tragedy
@@ -713,7 +713,7 @@ Or maybe they do.
 - HP 11, AC 13 (+1 size, +2 Dex), touch 13, flat-footed 11
 - Skills: Craft (alchemy) +10, Profession (merchant) +8, Appraise +6, Bluff +4 (he's a terrible liar — his ears flatten when he's nervous, which is always)
 - **Not a combat encounter.** [[Grindle Gruk'tak|Grindle]] is a goblin who sells potions. He is carrying the most important document in the campaign. He has no idea
-- **Inventory:** Potions of cure light wounds (CL 1, 25 gp each — slightly weak), antitoxin (50 gp), alchemist's fire (20 gp), "mystery potion" (10 gp — it's a potion of *jump* that's been mislabeled)
+- **Inventory:** Potions of cure light wounds (CL 1, 25gp each — slightly weak), antitoxin (50gp), alchemist's fire (20gp), "mystery potion" (10gp — it's a potion of *jump* that's been mislabeled)
 
 ### The [[Keraptis]] Binder (Item)
 
@@ -726,7 +726,7 @@ Or maybe they do.
 ### [[Vizzok the Opulent|Veezy]]'s IOU (Item)
 
 - A piece of folded parchment, yellowed, creased, approximately 400+ years old
-- Documents a 49gp loan from [[Grindle Gruk'tak]] to "Vizzok" for: 1 Vision Cape (37 gp), 10 demo copies of "Eyes on the Horizon" (12 gp)
+- Documents a 49gp loan from [[Grindle Gruk'tak]] to "Vizzok" for: 1 Vision Cape (37gp), 10 demo copies of "Eyes on the Horizon" (12gp)
 - Terms: repayment upon borrower's first profitable venture (condition met centuries ago — debt is overdue)
 - Signed with a tentacle print and a goblin thumbprint
 - **Under [[The Device|Crown Infinite]] Law II (Debt Becomes Destiny):** This document proves the master creditor is also a debtor. The system cannot reconcile a creditor who owes. Recursive interest compounds infinitely. The ledger cannot balance. Placing the IOU on [[The Coinspiratorium (Location)|the Coinspiratorium]] counter triggers a cascade failure in the [[The Device|Crown Infinite]]'s foundational architecture
@@ -764,6 +764,25 @@ Or maybe they do.
 - [[Keraptis]] is **fully alert and hostile** — not a tired old man but a 14th-level wizard defending his home. He doesn't fight directly but activates the main dungeon's traps remotely, targeting the PCs through the Wing's walls. Flame jets, pit traps, and animated guardian constructs pursue the party during the escape
 - **[[Agent Docket]]** is at Stonekettle. [[O.P.E.R.A.T.I.V.E.]] tracked the PCs to White Plume Mountain (Quill's intelligence plus [[Auditor Pentival|Pentival]]'s analysis of artifact procurement patterns). [[Agent Docket|Docket]] is standing at the base camp, motionless, waiting. When the PCs emerge: *"Mission outcome: artifact retrieved. Subjects accompanied by Eyecon designate [[EyeQ]] — architect classification. Assessment: the device's construction is entering terminal phase. Recommend immediate escalation to [[Director Casseel]]."* [[Agent Docket|Docket]] files a report. [[O.P.E.R.A.T.I.V.E.]]'s raid is being planned
 - **[[Auditor Pentival|Pentival]] is in Stonekettle.** Disguised (poorly) as a gnomish mountain climber. He's been studying White Plume Mountain's paradox architectures independently (he followed the same mathematical trail [[Vizzok the Opulent|Veezy]] did). If the PCs encounter him, he delivers the crucial line — not as an accident this time, but as deliberate analysis: *"I've completed my study of metaphysical debt structures. The conclusion is unavoidable: if the [[The Device|Crown Infinite]]'s master creditor possesses ANY unresolved obligation — a debt, a loan, even a handshake promise — the device's foundational paradox resolves. And a resolved paradox in a mutual-contradiction matrix..."* He pushes his spectacles up. *"...is catastrophic. Total structural failure. Instantaneous."* He looks at the PCs. *"Do you happen to know if Lord Vizzok has any outstanding debts?"* — This is the moment. If the PCs have the IOU, if they remember [[Grindle Gruk'tak|Grindle]], if they connect [[Auditor Pentival|Pentival]]'s math to [[EyeQ]]'s revelation — THIS is when the endgame begins
+
+---
+
+## Appendix: Retailable Loot Reference
+
+*Consolidated table for Store Phase processing. All values are listed prices in [[Offledger]].*
+
+| Item | Listed Value | Source | Channel | Notes |
+|------|-------------|--------|---------|-------|
+| Rejected trap salvage (paradox-infused materials) | 100-200gp | Rejected Wing exploration | **Auction** | Artificers and researchers pay well for impossible geometry |
+| Prototype trap components (non-functional remnants) | 50-100gp | Rejected Wing exploration | Bulk | Collectible [[Keraptis]] memorabilia |
+| Potions of *cure light wounds* (CL 1) | 25gp each | [[Grindle Gruk'tak]]'s stall (purchase) | Bulk | Slightly weak (CL 1 instead of CL 3) |
+| Antitoxin | 50gp | [[Grindle Gruk'tak]]'s stall (purchase) | Bulk | Standard |
+| Alchemist's fire | 20gp | [[Grindle Gruk'tak]]'s stall (purchase) | Bulk | Standard |
+| "Mystery potion" (mislabeled *potion of jump*) | 10gp | [[Grindle Gruk'tak]]'s stall (purchase) | Bulk | "It's been green for three months so it's probably stable" |
+
+**Max potential Bulk pool:** 150-300gp (salvage + components; potions are purchased inventory, not looted)
+**Auction candidates:** Rejected trap salvage (100-200gp — paradox materials are unique)
+**Note:** This quest's real "loot" is the IOU (0 gp listed, infinite narrative value) and [[EyeQ]]'s revelation. The retailable inventory is deliberately modest — it's the last comedy episode, not a treasure haul.
 
 ---
 

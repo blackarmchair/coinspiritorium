@@ -221,7 +221,29 @@ However the PCs enter, they end up in [[Menzoberranzan]]'s Bazaar — the city's
 - The Bazaar is the closest thing to "neutral ground" in the city. Violence is bad for business, so merchant houses enforce a fragile peace
 - Surface-dwellers are present — as slaves, as curiosities, occasionally as tolerated traders (rare). The PCs aren't automatically attacked here, but they draw attention
 - [[Szordrin Hune|Szordrin]]'s stall is a covered alcove selling "exotic surface goods" — mostly junk he marks up 300%. It's a front for his smuggling and a staging area for the PCs
-- PCs can acquire supplies here: drow poison (injury, Fort DC 13 or unconscious 1 minute, 50 gp per dose), darkvision-enhancing drops (extend darkvision to 120 ft. for 4 hours, 30 gp), spider-silk rope (50 ft., half weight of normal rope, 20 gp)
+- PCs can acquire supplies here: drow poison (injury, Fort DC 13 or unconscious 1 minute, 50gp per dose), darkvision-enhancing drops (extend darkvision to 120 ft. for 4 hours, 30gp), spider-silk rope (50 ft., half weight of normal rope, 20gp)
+
+### Retailable Loot — Bazaar Acquisitions
+
+*Available for purchase during Scene 3. Resaleable at surface markup in [[Offledger]].*
+
+| Item | Purchase Price | Listed Resale | Notes |
+|------|---------------|---------------|-------|
+| Spider-silk bolt (10 ft., Underdark weave) | 30gp | 80gp | Surface fashion value; exotic textile |
+| Darkfire opal (uncut Underdark gemstone) | 40gp | 120gp | Rarity premium on surface |
+| Phosphorescent fungal extract (2 doses, alchemical) | 15gp/dose | 40gp/dose | Alchemists and herbalists pay well |
+| Drow poison (3 doses, Fort DC 13, unconscious 1 min) | 50gp/dose | 75gp/dose | Illegal markup; the −2 suspicious/illegal auction modifier applies |
+
+### Retailable Loot — Temple & Combat
+
+*Recovered during or after the temple infiltration and escape.*
+
+| Item | Listed Value | Notes |
+|------|-------------|-------|
+| Drow chain shirt (masterwork) | 250gp | Degrades in sunlight (DM discretion on timeline — sell fast) |
+| Lolth holy symbol (silver spider, temple-crafted) | 100gp | **Auction candidate.** Controversial item; buyers include occultists, collectors, and academic institutions. The −2 suspicious/illegal modifier applies |
+| Bone-frame fragment (from the tapestry's mounting) | 60gp | Collector of divine materials; [[Vizzok the Opulent\|Veezy]] doesn't notice a missing mounting peg |
+| Drow-made hand crossbow (masterwork) | 400gp | Degrades in sunlight (DM discretion). **Auction candidate** at Tier 1+ |
 
 **Bazaar encounters (optional, choose 0-2 to flesh out the city):**
 
@@ -282,7 +304,7 @@ A long corridor with walls draped in lesser tapestries — each depicting scenes
 
 - Two acolyte-priestesses patrol this hall on a 20-minute rotation. They carry no weapons but have access to *hold person* (DC 14), *spiritual weapon*, and *silence*
 - The tapestries themselves function as an **alarm system**: if a creature passes without bearing Lolth's holy symbol, the tapestries rustle audibly. Not a magical alarm — a physical, intentional sound, like a congregation clearing its throat
-- **Bypass:** A stolen holy symbol (available from [[Szordrin Hune|Szordrin]] for 40 gp — *"Don't ask where I got it"*), or Move Silently DC 16 to pass during the patrol gap without triggering the tapestries (they respond to vibration, not magic)
+- **Bypass:** A stolen holy symbol (available from [[Szordrin Hune|Szordrin]] for 40gp — *"Don't ask where I got it"*), or Move Silently DC 16 to pass during the patrol gap without triggering the tapestries (they respond to vibration, not magic)
 
 **Third Level: The Antechamber**
 A round room with a domed ceiling painted with spider constellations. This is the waiting room for audiences with [[Priestess Zhael'ra]]. Currently empty between rotation bells.
@@ -525,15 +547,15 @@ He asks this casually. He is not casual about the answer. If the PCs describe th
 
 ### Payout
 
-| Reward | Value | Notes |
-|--------|-------|-------|
-| Contract completion bonus | 350 gp (split among party) | Higher payout than Ravenloft — harder mission |
-| Drow equipment (looted) | Variable | Drow arms/armor degrade in sunlight; sell fast |
-| Bazaar purchases (resale) | Variable | Spider-silk rope and drow poison have markup value in [[Offledger]] |
-| [[Szordrin Hune|Szordrin]]'s goodwill | 0 gp | If earned: a Underdark contact for future jobs. Not nothing |
-| Tapestry-related trauma | 0 gp | The visions don't stop immediately. PCs dream of threads for 1d4 nights |
+| Reward                       | Value                            | Notes                                                                                                                                               |
+| ---------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contract completion bonus    | 350gp (split among party)       | Higher payout than Ravenloft — harder mission                                                                                                       |
+| Drow equipment (looted)      | 250-650gp                       | Chain shirt, hand crossbow, holy symbol, bone fragment — see Retailable Loot (Temple & Combat). Drow gear degrades in sunlight; sell fast           |
+| Bazaar purchases (resale)    | 80-315gp (after purchase costs) | Spider-silk bolt, darkfire opal, fungal extract, drow poison — see Retailable Loot (Bazaar Acquisitions). Net profit depends on what the PCs bought |
+| [[Szordrin Hune]]'s goodwill | 0 gp                             | If earned: a Underdark contact for future jobs. Not nothing                                                                                         |
+| Tapestry-related trauma      | 0 gp                             | The visions don't stop immediately. PCs dream of threads for 1d4 nights                                                                             |
 
-**Total expected GP haul:** 400-650 gp depending on how much they looted and traded. The GP-to-danger ratio is worse than Ravenloft. This is intentional. [[Vizzok the Opulent|Veezy]] doesn't pay hazard rates.
+**Total expected GP haul:** 400-650gp depending on how much they looted and traded. The GP-to-danger ratio is worse than Ravenloft. This is intentional. [[Vizzok the Opulent|Veezy]] doesn't pay hazard rates.
 
 ### The Handoff
 [[EyeQ]] takes the containment box with visible fascination. He examines it with his instrument, mutters something the PCs can't hear, and floats away without a word.
@@ -635,6 +657,26 @@ If a PC specifically watches [[EyeQ]] leave, they notice him heading toward the 
 - The Weaving Duel runs 6 rounds, PCs need 9 points
 - Pursuit includes a drow priestess (cleric 4) who can track the tapestry's magic
 - [[Szordrin Hune|Szordrin]]'s "betrayal" path (if PCs were cruel) includes him selling information to *multiple* parties, creating complications in future adventures
+
+---
+
+## Appendix: Retailable Loot Reference
+
+*Consolidated table for Store Phase processing. All values are listed resale prices in [[Offledger]].*
+
+| Item | Listed Value | Source | Channel | Notes |
+|------|-------------|--------|---------|-------|
+| Spider-silk bolt (10 ft.) | 80gp | Bazaar (30gp purchase) | Bulk | Surface fashion value |
+| Darkfire opal (uncut) | 120gp | Bazaar (40gp purchase) | Bulk | Rarity premium |
+| Phosphorescent fungal extract (per dose, 2 avail.) | 40gp | Bazaar (15gp purchase) | Bulk | Alchemical |
+| Drow poison (per dose, 3 avail.) | 75gp | Bazaar (50gp purchase) | Bulk | −2 suspicious/illegal modifier |
+| Drow chain shirt (masterwork) | 250gp | Temple/combat loot | Bulk | Degrades in sunlight — sell fast |
+| Lolth holy symbol (silver spider) | 100gp | Temple/combat loot | **Auction** | Controversial; −2 suspicious/illegal modifier |
+| Bone-frame fragment | 60gp | Temple/combat loot | Bulk | Collector of divine materials |
+| Drow-made hand crossbow (masterwork) | 400gp | Temple/combat loot | **Auction** | Degrades in sunlight; Tier 1+ auction |
+
+**Max potential Bulk pool:** ~725gp listed (before purchase costs)
+**Auction candidates:** Lolth holy symbol (100gp), drow hand crossbow (400gp)
 
 ---
 

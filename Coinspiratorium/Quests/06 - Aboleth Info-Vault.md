@@ -304,7 +304,7 @@ His voice doesn't break. It stays perfectly level. That's worse.
 He sketches the dungeon layout on the stone slab with a fingernail. Nine rooms. Two branches. Two sessions' worth of dungeon.
 
 **Loot:**
-- [[Yorham Voss|Yorham]]'s research journals (3 volumes, 50 gp each to the right buyer — Arcane Brotherhood scholars would pay triple). Written in a cipher only Yorham can read without a Decipher Script DC 25
+- [[Yorham Voss|Yorham]]'s research journals (3 volumes, 50gp each to the right buyer — Arcane Brotherhood scholars would pay triple). Written in a cipher only Yorham can read without a Decipher Script DC 25
 - A *scroll of comprehend languages* (CL 5) — Yorham offers this freely if the PCs are cooperative or better. "You'll need it. The aboleths don't label anything in Common"
 
 **DM Notes:**
@@ -356,8 +356,8 @@ PCs can touch the shelved memory orbs. Each orb contains a compressed aboleth me
 | 6 | **The Failed Crown fragment:** A structure of binding — contracts and power, arranged in a pattern the PCs almost recognize. It collapses. The vision ends before they can see why. *(Seeds Vision 2 — partial preview of the full pearl vision)* |
 
 **Loot:**
-- Memory orbs can be pocketed (fist-sized, weigh 1 lb each). Worth 100-200 gp each to collectors on the surface. PCs can carry up to 4 each without encumbrance issues. The orbs lose their psionic charge after 30 days outside the archive, becoming inert black pearls worth 10 gp each
-- **Rare find (Search DC 20):** A memory orb with gold flecks — contains a complete memory of the aboleths' first contact with surface civilizations. Worth 500 gp to the Arcane Brotherhood or any planar scholar. Yorham, if present, knows exactly where this orb is shelved and retrieves it as a gift if the PCs are his allies
+- Memory orbs can be pocketed (fist-sized, weigh 1 lb each). Worth 100-200gp each to collectors on the surface. PCs can carry up to 4 each without encumbrance issues. The orbs lose their psionic charge after 30 days outside the archive, becoming inert black pearls worth 10gp each
+- **Rare find (Search DC 20):** A memory orb with gold flecks — contains a complete memory of the aboleths' first contact with surface civilizations. Worth 500gp to the Arcane Brotherhood or any planar scholar. Yorham, if present, knows exactly where this orb is shelved and retrieves it as a gift if the PCs are his allies
 
 **DM Notes:**
 - The Memory Drain is the Husks' signature threat. Spellcasters who lose spell slots in Room 3 arrive at later encounters depleted. This creates a resource-management pressure that rewards the stealth approach — sneaking past preserves spells for Rooms 5, 7, and 9
@@ -445,7 +445,7 @@ The ooze is not security. It's *custodial*. But it interprets unauthorized psion
 **Tactics:** The ooze moves toward the nearest source of psionic activity (spellcasting, memory orb interaction, or the pressure amulet's arcane signature). It's slow but persistent. If the Sorting Arms are active, they herd creatures toward the ooze — the arms grab and hold, the ooze absorbs. It's a cooperative system, even though neither component is intelligent enough to coordinate intentionally.
 
 **Loot:**
-- Inside the ooze (Search DC 18 after destruction, or reach into the gel — Fortitude DC 14 or 1d4 temporary Int damage): **3 intact memory orbs** worth 150 gp each, and a **silver ring** (worth 75 gp) that belonged to a previous intruder. The ring is engraved: "To Yaelith, who always returned." Yaelith did not return
+- Inside the ooze (Search DC 18 after destruction, or reach into the gel — Fortitude DC 14 or 1d4 temporary Int damage): **3 intact memory orbs** worth 150gp each, and a **silver ring** (worth 75gp) that belonged to a previous intruder. The ring is engraved: "To Yaelith, who always returned." Yaelith did not return
 - **Sorting manifests** (coral tablets near the output shelves): aboleth administrative records. Worthless as treasure, but a Decipher Script DC 22 reveals processing dates. The most recent batch of memories sorted includes entries tagged "Crown-adjacent" — the aboleths have been monitoring [[The Device|Crown Infinite]]-related information. They know something is being built
 
 **DM Notes:**
@@ -550,9 +550,9 @@ This is **[[O.P.E.R.A.T.I.V.E.]]** accessing the aboleth network. The orb is the
 A cluster of sealed pods near the back wall, each marked with a glyph that Yorham translates as "structural failure — civilization-class." These contain detailed records of the Failed Crown's construction and collapse — the same event the PCs glimpsed in Room 3's memory orb visions and Room 4's Reading Pool preview. Opening these pods and touching the orbs gives the most complete pre-pearl version of Vision 2: the structure, the builders, the flaw, the cascade. But each orb touched requires a Will save (DC 14) or the PC is dazed for 1 round — the memories are intense, even diluted.
 
 **Loot:**
-- Memory orbs from the classified section are worth 200-400 gp each (rare, dangerous knowledge collectors pay premium). PCs can carry 2-3 from the sealed pods
-- The O.P.E.R.A.T.I.V.E. orb is worth 1,000 gp to the right buyer — but the only buyers who would recognize its value are [[O.P.E.R.A.T.I.V.E.]] agents. Carrying it is carrying evidence of extraplanar surveillance
-- **Combat loot:** Each destroyed parasite leaves behind a crystallized thought-fragment (worth 25 gp, usable as a material component for *detect thoughts* or *telepathic bond*)
+- Memory orbs from the classified section are worth 200-400gp each (rare, dangerous knowledge collectors pay premium). PCs can carry 2-3 from the sealed pods
+- The O.P.E.R.A.T.I.V.E. orb is worth 1,000gp to the right buyer — but the only buyers who would recognize its value are [[O.P.E.R.A.T.I.V.E.]] agents. Carrying it is carrying evidence of extraplanar surveillance
+- **Combat loot:** Each destroyed parasite leaves behind a crystallized thought-fragment (worth 25gp, usable as a material component for *detect thoughts* or *telepathic bond*)
 
 **DM Notes:**
 - Room 7 is the dungeon's hardest mandatory combat. The parasite-sentry combination creates a multi-vector threat: parasites drain Wisdom and broadcast thoughts (individual debuff), sentries daze and shake (group debuff). A party with multiple parasites attached is fighting at severe disadvantage — their plans are transparent, their stats are draining, and the sentries are screaming
@@ -628,7 +628,7 @@ If the PCs attack the Savant, it defends itself — but reluctantly, clumsily, l
 Yorham does not intervene physically. But his reaction makes the moral weight clear.
 
 **Loot:**
-- If the Savant is destroyed: the mucus strands contain **4 crystallized memory fragments** worth 100 gp each, and a **psionic focus crystal** worth 300 gp (usable as a +1 enhancement to psionic-related skill checks)
+- If the Savant is destroyed: the mucus strands contain **4 crystallized memory fragments** worth 100gp each, and a **psionic focus crystal** worth 300gp (usable as a +1 enhancement to psionic-related skill checks)
 - If the Savant is queried peacefully: no physical loot, but the information gained is invaluable. The Savant's answers about the Failed Crown's failure mode, O.P.E.R.A.T.I.V.E.'s access, and Yorham's potential cure are worth more than gold
 
 **DM Notes:**
@@ -739,16 +739,16 @@ See Scene 5.
 
 | Source | Value | Notes |
 |---|---|---|
-| Room 2: Yorham's journals | 150 gp (50 gp x3) | Requires buyer; Arcane Brotherhood pays triple |
-| Room 2: Scroll of comprehend languages | 25 gp | Given freely if cooperative+ |
-| Room 3: Memory orbs (up to 4 per PC) | 100-200 gp each | Lose psionic charge after 30 days (then 10 gp each) |
-| Room 3: Gold-flecked rare orb | 500 gp | Search DC 20, or Yorham retrieves if ally |
-| Room 5: Ooze contents (3 orbs + ring) | 525 gp (150x3 + 75) | Requires killing ooze or reaching inside |
-| Room 7: Classified memory orbs (2-3) | 200-400 gp each | Dangerous knowledge premium |
-| Room 7: O.P.E.R.A.T.I.V.E. orb | 1,000 gp | Only O.P.E.R.A.T.I.V.E. would buy; carrying it is carrying evidence |
-| Room 7: Parasite thought-fragments (x4) | 100 gp (25 gp x4) | Material components |
-| Room 8: Savant loot (if destroyed) | 700 gp (400 + 300) | Morally costly |
-| **Estimated dungeon total** | **835-935 gp** | **Before Scene 7 contract bonus (550 gp)** |
+| Room 2: Yorham's journals | 150gp (50gp x3) | Requires buyer; Arcane Brotherhood pays triple |
+| Room 2: Scroll of comprehend languages | 25gp | Given freely if cooperative+ |
+| Room 3: Memory orbs (up to 4 per PC) | 100-200gp each | Lose psionic charge after 30 days (then 10gp each) |
+| Room 3: Gold-flecked rare orb | 500gp | Search DC 20, or Yorham retrieves if ally |
+| Room 5: Ooze contents (3 orbs + ring) | 525gp (150x3 + 75) | Requires killing ooze or reaching inside |
+| Room 7: Classified memory orbs (2-3) | 200-400gp each | Dangerous knowledge premium |
+| Room 7: O.P.E.R.A.T.I.V.E. orb | 1,000gp | Only O.P.E.R.A.T.I.V.E. would buy; carrying it is carrying evidence |
+| Room 7: Parasite thought-fragments (x4) | 100gp (25gp x4) | Material components |
+| Room 8: Savant loot (if destroyed) | 700gp (400 + 300) | Morally costly |
+| **Estimated dungeon total** | **835-935gp** | **Before Scene 7 contract bonus (550gp)** |
 
 ---
 
@@ -985,12 +985,12 @@ If [[Snitch Ray]] finds the letter, the consequences are immediate and severe.
 
 | Reward | Value | Notes |
 |---|---|---|
-| Contract completion bonus | 550 gp (split among party) | [[Vizzok the Opulent]] pays premium for cosmic-tier artifacts |
-| Dungeon loot (Rooms 1-9) | 835-935 gp (see Scene 3 loot summary) | Memory orbs, classified orbs, ooze contents, parasite fragments, Savant loot (if destroyed) |
+| Contract completion bonus | 550gp (split among party) | [[Vizzok the Opulent]] pays premium for cosmic-tier artifacts |
+| Dungeon loot (Rooms 1-9) | 835-935gp (see Scene 3 loot summary) | Memory orbs, classified orbs, ooze contents, parasite fragments, Savant loot (if destroyed) |
 | [[Yorham Voss]]'s gratitude | 0 gp | If earned: a genius wizard at the bottom of the ocean who owes you. He can provide research, intelligence, and access to the aboleth archive's catalogue remotely |
 | Aboleth archive notoriety | 0 gp | The aboleths will never forget you. This is not a reward. It's a fact |
 
-**Total expected GP haul:** 1,385-1,485 gp (contract bonus + dungeon loot). The payouts are climbing. So is the danger. So is the cost — a PC who took the academic privilege deal lost a memory. Another carries visions of young [[Vizzok the Opulent|Veezy]] begging for time. The GP buys levels. The memories buy something else.
+**Total expected GP haul:** 1,385-1,485gp (contract bonus + dungeon loot). The payouts are climbing. So is the danger. So is the cost — a PC who took the academic privilege deal lost a memory. Another carries visions of young [[Vizzok the Opulent|Veezy]] begging for time. The GP buys levels. The memories buy something else.
 
 ### DM Notes
 - **[[Vizzok the Opulent|Veezy]] not touching the pearl is the debrief's key image.** He uses *mage hand*. He's afraid to touch it. The pearl shows the truth — and [[Vizzok the Opulent|Veezy]] has more truth to hide than anyone. The PCs should notice: their boss, who casually handles artifacts from demiliches and Solars, is afraid to make skin contact with a memory. What is he hiding?
@@ -1191,6 +1191,27 @@ If [[Snitch Ray]] finds the letter, the consequences are immediate and severe.
 - The Null Layer erases 1d4 prepared spells or spell slots (randomly selected) in addition to surface thoughts
 - The pearl's cascade includes a 4th vision: the PC sees their own death. Not a prophecy — a statistical projection. It's disturbingly specific and probably not accurate. Probably
 - **[[Agent Quill]]** is in the archive, disguised as a merfolk scholar browsing the Catalogue Stacks (Room 3). [[O.P.E.R.A.T.I.V.E.]] sent their own team to the vault — not for the pearl, but for intelligence on [[Vizzok the Opulent|Veezy]]'s activities. Quill has already passed through the dungeon's public-facing rooms without incident (the archive considers their access "acceptable surveillance"). Quill recognizes the PCs and makes contact either in Room 3 or during the escape: *"We keep running into each other. That's either coincidence or fate, and I don't believe in coincidence. We need to talk. Soon."*
+
+---
+
+## Appendix: Retailable Loot Reference
+
+*Consolidated table for Store Phase processing. All values are listed prices in [[Offledger]].*
+
+| Item | Listed Value | Source | Channel | Notes |
+|------|-------------|--------|---------|-------|
+| [[Yorham Voss\|Yorham]]'s journals (x3) | 50gp each (150gp total) | Room 2 | Bulk | Arcane Brotherhood pays triple |
+| Scroll of *comprehend languages* | 25gp | Room 2 (given freely if cooperative) | Bulk | Low value but free |
+| Memory orbs (up to 4 per PC) | 100-200gp each | Room 3 | Bulk | Lose psionic charge after 30 days (then 10gp each) |
+| Gold-flecked rare orb | 500gp | Room 3 (Search DC 20) | **Auction** | Highest single-item value in the dungeon |
+| Ooze contents (3 orbs + ring) | 525gp (150x3 + 75) | Room 5 | Bulk | Requires killing ooze or reaching inside |
+| Classified memory orbs (2-3) | 200-400gp each | Room 7 | **Auction** | Dangerous knowledge premium |
+| [[O.P.E.R.A.T.I.V.E.]] orb | 1,000gp | Room 7 | **Auction** | Only [[O.P.E.R.A.T.I.V.E.]] would buy; carrying it is carrying evidence |
+| Parasite thought-fragments (x4) | 25gp each (100gp total) | Room 7 | Bulk | Material components |
+| Savant loot (if destroyed) | 700gp (400 + 300) | Room 8 | Bulk | Morally costly |
+
+**Estimated dungeon total:** 835-935gp (before contract bonus)
+**Auction candidates:** Gold-flecked rare orb (500gp), classified orbs (200-400gp each), [[O.P.E.R.A.T.I.V.E.]] orb (1,000gp)
 
 ---
 

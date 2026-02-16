@@ -99,7 +99,7 @@ Longer beat.
   - **Identification papers** for each PC as employees of **Vellum & Vice, Interplanar Accounting Solutions** — a fictional auditing firm that [[Iris Major]] has seeded into three different municipal registries over the past month. Forgery DC 25 to detect
   - **An official audit notice** bearing the seal of the Lords' Alliance Finance Committee, requesting access to Waterdeep's magical debt records for "interplanar compliance review." The seal is real — [[Iris Major]] purchased it from a contact. The notice is forged. The Finance Committee doesn't actually have jurisdiction over Waterdeep's magical records, but nobody at the census will know that
   - **Business attire:** Tailored robes in the style of Waterdhavian civil servants. Conservative, boring, professional. No armor. No visible weapons. They look like accountants
-- **Equipment:** The lead-lined carrying case (for the ledger), 50 gp in assorted coins (for feeding the ledger to keep it quiet), a set of wax ear plugs (reduce the ledger's volume for the wearer, but also impose -4 to Listen checks), and a *hat of disguise* (single use, 1 hour duration) for emergencies
+- **Equipment:** The lead-lined carrying case (for the ledger), 50gp in assorted coins (for feeding the ledger to keep it quiet), a set of wax ear plugs (reduce the ledger's volume for the wearer, but also impose -4 to Listen checks), and a *hat of disguise* (single use, 1 hour duration) for emergencies
 - **Rules of engagement:** *"This is a populated civilian structure in a major city. Violence will result in the Waterdeep City Watch responding in force within 4 minutes. The Blackstaff can teleport reinforcements directly. If you are identified as thieves, the organization cannot intervene. Exercise restraint."*
 
 ### [[Vizzok the Opulent|Veezy]]'s Parting Words
@@ -116,7 +116,7 @@ He says "regulatory types" the way most people say "assassins."
 - This briefing should feel like a relief after three death-trap missions. [[Vizzok the Opulent|Veezy]]'s relaxed energy, the professional forgeries, the business attire — the PCs are going on a corporate espionage job, not a dungeon crawl. Let them enjoy the tonal shift
 - The credentials package is [[Iris Major]]'s best work yet. She's been seeding the fake firm for a MONTH. This tells the PCs (if they notice) that the heists are planned far in advance. [[Vizzok the Opulent|Veezy]]'s operation is organized
 - [[Vizzok the Opulent|Veezy]]'s warning about "regulatory types" is the first oblique reference to [[O.P.E.R.A.T.I.V.E.]] in the PCs' presence. He doesn't name them. He doesn't explain. But he's nervous — and [[Vizzok the Opulent|Veezy]] is never nervous about anything in the material world. This is new
-- The 50 gp in "ledger food" is both practical and a perfect campaign metaphor: the PCs are literally paying money to keep a debt-book quiet. They're buying silence from an institution of financial surveillance. This is [[Vizzok the Opulent|Veezy]]'s world in miniature
+- The 50gp in "ledger food" is both practical and a perfect campaign metaphor: the PCs are literally paying money to keep a debt-book quiet. They're buying silence from an institution of financial surveillance. This is [[Vizzok the Opulent|Veezy]]'s world in miniature
 
 ---
 
@@ -203,6 +203,21 @@ This is not a refusal — it's bureaucratic contempt. She hates unscheduled audi
 
 2. **Signing the visitor log** — the PCs must sign names. Their forged identities are "Kellan Voss," "Maren Duskwhisper," "Thero Blackquill," and "Listra Coinsworth" (or similar). If a PC signs their real name by accident (always fun at the table), it's in the official Tower records. This matters later if [[O.P.E.R.A.T.I.V.E.]] ever pulls the census logs
 	- **Make the PCs actually sign a physical piece of paper**. If they mess-up and struggle to remember their fake names or worse: sign their real names there will be consequences late.
+
+### Retailable Loot — Tower Trinkets
+
+*Pocketed during the census chaos. All items are on the 2nd floor unless noted. Sleight of Hand DCs reflect how closely each item is watched.*
+
+| Item | Listed Value | Acquisition | Notes |
+|------|-------------|-------------|-------|
+| Self-inking quill set (enchanted, never runs dry) | 150gp | Sleight of Hand DC 12, unattended desk | Reliable seller; every bureaucrat wants one |
+| Surplus spell components (bat guano, sulfur, pearl dust — bundled) | 75gp | Sleight of Hand DC 10, supply closet | Bulk-tier staple |
+| Census ledger page (blank, enchanted vellum that resists forgery) | 50gp/sheet (3 available) | Sleight of Hand DC 14, filing cabinet | Forgers and scribes pay premium |
+| Arcane seal stamp (Waterdhavian notary mark, official) | 200gp | Sleight of Hand DC 16, [[Scribe-Warden Helara Dunn\|Helara]]'s desk | **Auction candidate.** The right forger would pay 0+gp |
+| Scroll of *detect magic* (CL 3) | 25gp | No check — openly available in a scroll rack near the filing desks (census tools, not secured) | Low value but free money |
+| Scroll of *identify* (CL 3) | 150gp | Sleight of Hand DC 14, 2nd-floor records room | More carefully stored |
+| Miniature crystal ball (non-functional, decorative, Blackstaff Tower souvenir) | 30gp | No check — purchased from a vendor stall outside the Tower (legitimate) | Tourist trinket; surprisingly saleable |
+| Enchanted paperweight (holds documents flat even in wind, faint transmutation) | 80gp | Sleight of Hand DC 12, admin desk | **Auction candidate.** Minor but genuine enchantment; appealing to [[Offledger]]'s bureaucrats |
 
 **The key tension:** Helara has now seen their faces, heard their cover story, and put her name on their authorization. When they encounter her again at the 3rd-floor Vault, she'll remember them — and anything that doesn't match what they told her the first time will raise flags immediately.
 
@@ -330,17 +345,17 @@ She is also, privately, *terrified* of auditors.
 ### The Misunderstanding
 [[Archmage Thariel Moonbrace|Thariel]] sees the PCs' credentials. She sees the Lords' Alliance seal. She sees the carrying case. And she assumes — reasonably — that they are legitimate auditors conducting a legitimate review of the Tower's financial records.
 
-This is a problem for her. Because **[[Archmage Thariel Moonbrace|Thariel]] has been borrowing from [[The Black Ledger|the Black Ledger]]'s records** to cover up a personal financial indiscretion: she used Tower funds to purchase a rare spellbook at auction and hasn't paid the Tower back. The amount is 4,200 gp. It's not corruption — it's embarrassment. She fully intends to repay it. But if an audit reveals the discrepancy before she does, her political rivals on the city council will use it to undermine her authority.
+This is a problem for her. Because **[[Archmage Thariel Moonbrace|Thariel]] has been borrowing from [[The Black Ledger|the Black Ledger]]'s records** to cover up a personal financial indiscretion: she used Tower funds to purchase a rare spellbook at auction and hasn't paid the Tower back. The amount is 4,200gp. It's not corruption — it's embarrassment. She fully intends to repay it. But if an audit reveals the discrepancy before she does, her political rivals on the city council will use it to undermine her authority.
 
 > *"Auditors. Of course. During census week. The Alliance has impeccable timing."*
 
 She does not block the PCs. She does not demand the ledger back. Instead, she invites them into a 2nd-floor meeting room, offers them tea, and begins to *cooperate* — in the manner of someone who is cooperating very hard in order to control the narrative.
 
 ### The Conversation
-[[Archmage Thariel Moonbrace|Thariel]]'s goal: figure out what the auditors know, how deep the review goes, and whether they've noticed the 4,200 gp discrepancy. She's subtle, intelligent, and very good at asking questions that seem helpful but are actually probing.
+[[Archmage Thariel Moonbrace|Thariel]]'s goal: figure out what the auditors know, how deep the review goes, and whether they've noticed the 4,200gp discrepancy. She's subtle, intelligent, and very good at asking questions that seem helpful but are actually probing.
 
 **Her questions:**
-- "What's the scope of this review? Comprehensive, or targeted?" (Translation: have you seen the missing 4,200 gp?)
+- "What's the scope of this review? Comprehensive, or targeted?" (Translation: have you seen the missing 4,200gp?)
 - "Are you planning to file with the Waterdhavian Financial Authority, or is this internal to the Alliance?" (Translation: how public will this get?)
 - "Is there anything I can do to facilitate the process? The Tower's records are, of course, entirely in order." (Translation: PLEASE don't look too closely)
 
@@ -402,7 +417,7 @@ The PCs have a head start but the Tower is alerting the Watch. They have approxi
 **Escape options:**
 - **Blend into the census crowd:** The line of grumbling wizards outside the Tower is still there. The PCs can merge into the crowd and walk away at census-exit pace. Hide DC 14 (the crowd provides cover). The ledger must stay in the case — one announcement in this crowd would be catastrophic
 - **The alleys:** Waterdeep's back alleys are a maze. Knowledge (local) DC 14 or Survival DC 16 to navigate to the Dock Ward without hitting a Watch checkpoint. Takes 30 minutes
-- **Bribery:** The Watch is professional but Waterdeep is a port city. 50+ gp to a Watch corporal (Diplomacy DC 16 to find one open to it) buys passage through a checkpoint with no questions
+- **Bribery:** The Watch is professional but Waterdeep is a port city. 50+gp to a Watch corporal (Diplomacy DC 16 to find one open to it) buys passage through a checkpoint with no questions
 - **The hat of disguise:** One PC can use it to become a generic city guard, a clerk, or a wealthy merchant — walking through checkpoints with apparent authority. 1 hour duration. Best used on whoever is carrying the ledger
 
 **Complication (optional):** As the PCs move through the Dock Ward, the ledger — muffled but persistent — announces a debt that stops them cold:
@@ -457,7 +472,7 @@ He turns to [[EyeQ]], who is already hovering with the astrolabe-loupe.
 **If PCs ask what the ledger was about to say:**
 > *"It was about to say some boring administrative shit. The book's loud. You noticed. Don't read into it."*
 
-He's lying. He knows what the ledger was about to say. It was about to announce his **outstanding obligations** — which include the 49 gp he owes [[Grindle Gruk'tak]]. The ledger doesn't know about the [[The Device|Crown Infinite]], but it knows about the debt. And [[Vizzok the Opulent|Veezy]] cannot allow anyone — especially the PCs — to hear that he owes ANYONE anything.
+He's lying. He knows what the ledger was about to say. It was about to announce his **outstanding obligations** — which include the 49gp he owes [[Grindle Gruk'tak]]. The ledger doesn't know about the [[The Device|Crown Infinite]], but it knows about the debt. And [[Vizzok the Opulent|Veezy]] cannot allow anyone — especially the PCs — to hear that he owes ANYONE anything.
 
 **If PCs mention the ledger reading their debt to [[Vizzok the Opulent|Veezy]] aloud in the Tower:**
 [[Vizzok the Opulent|Veezy]]'s jaw tightens. The central eye narrows.
@@ -489,13 +504,13 @@ He does not explain. He will not explain. But [[Snitch Ray]] is now paying very 
 
 | Reward                                               | Value                      | Notes                                                                                 |
 | ---------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------- |
-| Contract completion bonus                            | 400 gp (split among party) | Best payout yet — [[Vizzok the Opulent]] values this one                              |
-| Tower trinkets (pocketed)                            | Variable                   | Anything lifted during the census                                                     |
+| Contract completion bonus                            | 400gp (split among party) | Best payout yet — [[Vizzok the Opulent]] values this one                              |
+| Tower trinkets (pocketed)                            | 150-760gp                 | Self-inking quills, spell components, enchanted vellum, scrolls, seal stamp, paperweight — see Retailable Loot (Tower Trinkets). Total depends on Sleight of Hand and risk tolerance |
 | [[Archmage Thariel Moonbrace]]'s goodwill            | 0gp                        | If earned: an archmage who owes a favor. Priceless                                    |
 | [[Auditor Pentival]]'s business card                 | 0gp                        | If kept (hidden from [[Vizzok the Opulent]]): a direct line to [[O.P.E.R.A.T.I.V.E.]] |
 | Blackmail leverage on [[Archmage Thariel Moonbrace]] | 0gp                        | If used: a compromised archmage. Dangerous to hold                                    |
 
-**Total expected GP haul:** 450-600 gp. The best ratio yet. [[Vizzok the Opulent|Veezy]] pays well for artifacts that directly serve the Crown's architecture.
+**Total expected GP haul:** 450-600gp. The best ratio yet. [[Vizzok the Opulent|Veezy]] pays well for artifacts that directly serve the Crown's architecture.
 
 ### DM Notes
 - **The ledger almost announcing [[Vizzok the Opulent|Veezy]]'s outstanding obligations is the adventure's most important moment.** [[Vizzok the Opulent|Veezy]] shut it down before it could finish. The PCs may or may not have caught it. But the ledger KNOWS [[Vizzok the Opulent|Veezy]] has a debt — a real, binding, unpaid obligation. This is the first concrete shadow of the IOU that will eventually destroy the [[The Device|Crown Infinite]]
@@ -539,7 +554,7 @@ He does not explain. He will not explain. But [[Snitch Ray]] is now paying very 
 - Half-elf wizard 16, Blackstaff of Waterdeep
 - Social encounter only. If combat occurs, she ends it instantly (*forcecage*, *teleport*, Tower defenses)
 - Key skills: Sense Motive +16, Diplomacy +14, Knowledge (arcana) +24
-- Personal vulnerability: 4,200 gp Tower funds discrepancy
+- Personal vulnerability: 4,200gp Tower funds discrepancy
 - If treated with respect, becomes a potential ally. If threatened, becomes a devastating enemy
 
 **[[Scribe-Warden Helara Dunn]]** — CR 4
@@ -590,6 +605,26 @@ He does not explain. He will not explain. But [[Snitch Ray]] is now paying very 
 - [[Archmage Thariel Moonbrace|Thariel]] is already on the 3rd floor when the PCs arrive — they encounter her immediately
 - A second [[O.P.E.R.A.T.I.V.E.]] agent (**[[Agent Quill]]**, changeling handler) is present at the census in disguise. She's watching the PCs specifically. If they're sloppy, she approaches them outside the Tower: *"We know you don't work for Vellum & Vice. We don't care about the ledger. We care about who sent you for it."*
 - **[[Whisper]] ([[The Gilt Edge]])** is also at the census — wearing a different face, carrying different forged credentials, pursuing the same target. The PCs may spot them (Spot DC 20 — [[Whisper]] is very good) or encounter them in the Vault reaching for the same book. This is NOT a combat encounter — [[Whisper]] won't fight in Blackstaff Tower. Instead, they whisper: *"[[Vizzok the Opulent|Veezy]] sent us both. May the best crew win."* Then they vanish into the crowd. This adds social tension (who gets to the ledger first?) without adding combat to an adventure that explicitly punishes violence. If the PCs get the ledger, [[Whisper]] reports back to [[The Gilt Edge|the Gilt Edge]] empty-handed — which [[Kess Darrowmere|Kess]] blames on [[Whisper]], creating internal tension in the rival crew
+
+---
+
+## Appendix: Retailable Loot Reference
+
+*Consolidated table for Store Phase processing. All values are listed prices in [[Offledger]].*
+
+| Item | Listed Value | Sleight of Hand DC | Channel | Notes |
+|------|-------------|-------------------|---------|-------|
+| Self-inking quill set | 150gp | DC 12 | Bulk | Unattended desk; reliable seller |
+| Surplus spell components (bundled) | 75gp | DC 10 | Bulk | Supply closet |
+| Census ledger page (per sheet, 3 avail.) | 50gp | DC 14 | Bulk | Enchanted vellum; forgers pay premium |
+| Arcane seal stamp (Waterdhavian notary) | 200gp | DC 16 | **Auction** | [[Scribe-Warden Helara Dunn\|Helara]]'s desk; forger would pay 0+gp |
+| Scroll of *detect magic* (CL 3) | 25gp | None (openly available) | Bulk | Census tool, not secured |
+| Scroll of *identify* (CL 3) | 150gp | DC 14 | Bulk | 2nd-floor records room |
+| Miniature crystal ball (decorative souvenir) | 30gp | None (legitimate purchase) | Bulk | Vendor stall outside Tower |
+| Enchanted paperweight (faint transmutation) | 80gp | DC 12 | **Auction** | Minor genuine enchantment |
+
+**Max potential Bulk pool:** ~660gp listed
+**Auction candidates:** Arcane seal stamp (200gp), enchanted paperweight (80gp)
 
 ---
 

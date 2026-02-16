@@ -642,13 +642,13 @@ This is the most dangerous thing [[EyeQ]] has ever said in front of the PCs. And
 
 | Reward                          | Value                      | Notes                                                                                                                                                                                   |
 | ------------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Contract completion bonus       | 700 gp (split among party) | Highest payout yet — Extreme-tier artifact                                                                                                                                              |
-| Dragon hoard scraps (pocketed)  | 200-400 gp                 | Whatever the PCs grabbed during the escape — gems, coins, a small enchanted item from a chamber                                                                                         |
-| [[Dracoshield Charms]] (unused) | 100 gp each                | Any unused charms can be sold. They're single-use anti-breath-weapon devices — collectors pay                                                                                           |
+| Contract completion bonus       | 700gp (split among party) | Highest payout yet — Extreme-tier artifact                                                                                                                                              |
+| Dragon hoard scraps (pocketed)  | 200-400gp                 | Whatever the PCs grabbed during the escape — gems, coins, a small enchanted item from a chamber                                                                                         |
+| [[Dracoshield Charms]] (unused) | 100gp each                | Any unused charms can be sold. They're single-use anti-breath-weapon devices — collectors pay                                                                                           |
 | [[EyeRate]]'s... respect?       | 0 gp                       | The attack dog bled for you. He won't say thank you. He won't acknowledge it happened. But he won't threaten you quite the same way again                                               |
 | [[EyeQ]]'s confession           | 0 gp                       | The architect of the [[The Crown Infinite]] just told you [[The Eyecons]] are expendable components. That information is either worthless or priceless depending on what you do with it |
 
-**Total expected GP haul:** 900-1200 gp. The payouts are climbing faster now. So is the cost. [[EyeRate]] lost an eyestalk. [[The Eyecons]] are revealed as Crown components. The egg screams, and nobody can make it stop. And [[Vizzok the Opulent|Veezy]] comforted a dragon egg like it was a child, which is either the saddest or the most terrifying thing the PCs have ever seen him do.
+**Total expected GP haul:** 00gp. The payouts are climbing faster now. So is the cost. [[EyeRate]] lost an eyestalk. [[The Eyecons]] are revealed as Crown components. The egg screams, and nobody can make it stop. And [[Vizzok the Opulent|Veezy]] comforted a dragon egg like it was a child, which is either the saddest or the most terrifying thing the PCs have ever seen him do.
 
 ### DM Notes
 - **[[Vizzok the Opulent|Veezy]] calling the egg "she" is the debrief's most important detail.** It humanizes him in a way the PCs might not be prepared for. This isn't the diamond-grilled mogul making a business acquisition. This is a person recognizing a kindred spirit. The egg failed. [[Vizzok the Opulent|Veezy]] failed (once, long ago, before the empire). He sees himself in the egg — and instead of grieving, he weaponizes the parallel. The egg's potential feeds the Crown. [[Vizzok the Opulent|Veezy]]'s grief feeds his ambition. Same energy, different expression
@@ -768,6 +768,22 @@ This is the most dangerous thing [[EyeQ]] has ever said in front of the PCs. And
 - During the escape, the aspects can briefly leave their chambers (up to 100 ft. beyond their borders), creating overlap zones where two aspects attack simultaneously
 - **Tiamat's Whisper:** At the moment the egg is taken, Tiamat speaks directly to the PC holding it. One sentence. In her voice — five voices, five elements, five types of fury: *"I will remember this. I will find you. And I will take from you something that was supposed to be."* This is not a bluff. This is a campaign-long threat. Tiamat is patient
 - **[[Agent Docket]]** is on the island. [[O.P.E.R.A.T.I.V.E.]] tracked the PCs to the Clutch's location (Quill's intelligence from Sigil is paying off). [[Agent Docket|Docket]] is not here to help — [[Agent Docket|Docket]] is here to observe and document. If the PCs notice [[Agent Docket|Docket]] (Spot DC 22), the construct is standing on the caldera rim, motionless, watching them emerge with the screaming egg. [[Agent Docket|Docket]] records everything. [[Agent Docket|Docket]] says nothing. [[Agent Docket|Docket]] files a report. *"Mission outcome: artifact successfully retrieved by subjects. Collateral damage: one Eyecon combatant, partial. Tactical assessment: subjects are increasingly effective. Risk assessment: elevated."*
+
+---
+
+## Appendix: Retailable Loot Reference
+
+*Consolidated table for Store Phase processing. All values are listed prices in [[Offledger]].*
+
+| Item | Listed Value | Source | Channel | Notes |
+|------|-------------|--------|---------|-------|
+| Dragon hoard scraps (gems, coins, small enchanted items) | 200-400gp | Pocketed during the escape through chambers | Bulk | Whatever the PCs grabbed while running — DM determines specifics |
+| [[Dracoshield Charms]] (unused) | 100gp each | Provided at briefing; unused charms are sellable | **Auction** | Single-use anti-breath-weapon devices; collectors and artificers pay well |
+| +1 flaming longspear | 0+gp (if obtained) | Salamander encounter — Diplomacy reward | **Auction** | Only available if PCs successfully negotiated with the scarred salamander |
+
+**Max potential Bulk pool:** 200-400gp (hoard scraps)
+**Auction candidates:** Unused Dracoshield Charms (100gp each), +1 flaming longspear (if obtained)
+**Note:** Loot is deliberately thin — this quest's payout comes primarily from the 700gp contract bonus. The hoard belongs to Tiamat; pocketing more than scraps during a panicked escape is impractical.
 
 ---
 

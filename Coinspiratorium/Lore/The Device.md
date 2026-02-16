@@ -55,7 +55,7 @@ All binding contracts — economic, arcane, divine, or martial — become litera
 **This is why the players are critical to its construction. Their debt is one of the primal cornerstones.**
 
 ### Law III: Gold = XP = Power = Identity
-Veezy wants to make the "gold is XP" rule **universal and permanent**, not just a Coinspiratorium gimmick.
+Veezy wants to make a "GP is XP" rule **universal and permanent**.
 
 If activated:
 - Leveling becomes an economic act across all worlds
@@ -205,9 +205,9 @@ Veezy's arrogance — his assumption that the PCs can never repay him — is the
 But they can't earn enough gold to pay it off conventionally. They need a loophole.
 
 ### The Loophole: [[Veezy's IOU]]
-Before Vizzok became "Lord Veezy," he borrowed **49 gp** from a goblin named [[Grindle Gruk'tak]] for:
-1. One flamboyant, sequined "Vision Cape" (37 gp)
-2. 10 demo copies of his first mixtape, *"Eyes on the Horizon"* (12 gp)
+Before Vizzok became "Lord Veezy," he borrowed **49gp** from a goblin named [[Grindle Gruk'tak]] for:
+1. One flamboyant, sequined "Vision Cape" (37gp)
+2. 10 demo copies of his first mixtape, *"Eyes on the Horizon"* (12gp)
 
 He never paid it back. The IOU still exists. And under the Crown Infinite's own metaphysical rules:
 

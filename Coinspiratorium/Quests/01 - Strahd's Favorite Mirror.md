@@ -133,14 +133,14 @@ The PCs must survive approximately **2-3 hours of mingling** without being expos
 
 **Active Threats:**
 
-| Threat         | Trigger                                 | Detection Method                                                | DC to Avoid                                                                                            |                                    |
-| -------------- | --------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------- |
-| Vampire guests | Close proximity (dancing, conversation) | Smell living blood, hear heartbeat                              | Bluff DC 15 to excuse flushed appearance; or stay at arm's length                                      |                                    |
-| Ghost guests   | Attempting to touch or be touched       | Hand passes through PC (or doesn't)                             | Reflex DC 12 to smoothly avoid contact                                                                 |                                    |
-| [[Rafail]]     | Strahd's chamberlain                    | Observing unfamiliar guests                                     | Sense Motive +14, trained observer                                                                     | Bluff DC 18 if directly questioned |
-| The wine       | Social pressure to drink                | It's blood — drinking it requires Fort DC 13 or PC visibly gags | Sleight of Hand DC 12 to fake drinking                                                                 |                                    |
-| Dancing        | Invitation to waltz                     | [[Barovia]]n waltzes are complex and specific                   | Perform (dance) DC 13 or Bluff DC 15 to gracefully decline                                             |                                    |
-| The mirrors    | Walls are lined with them               | Living PCs cast reflections; vampires don't                     | Spot DC 14 for nearby vampires to notice; PCs can avoid mirrors with Spot DC 12 to identify them first |                                    |
+| Threat         | Trigger                                 | Detection Method                                                | DC to Avoid                                                                                            |
+| -------------- | --------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Vampire guests | Close proximity (dancing, conversation) | Smell living blood, hear heartbeat                              | Bluff DC 15 to excuse flushed appearance; or stay at arm's length                                      |
+| Ghost guests   | Attempting to touch or be touched       | Hand passes through PC (or doesn't)                             | Reflex DC 12 to smoothly avoid contact                                                                 |
+| [[Rafail]]     | Strahd's chamberlain                    | Observing unfamiliar guests                                     | Sense Motive +14, trained observer; Bluff DC 18 if directly questioned                                 |
+| The wine       | Social pressure to drink                | It's blood — drinking it requires Fort DC 13 or PC visibly gags | Sleight of Hand DC 12 to fake drinking                                                                 |
+| Dancing        | Invitation to waltz                     | [[Barovia]]n waltzes are complex and specific                   | Perform (dance) DC 13 or Bluff DC 15 to gracefully decline                                             |
+| The mirrors    | Walls are lined with them               | Living PCs cast reflections; vampires don't                     | Spot DC 14 for nearby vampires to notice; PCs can avoid mirrors with Spot DC 12 to identify them first |
 
 ### Key Ball NPCs
 
@@ -157,6 +157,8 @@ A portly, translucent ghost in outdated finery. Friendly, chatty, and a terrible
 - **Purpose:** Comic relief and information. He'll happily describe the castle layout if asked ("*The west wing? Oh, that's [[Strahd von Zarovich|Strahd]]'s private quarters. No one goes up there during parties — well, almost no one*"). He's a goldmine of gossip, most of it inaccurate
 - **If pressed on how he "remembers" them:** He gets confused and changes the subject. He genuinely doesn't know where the memory came from. This is the mirror bleeding its temporal properties into the castle — a subtle foreshadowing of its power
 - **Personality:** Jovial, oblivious, harmless
+- He will give hints if asked:
+	- About the West Wing: "*Of course, one always greets the Lord's portrait — it's only polite*"
  
 **[[Rafail]]** — [[Strahd von Zarovich|Strahd]]'s Chamberlain
 A tall, silent bald man with dead eyes. He moves through the ball like a shark through calm water — greeting guests, managing servants, and quietly cataloguing everything he sees. He is the most dangerous person in the room who isn't [[Strahd von Zarovich|Strahd]].
@@ -196,7 +198,7 @@ A long corridor of oil paintings depicting [[Strahd von Zarovich|Strahd]] across
 - **Hazard:** The final portrait — a life-sized painting of [[Strahd von Zarovich|Strahd]] in full armor — has *magic mouth* cast on it. If a creature passes without saying "Good evening, my lord," it announces loudly: *"INTRUDERS IN THE WEST WING."*
 - **Detection:** Spot DC 16 or Knowledge (arcana) DC 14 to notice faint abjuration magic on the painting's frame before triggering it
 - **Bypass:** Saying the passphrase (overheard at the ball if they talked to Mordinev, who mentions it offhandedly: "Of course, one always greets the Lord's portrait — it's only polite"). Alternatively, *dispel magic* (CL check DC 14), *silence* on the painting, or simply covering it with a cloak
-- **If triggered:** The alert is audible on this floor only. Two **animated armors** (see 4B) activate and await the PCs in 4B. Rafail is also aware and may arrive soon.
+- **If triggered:** The alert is audible on this floor only. Two **animated armors** (see 4B) activate and await the PCs in 4B. Rafail is also aware.
 
 ### Encounter: Portrait Shadows
 If the magic mouth alarm was triggered, OR if the PCs take longer than 5 minutes in the Portrait Gallery, the ambient dark magic of the west wing responds. Two of the portraits — a painting of [[Strahd von Zarovich|Strahd]] standing over a battlefield, and one of him alone in an empty ballroom — go dark. The canvases become voids of pure shadow, one of the **Shadows** peels free and glides silently toward the nearest living creature. The second shadow will only attack if the PCs linger or make a truly heroic amount of noise.
@@ -213,6 +215,14 @@ If the magic mouth alarm was triggered, OR if the PCs take longer than 5 minutes
 
 **If the alarm was NOT triggered:** The shadows remain dormant. A DC 16 Spot check notices the two dark paintings ("Those canvases are... emptier than the others"), and a DC 14 Knowledge (religion) check identifies them as shadow-haunted. PCs who avoid lingering pass through without incident.
 
+| Loot:                       |           |                                                                 |
+| --------------------------- | --------- | --------------------------------------------------------------- |
+| **Item**                    | **Value** | **Location**                                                    |
+| Coins                       | 120gp     | Found in a small pack on the ground from a previous trespasser. |
+| Tarnished Silver Brooch     | 150gp     | Found in a small pack on the ground from a previous trespasser. |
+| Potion of Cure Light Wounds | 50gp      | Found in a small pack on the ground from a previous trespasser. |
+| Masterwork Silver Dagger    | 320gp     | Found in a small pack on the ground from a previous trespasser. |
+
 **DM Notes:**
 - This encounter punishes carelessness (triggering the alarm) and rewards caution. PCs who said the passphrase and moved quickly skip it entirely
 - Strength damage is TERRIFYING for level 2-3 PCs — a fighter losing 4 Str mid-heist changes the math on carrying the 40-lb mirror. This is intentional. Resource pressure
@@ -226,12 +236,14 @@ A wide chamber displaying [[Strahd von Zarovich|Strahd]]'s collected curios — 
 - **If active:** They attack with halberds and pursue intruders through the west wing. They do not leave the west wing and cannot descend to the ballroom
 - **Loot opportunity:** A display case holds several curios:
 
-| Item                                                   | Value                                          | Risk                                                                                                                                |
-| ------------------------------------------------------ | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Silver-inlaid dueling sword                            | 120 gp                                         | Touching activates the armors                                                                                                       |
-| Ruby-set wolf brooch                                   | 80 gp                                          | Can be lifted with Sleight of Hand DC 14 without triggering the armors (it's resting loosely on velvet)                             |
-| Crystal decanter of [[Barovia]]n red (ancient vintage) | 50 gp (or priceless to [[Vizzok the Opulent]]) | Stoppered and sealed; easy to grab                                                                                                  |
-| [[Strahd]]'s personal journal (volume 47 of ~300)      | 30 gp to a collector                           | Mostly complaints about the help and wine reviews. One entry mentions "the mirror's distressing visions of late" — DM foreshadowing |
+| Item                                                   | Value                                         | Notes                                                                                                                               |
+| ------------------------------------------------------ | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Amber Pendant                                          | 100gp                                         | A single drop of liquid is suspended in the amber; it's red and appears to be blood. Best not to think too much about it.           |
+| Ruby-set wolf brooch                                   | 80gp                                          | The rubies are the eyes of the wolf and are of impeccable quality                                                                   |
+| Crystal decanter of [[Barovia]]n red (ancient vintage) | 50gp (or priceless to [[Vizzok the Opulent]]) | Stoppered and sealed; easy to grab                                                                                                  |
+| [[Strahd]]'s personal journal (volume 47 of ~300)      | 25gp to a collector                           | Mostly complaints about the help and wine reviews. One entry mentions "the mirror's distressing visions of late" — DM foreshadowing |
+| Masterwork longsword                                   | 315gp                                         | Very unique-looking and recognizably Strahd's                                                                                       |
+
 
 ### 4C: The Sealed Door
 The entrance to [[Strahd von Zarovich|Strahd]]'s private chambers is a heavy oak door reinforced with iron bands and three distinct locks.
@@ -295,6 +307,13 @@ When the mirror is removed from its mounted position it begins projecting the 24
 	- Immunity to mind-affecting spells, illusions, and psychology-based effects (including bluff/diplomacy/etc); they are nearly mindless
 	- The reflection encounter will last a total of 12 rounds (or less if the PCs destroy all the shadows); split these 12 rounds evenly between the total number of shadows: 1 for each PC who looked in the mirror.
 
+| **Loot:**              |           |                                       |
+| ---------------------- | --------- | ------------------------------------- |
+| **Item**               | **Value** | **Location**                          |
+| Ruby                   | 250gp     | inset from the mirror's crown molding |
+| Matched garnet earring | 50gp      | in nearby vanity                      |
+| Potion of Invisibility | 300gp     | in vanity drawer                      |
+
 ### DM Notes
 - The mirror vignettes are a chance for individual character moments. Tailor them to your PCs' backstories and secrets. The mirror doesn't weaponize information — it just reveals it, neutrally. Let the players decide what to do with what they've seen
 - The "[[Strahd von Zarovich|Strahd]] is watching" moment should land like a cold hand on the back of the neck. Don't oversell it. Just describe it and move on. The players will provide the panic
@@ -355,7 +374,7 @@ They put the mirror back and leave. No consequences from [[Strahd von Zarovich|S
 **Option B: Take the mirror. But report back.**
 [[Strahd von Zarovich|Strahd]] lets them leave with the mirror. In exchange:
 - The PCs agree to serve as [[Strahd von Zarovich|Strahd]]'s informants regarding [[Vizzok the Opulent|Veezy]]'s activities — specifically, what the artifacts are being used for
-- [[Strahd von Zarovich|Strahd]] provides each PC with a **[[Barovia]]n signet ring** (worth 25 gp; functions as a *sending stone* — once per week, the wearer can whisper a 25-word message to [[Strahd von Zarovich|Strahd]], and he can reply)
+- [[Strahd von Zarovich|Strahd]] provides each PC with a **[[Barovia]]n signet ring** (worth 25gp; functions as a *sending stone* — once per week, the wearer can whisper a 25-word message to [[Strahd von Zarovich|Strahd]], and he can reply)
 - He does not demand loyalty. He does not demand exclusivity. He simply wants *information*. "*Consider me a concerned neighbor.*"
 - **The catch:** If [[Vizzok the Opulent|Veezy]] — or [[Snitch Ray]] — ever discovers these rings, the PCs are in catastrophic trouble. Possessing a communication link to an outside power violates at least three articles of the [[Terms of Incoinspiration]]
 
@@ -453,19 +472,38 @@ If they brought the [[Barovia]]n red (from the Trophy Hall or the ball), [[Vizzo
 
 He says this like it's nothing. It's not nothing. This is the first mention of [[The Gilt Edge]] — though the PCs won't know that name yet. [[Vizzok the Opulent|Veezy]] wants them to know they're replaceable. Competition motivates. If the PCs performed poorly, he omits this — no need to threaten someone who's already scared.
 
-### Payout
+### Experience Gain
 
-| Reward                                 | Value                                                 | Notes                                            |
-| -------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
-| Contract completion bonus              | 200 gp (split among party)                            | Paid by [[Iris Major]], recorded in the ledger   |
-| Ball loot (pickpocketed items)         | Variable                                              | Whatever they grabbed                            |
-| Trophy Hall items                      | See Scene 4B table                                    | If they risked grabbing anything                 |
-| [[Strahd von Zarovich]]'s signet rings | 25 gp each (but don't sell them)                      | Only if they took [[Strahd von Zarovich]]'s deal |
-| [[Barovia]]n red vintage               | 50 gp trade value (or [[Vizzok the Opulent]]'s favor) | Worth more as goodwill than gold                 |
-| Countess Lysara's "favor"              | 0 gp                                                  | She'll call it in. Eventually                    |
+| Encounter                   | Optional | CR         | Expected XP Gain (assuming PC levels 1-3) |
+| --------------------------- | -------- | ---------- | ----------------------------------------- |
+| Ballroom (social)           | No       | CR3 (x1)   | 900                                       |
+| Animated Armor              | Yes      | CR1 (x2)   | 600                                       |
+| Portrait Shadows            | No       | CR3 (x2)   | 1,800                                     |
+| Lock Puzzle                 | Yes      | CR2 (x1)   | 600                                       |
+| Dread Reflections           | Yes      | CR2 (x0-4) | 0 - 2,400                                 |
+| Strahd Negotiation (social) | No       | CR2 (x1)   | 300                                       |
+| Wight Sentinels             | Yes      | CR3 (x2)   | 1,800                                     |
 
-**Total expected GP haul:** 250-500 gp depending on how thorough and bold the PCs were. Enough to be meaningful in the [[GP is XP]] economy but not enough to solve their problems.
+Minimum XP Expectation: 900XP/player
+Maximum XP Possibility: 2,100XP/player
 
+### Treasure Gain
+
+| **Item**                                               | **Value**                                     |
+| ------------------------------------------------------ | --------------------------------------------- |
+| Coins                                                  | 120gp                                         |
+| Tarnished Silver Brooch                                | 150gp                                         |
+| Potion of Cure Light Wounds                            | 50gp                                          |
+| Masterwork Silver Dagger                               | 320gp                                         |
+| Amber Pendant                                          | 100gp                                         |
+| Ruby-set wolf brooch                                   | 80gp                                          |
+| Crystal decanter of [[Barovia]]n red (ancient vintage) | 50gp (or priceless to [[Vizzok the Opulent]]) |
+| [[Strahd]]'s personal journal (volume 47 of ~300)      | 25gp to a collector                           |
+| Masterwork longsword                                   | 315gp                                         |
+| Ruby                                                   | 250gp                                         |
+| Matched garnet earring                                 | 50gp                                          |
+| Potion of Invisibility                                 | 300gp                                         |
+| **Total:**                                             | **1,810gp**                                   |
 ### DM Notes
 - The debrief should be a relief — the tension breaks, the comedy returns, the PCs are home safe (for now)
 - [[Vizzok the Opulent|Veezy]]'s reaction to the [[Strahd von Zarovich|Strahd]] "visions" comment is the first hairline crack in his persona. Don't dwell on it. Just let it land and move on. The players will remember it later
@@ -509,6 +547,17 @@ This adventure plants seeds for the broader campaign. Track which ones your PCs 
 - **Trigger:** Magic mouth alarm, or PCs linger 5+ minutes in the Portrait Gallery
 - **Optional encounter** — PCs who avoid the alarm and move efficiently never face these. Reward caution
 
+**Dread Reflections (x0-4)** — CR 2 each
+- These reflections match the exact stats and abilities of the PCs with the following changes:
+	- Undead traits, can be turned
+	- Immunity to mind-affecting spells, illusions, and psychology-based effects (including bluff/diplomacy/etc); they are nearly mindless
+	- The reflection encounter will last a total of 9 rounds (or less if the PCs destroy all the shadows); split these 12 rounds evenly between the total number of shadows: 1 for each PC who looked in the mirror.
+
+**Wight Sentinels (x2)** — MM p.255, CR 3 each
+- Gate guards, non-hostile to invited guests on arrival; hostile during extraction (see Scene 7)
+- HP 26 | AC 15 | Slam +3 melee (1d4+1 plus energy drain)
+- **Energy Drain (Su):** One negative level per hit, DC 14 Fort to remove after 24 hours
+- Spot +8 (scent-based detection of living creatures)
 ### Non-Combat NPCs (Do Not Fight These)
 
 **[[Strahd von Zarovich]]** — CR 15+
@@ -530,28 +579,6 @@ This adventure plants seeds for the broader campaign. Track which ones your PCs 
 - Ghost (harmless), incorporeal, chatty
 - Knowledge (nobility) +14, Knowledge (history) +10
 - Drops key information if engaged in conversation
-
-**Wight Sentinels (x2)** — MM p.255, CR 3 each
-- Gate guards, non-hostile to invited guests on arrival; hostile during extraction (see Scene 7)
-- HP 26 | AC 15 | Slam +3 melee (1d4+1 plus energy drain)
-- **Energy Drain (Su):** One negative level per hit, DC 14 Fort to remove after 24 hours
-- Spot +8 (scent-based detection of living creatures)
-
----
-
-## Appendix: Scaling Notes
-
-**For weaker parties (level 1-2, 3 players):**
-- Reduce animated armors to 1
-- Lower social DCs by 2 across the board
-- [[Strahd von Zarovich|Strahd]] arrives later (PCs have more time after taking the mirror)
-- Mordinev volunteers information more freely
-
-**For stronger parties (level 3-4, 5+ players):**
-- Add a **wraith** (CR 5) as a mirror chamber guardian that emerges from [[The Vanishing Mirror|the Vanishing Mirror]] itself when it's disturbed — the wraith is a temporal echo of someone who died looking into the mirror
-- Raise social DCs by 2
-- [[Rafail]] is more aggressive in his investigation — he confronts the PCs directly at the ball rather than merely observing
-- [[Strahd von Zarovich|Strahd]]'s deal has an additional condition: he wants a specific item from [[The Coinspiratorium (Location)|the Coinspiratorium]]'s next shipment, forcing the PCs to steal from [[Vizzok the Opulent|Veezy]]
 
 ---
 

@@ -171,6 +171,29 @@ Long tables are laden with food — simple, beautiful, and seemingly infinite. T
 | The Feast of Grace    | Communal dining beneath the open sky                                     | Social mingling, information gathering                |
 | The Inner Sanctum     | Private meditation chambers for celestial VIPs                           | Where the halo is kept before the purification ritual |
 
+### Retailable Loot — Festival Gifts
+
+*Given freely to pilgrims during the festival. Taking them is technically not theft, which makes it worse.*
+
+| Item | Listed Value | Acquisition | Notes |
+|------|-------------|-------------|-------|
+| Crystal prayer beads (celestial-crafted, faintly radiant) | 60gp | Given by [[Valanthir]] to each PC | One set per PC; genuine sacred craftsmanship |
+| Vial of Purification Pool water (enhanced holy water — functions as holy water + cures 1 point ability damage, single use) | 100gp | Available at the pool during the ritual | Alchemists and clerics pay well |
+| Living-light vine cutting (glows perpetually, propagates in any soil) | 40gp | Taken from the Solarium garden | Decorative but genuinely rare on the material plane |
+| Festival bread and celestial wine (preserved, stays fresh 30 days) | 25gp/ration (4 available) | Served at the Feast of Grace | [[Offledger]]'s clientele pay premium for food that "tastes like heaven" |
+| Silver dawn medallion (festival commemorative, +1 to a single Turn Undead attempt, single use) | 150gp | Presented during the Welcome ceremony | **Auction candidate.** Sacred single-use items attract niche collectors in [[Offledger]] |
+
+### Retailable Loot — Stolen
+
+*Requires active theft during or after the festival. Sleight of Hand DCs provided.*
+
+| Item | Listed Value | Acquisition | Notes |
+|------|-------------|-------------|-------|
+| Archon feather (shed during blessing ceremony, radiates faint good aura) | 200gp | Sleight of Hand DC 14, available during the Welcome | **Auction candidate.** Divine material components are rare in [[Offledger]]'s market |
+| Celestial incense (unused portion of the PCs' own supply — [[Iris Major]] won't audit exact quantities) | 30gp/stick (up to 3) | No check — it was already theirs, technically | The pettiest possible theft |
+
+> **DM note:** Every item the PCs take from Celestia should be narrated. The festival gave them these things freely, with love. Selling them in [[Offledger]] for profit is a small, persistent cruelty. The Store Phase turns grace into gold.
+
 ### The Welcome (Oh No)
 Upon entering, the PCs are immediately noticed. Not because they're suspicious — because they're *pilgrims*. The festival has an official welcome protocol for first-time visitors, especially redeemed souls. A trumpet archon named **[[Valanthir]]** — a tall, silver-armored celestial with a face like a kind teacher — approaches them with genuine warmth:
 
@@ -537,12 +560,12 @@ He doesn't punish them immediately. That's worse. He leaves. [[Iris Major]] info
 
 | Reward                                  | Value                            | Notes                                                                             |
 | --------------------------------------- | -------------------------------- | --------------------------------------------------------------------------------- |
-| Contract completion bonus               | 500 gp (split among party)       | Highest payout yet — [[Vizzok the Opulent]]'s investment in divine infrastructure |
+| Contract completion bonus               | 500gp (split among party)       | Highest payout yet — [[Vizzok the Opulent]]'s investment in divine infrastructure |
 | Celestial blessings (from the festival) | +1 sacred bonus to saves, 7 days | Genuine. Celestia blessed them. Even now                                          |
-| Pilgrim gifts                           | 50-100 gp in sacred trinkets     | Prayer beads, crystal vials of holy water, a brass sundial that always shows dawn |
+| Pilgrim gifts and festival loot         | 150-690gp                       | Crystal prayer beads, purification water, vine cuttings, celestial rations, dawn medallion, archon feather, incense — see Retailable Loot (Festival Gifts & Stolen). Every item sold is a small sin |
 | Guilt                                   | Priceless                        | The look on [[Valanthir]]'s face, forever                                         |
 
-**Total expected GP haul:** 550-750 gp. Enough to feel the leveling curve. Not enough to feel good about how they got it.
+**Total expected GP haul:** 550-750gp. Enough to feel the leveling curve. Not enough to feel good about how they got it.
 
 ### Payout (Failure Path)
 
@@ -550,7 +573,7 @@ He doesn't punish them immediately. That's worse. He leaves. [[Iris Major]] info
 | ---------------------------- | --------------------------------- | ------------------------------------- |
 | Contract completion bonus    | 0 gp                              | Mission failed                        |
 | Celestial blessings          | +1 sacred bonus to saves, 30 days | Extended. Celestia rewards the choice |
-| Doubled tribute next payment | -200 gp                           | [[Vizzok the Opulent]]'s punishment   |
+| Doubled tribute next payment | -200gp                           | [[Vizzok the Opulent]]'s punishment   |
 | Self-respect                 | Priceless                         | Rare in this campaign                 |
 
 ### DM Notes
@@ -657,6 +680,25 @@ He doesn't punish them immediately. That's worse. He leaves. [[Iris Major]] info
 **If the PCs returned the halo (failure consequence quest):**
 - [[Vizzok the Opulent|Veezy]] sends [[EyeRate]] to Mount Celestia three weeks later. [[EyeRate]] does not attend festivals. [[EyeRate]] does not wear pilgrim robes. [[EyeRate]] takes the halo by force. The PCs hear about it secondhand — [[Valanthir]] was injured defending the Solarium. [[Seraphiel]] surrendered the halo to prevent further violence. The PCs' mercy led to a worse outcome
 - Alternatively: [[Vizzok the Opulent|Veezy]] gives the PCs ONE more chance, with [[EyeRate]] as "motivation." The PCs must return to Celestia and complete the theft, with [[EyeRate]] hovering behind them radiating menace. This version preserves player agency but adds the horror of bringing a volatile enforcer to the gentlest place in existence
+
+---
+
+## Appendix: Retailable Loot Reference
+
+*Consolidated table for Store Phase processing. All values are listed prices in [[Offledger]]. Every item sold is grace turned to gold.*
+
+| Item | Listed Value | Acquisition | Channel | Notes |
+|------|-------------|-------------|---------|-------|
+| Crystal prayer beads (per PC) | 60gp | Given by [[Valanthir]] | Bulk | Celestial-crafted; one set per PC |
+| Vial of Purification Pool water | 100gp | Available at pool during ritual | Bulk | Enhanced holy water + cures 1 ability damage |
+| Living-light vine cutting | 40gp | Solarium garden | Bulk | Perpetual glow; rare on material plane |
+| Festival bread & celestial wine (per ration, 4 avail.) | 25gp | Feast of Grace | Bulk | Stays fresh 30 days; "tastes like heaven" |
+| Silver dawn medallion (+1 Turn Undead, single use) | 150gp | Welcome ceremony | **Auction** | Sacred single-use; niche collectors |
+| Archon feather (faint good aura) | 200gp | Sleight of Hand DC 14 during the Welcome | **Auction** | Divine material component; rare in [[Offledger]] |
+| Celestial incense (per stick, up to 3) | 30gp | No check — already theirs, technically | Bulk | The pettiest possible theft |
+
+**Max potential Bulk pool:** ~590gp listed (assuming 4 PCs' prayer beads + all rations + all incense)
+**Auction candidates:** Silver dawn medallion (150gp), archon feather (200gp)
 
 ---
 

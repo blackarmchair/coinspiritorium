@@ -27,7 +27,6 @@ A **D&D v3.5** campaign in which the players are indentured adventurer-retailers
 
 ### Reference
 - [[Terms of Incoinspiration]] — The founding contract
-- [[GP is XP]] — Leveling rules
 - [[Debt and Economy]] — How money works (against you)
 - [[The Device|The Crown Infinite]] — What Veezy's really building (DM only)
 - [[Veezy's IOU]] — The endgame MacGuffin (DM only)

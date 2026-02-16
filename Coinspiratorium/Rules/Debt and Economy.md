@@ -43,7 +43,6 @@ Veezy's demands are **impulsive and inconsistent**. This is a feature, not a bug
 - **Found Treasure** — not everything is on the books (but Veezy has eyes... many eyes, and [[Snitch Ray]] is always watching)
 
 ## Expenses
-- **Leveling Up** — [[GP is XP]] (gold spent here is gone forever)
 - **Tribute to Veezy** — regular payments, non-negotiable (amount variable)
 - **Shop Overhead** — rent, restocking, repairs, security
 - **Personal Gear** — sometimes you need to buy a sword before you can loot a dungeon
@@ -114,7 +113,6 @@ What the PCs don't know: every transaction through [[The Coinspiratorium (Locati
 - How does [[Major Look]] react when the shop looks bad?
 
 ## Related
-- [[GP is XP]]
 - [[Terms of Incoinspiration]] — Articles IV and V
 - [[The Coinspiratorium (Location)]]
 - [[Veezy's IOU]] — the ultimate loophole

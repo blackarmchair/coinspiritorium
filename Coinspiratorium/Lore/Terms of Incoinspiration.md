@@ -24,19 +24,7 @@ To this end, the Establishment offers magical items, obscure curiosities, minor 
 
 ---
 
-## Article II: The Gold-Standard Leveling Clause
-You, the Adventurer, shall accrue no experience points in the traditional, outmoded, sword-and-story sense.
-
-Instead, **GP is XP.**
-- Advancement requires investment.
-- You must spend gold solely and explicitly to increase in level. Gold spent for leveling purposes does not count toward any other transaction, upgrade, or service.
-- Coins must jingle in the hands of fate, not fall into the coffers of convenience.
-
-*See: [[GP is XP]] for the full leveling table.*
-
----
-
-## Article III: Liability & Curse Limitations
+## Article II: Liability & Curse Limitations
 1. The Establishment is not responsible for:
     - Explosive wand misfires
     - Sentient merchandise
@@ -48,7 +36,7 @@ Instead, **GP is XP.**
 
 ---
 
-## Article IV: Debt Acknowledgement
+## Article III: Debt Acknowledgement
 You owe money. A lot of money.
 
 Specifically, you're beholden to a beholder: **[[Vizzok the Opulent]]** (AKA Lord Veezy), an aberration of considerable wealth, significant influence, and wholly unreasonable expectations.
@@ -70,7 +58,7 @@ Failure to comply may result in:
 
 ---
 
-## Article V: On Dungeoneering & Inventory
+## Article IV: On Dungeoneering & Inventory
 Your adventures into the unknown are not heroic. They are contractual.
 
 Each dungeon you enter is a mob contract assigned (or "encouraged") by Veezy and his agents. You are not freelancers — you are on the payroll.
@@ -85,7 +73,7 @@ Dungeon outings are:
 
 ---
 
-## Article VI: The Premise of This Fool's Errand
+## Article V: The Premise of This Fool's Errand
 You control The Coinspiratorium.
 - You must run, stock, defend, and profit from the store.
 - You are adventurers, debtors, involuntary agents of a gold-obsessed psychopath, and wholly unlicensed and unregulated retailers.
@@ -95,7 +83,7 @@ You control The Coinspiratorium.
 
 ---
 
-## Article VII: Final Clauses
+## Article VI: Final Clauses
 - Glory is temporary. Gold is glorious.
 - Heroism is negotiable.
 - All contracts are magically binding.

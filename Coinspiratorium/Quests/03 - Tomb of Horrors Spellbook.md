@@ -187,7 +187,7 @@ The inscription stops mid-sentence. Below it, in smaller, angrier handwriting:
 The door is unlocked. Push it open (no check required).
 
 - Behind the door: a 20-foot chamber with three pedestals. Two are empty. One holds a **small stone sphere** covered in dust. It radiates faint necromancy
-- The sphere is one of [[Acererak]]'s prototype phylacteries. It doesn't work — the soul-binding matrix is incomplete. But it's still a necromantic artifact worth **150 gp** to the right buyer. Handling it requires a Will save (DC 12) or the PC hears a faint whisper of [[Acererak]]'s voice saying *"Put that back"*
+- The sphere is one of [[Acererak]]'s prototype phylacteries. It doesn't work — the soul-binding matrix is incomplete. But it's still a necromantic artifact worth **150gp** to the right buyer. Handling it requires a Will save (DC 12) or the PC hears a faint whisper of [[Acererak]]'s voice saying *"Put that back"*
 - **The real threat in this room:** The floor in front of the third pedestal is a **pressure plate** (Search DC 18) that triggers a **scything blade** from the wall (attack +12, 2d6+4 slashing). This trap works perfectly. It was the one thing in this room [[Acererak]] finished
 
 ### Room 4: The False Sphere
@@ -302,11 +302,11 @@ PCs who read this won't fully understand it yet. But the phrase "contractual per
 
 | Item | Value | Notes |
 |------|-------|-------|
-| Scroll of *vampiric touch* (CL 5) | 375 gp | Intact, usable |
-| Scroll of *gentle repose* (CL 3) | 150 gp | Slightly singed |
-| Failed phylactery (crystal orb) | 200 gp (collector's item) | Non-functional, radiates faint necromancy, whispers when held |
-| [[Acererak]]'s sketches of trap designs | 50 gp (to an engineer or dungeon-builder) | Includes three traps "too cruel even for me" — genuinely horrifying ideas |
-| A letter from Vecna, unsent reply | 75 gp (to a historian) | Vecna wrote asking for collaboration. [[Acererak]]'s draft reply is six pages of increasingly creative insults. He never sent it. Possibly his greatest regret |
+| Scroll of *vampiric touch* (CL 5) | 375gp | Intact, usable |
+| Scroll of *gentle repose* (CL 3) | 150gp | Slightly singed |
+| Failed phylactery (crystal orb) | 200gp (collector's item) | Non-functional, radiates faint necromancy, whispers when held |
+| [[Acererak]]'s sketches of trap designs | 50gp (to an engineer or dungeon-builder) | Includes three traps "too cruel even for me" — genuinely horrifying ideas |
+| A letter from Vecna, unsent reply | 75gp (to a historian) | Vecna wrote asking for collaboration. [[Acererak]]'s draft reply is six pages of increasingly creative insults. He never sent it. Possibly his greatest regret |
 
 ### The Alarm
 **5 rounds after the notebook is touched**, the PCs feel it: a pressure change in the air, a drop in temperature, and a low vibration that comes from everywhere and nowhere.
@@ -553,14 +553,14 @@ He pauses. Then, with an edge:
 
 | Reward                                  | Value                      | Notes                                                                         |
 | --------------------------------------- | -------------------------- | ----------------------------------------------------------------------------- |
-| Contract completion bonus               | 300 gp (split among party) | Standard rate — [[Vizzok the Opulent]] doesn't pay extra for emotional trauma |
-| Failed phylactery (crystal orb)         | 200 gp                     | If they grabbed it — collector's market only                                  |
-| Scrolls (vampiric touch, gentle repose) | 525 gp total               | If recovered — genuine useful loot                                            |
-| [[Acererak]]'s trap sketches            | 50 gp                      | Niche buyer                                                                   |
-| Vecna letter + unsent reply             | 75 gp                      | Historical curiosity                                                          |
-| Prototype phylactery fragments          | 25 gp (scrap materials)    | If they grabbed anything else from the archive                                |
+| Contract completion bonus               | 300gp (split among party) | Standard rate — [[Vizzok the Opulent]] doesn't pay extra for emotional trauma |
+| Failed phylactery (crystal orb)         | 200gp                     | If they grabbed it — collector's market only                                  |
+| Scrolls (vampiric touch, gentle repose) | 525gp total               | If recovered — genuine useful loot                                            |
+| [[Acererak]]'s trap sketches            | 50gp                      | Niche buyer                                                                   |
+| Vecna letter + unsent reply             | 75gp                      | Historical curiosity                                                          |
+| Prototype phylactery fragments          | 25gp (scrap materials)    | If they grabbed anything else from the archive                                |
 
-**Total expected GP haul:** 400-700 gp depending on thoroughness. Better ratio than [[Menzoberranzan]]. The Tomb has good loot even in the junk drawer.
+**Total expected GP haul:** 400-700gp depending on thoroughness. Better ratio than [[Menzoberranzan]]. The Tomb has good loot even in the junk drawer.
 
 ### The Handoff
 [[EyeQ]] takes the notebook. This time, the PCs can see him clearly: he holds it with an instrument — the same astrolabe-loupe from the tapestry debrief — and the notebook's pages flutter. Text appears rapidly as [[EyeQ]] reads. The notebook appears to be having a conversation with him. A long one.
@@ -669,9 +669,27 @@ He floats away toward the lower levels without a word. The notebook, in a final 
 
 ---
 
+## Appendix: Retailable Loot Reference
+
+*Consolidated table for Store Phase processing. All values are listed prices in [[Offledger]].*
+
+| Item | Listed Value | Source | Channel | Notes |
+|------|-------------|--------|---------|-------|
+| Scroll of *vampiric touch* (CL 5) | 375gp | Archive | Bulk | Intact, usable; reliable seller |
+| Scroll of *gentle repose* (CL 3) | 150gp | Archive | Bulk | Slightly singed |
+| Failed phylactery (crystal orb) | 200gp | Room 3 pedestal | **Auction** | Non-functional; radiates faint necromancy, whispers when held. Collector's market only |
+| [[Acererak]]'s trap sketches | 50gp | Archive | **Auction** | Three designs "too cruel even for me." Niche buyer (dungeon engineer) |
+| Vecna letter + [[Acererak]]'s unsent reply | 75gp | Archive | **Auction** | Six pages of creative insults. Historical curiosity |
+| Prototype phylactery fragments | 25gp | Archive | Bulk | Scrap materials |
+
+**Max potential Bulk pool:** ~875gp listed
+**Auction candidates:** Failed phylactery (200gp), trap sketches (50gp), Vecna correspondence (75gp)
+
+---
+
 ## Appendix: [[Acererak]]'s Warm-Up Notebook — Ongoing Campaign Use
 
-- **The notebook has a personality.** It continues to comment on events whenever a PC opens it. Use it as a running source of dark humor, lore drops, and occasionally useful arcane advice between adventures. It HATES being in [[The Coinspiratorium (Location)|the Coinspiratorium]]. It HATES [[Vizzok the Opulent|Veezy]]. It has opinions about the shop's inventory (*"You're selling a +1 longsword for 2,300 gp? Highway robbery. I admire the principle."*)
+- **The notebook has a personality.** It continues to comment on events whenever a PC opens it. Use it as a running source of dark humor, lore drops, and occasionally useful arcane advice between adventures. It HATES being in [[The Coinspiratorium (Location)|the Coinspiratorium]]. It HATES [[Vizzok the Opulent|Veezy]]. It has opinions about the shop's inventory (*"You're selling a +1 longsword for 2,300gp? Highway robbery. I admire the principle."*)
 - **[[EyeQ]] and the notebook become close.** Between adventures, PCs may notice [[EyeQ]] spending time with the notebook — reading it, conversing with it. If asked, [[EyeQ]] says nothing. The notebook, if asked about [[EyeQ]], writes: *"He asks the right questions. I didn't think anyone still could."* This relationship is important — [[EyeQ]] is learning from [[Acererak]]'s research, and the notebook is genuinely engaged for the first time in centuries
 - **[[Acererak]] remembers.** He won't pursue the PCs directly (he has bigger concerns), but he has tagged them psychically. If they ever encounter Tomb-related content again — artifacts, servants of [[Acererak]], or undead bearing his mark — those entities recognize the PCs with hostility. [[Acererak]] holds grudges the way liches hold phylacteries: forever
 - **The persistence framework echoes forward.** When the [[The Device|Crown Infinite]] activates in later phases, PCs may notice that [[Offledger]]'s structures develop bone-like architecture, faint necromantic resonance, and an unsettling quality of *permanence* — things feel like they've always been there, even when the PCs know they haven't. The notebook's contribution to the Crown is making it feel *inevitable*

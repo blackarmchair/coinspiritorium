@@ -26,7 +26,7 @@ status: alive
 ## Overview
 Grindle Gruk'tak is a middle-aged goblin who runs a shabby potion stall in a totally different city from [[Offledger]]. He is deeply unremarkable. He is also, unknowingly, the holder of the single most valuable debt instrument in existence: [[Veezy's IOU]].
 
-Before [[Vizzok the Opulent|Vizzok]] became "Lord Veezy," Grindle was his hype-man, assistant, and reluctant friend. He lent young Vizzok **49 gp** for a sequined cape and a mixtape pressing. Vizzok never paid him back. Then Vizzok became terrifying. Grindle ran.
+Before [[Vizzok the Opulent|Vizzok]] became "Lord Veezy," Grindle was his hype-man, assistant, and reluctant friend. He lent young Vizzok **49gp** for a sequined cape and a mixtape pressing. Vizzok never paid him back. Then Vizzok became terrifying. Grindle ran.
 
 He has no idea the IOU is important. He's just a scared goblin with a drawer full of old junk and a memory he'd rather forget.
 

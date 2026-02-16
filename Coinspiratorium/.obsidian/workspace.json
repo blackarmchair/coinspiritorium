@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0ccd3f2082829050",
+        "id": "c99014aaf51848e7",
         "type": "tabs",
         "children": [
           {
-            "id": "e99ae5e268203fa4",
+            "id": "550d5ddd55954d46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/03 - Tomb of Horrors Spellbook.md",
+                "file": "Rules/Revised Treasure Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Tomb of Horrors Spellbook"
+              "title": "Revised Treasure Values"
+            }
+          },
+          {
+            "id": "120dc334ec11fa9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/02 - The Underdark Art Acquisition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - The Underdark Art Acquisition"
             }
           }
         ]
@@ -54,7 +68,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -166,44 +180,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e99ae5e268203fa4",
+  "active": "550d5ddd55954d46",
   "lastOpenFiles": [
     "Quests/02 - The Underdark Art Acquisition.md",
-    "Quests/06 - Aboleth Info-Vault.md",
-    "Quests/07 - Sigil Quick Pickup.md",
-    "Quests/04 - Blackstaff Tower Raid.md",
-    "Quests/05 - Steal a Solar's Halo.md",
-    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002840680",
-    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002790359",
-    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002774680",
-    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002755812",
-    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002699450",
-    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002670941",
-    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002131925",
-    "NPCs/Quest-Specific/Mnemon.md.tmp.852.1771002115865",
-    "NPCs/Quest-Specific/Yorham Voss.md.tmp.852.1771002100324",
-    "Quests/06 - Aboleth Info-Vault.md.tmp.852.1771002065066",
-    "Quests/03 - Tomb of Horrors Spellbook.md",
     "Quests/01 - Strahd's Favorite Mirror.md",
+    "Rules/Revised Treasure Values.md",
+    "Rules/Treasure Table.md",
+    "The Coinspiratorium.md",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217938819",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217924466",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217908176",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217899317",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217877740",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217865807",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217862279",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217854662",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217838201",
+    "Rules/Revised Treasure Values.md.tmp.1701.1771217823446",
+    "Pasted image 20260215223411.png",
+    "Pasted image 20260215222954.png",
+    "Pasted image 20260215222941.png",
+    "Pasted image 20260215222639.png",
+    "Quests/05 - Steal a Solar's Halo.md",
+    "Quests/03 - Tomb of Horrors Spellbook.md",
+    "Rules/Debt and Economy.md",
+    "NPCs/Quest-Specific/Strahd von Zarovich.md",
+    "Rules/Store Management.md",
     "Quests/10 - White Plume Mountain Redux.md",
-    "Items/Quest Items/Acererak's Warm-Up Notebook.md",
-    "NPCs/Main Characters/Director Casseel.md",
-    "NPCs/Main Characters/Agent Quill.md",
-    "NPCs/Main Characters/Agent Docket.md",
     "Lore/The Device.md",
     "Lore/Terms of Incoinspiration.md",
-    "Locations/The Superiority Complex.md",
-    "Locations/The Coinspiratorium (Location).md",
-    "Locations/Offledger.md",
-    "Locations/Menzoberranzan.md",
-    "Locations/Barovia.md",
-    "Items/Quest Items/Veezy's IOU.md",
-    "Items/Quest Items/The Vanishing Mirror.md",
-    "Items/Quest Items/The Primordial Memory Pearl.md",
-    "Items/Quest Items/The Key That Opens Any Door But Only Once.md",
-    "Items/Quest Items/The Keraptis Binder.md",
-    "Items/Quest Items/The Iris Prime.md",
-    "Items/Quest Items/The Black Ledger.md",
+    "Rules/GP is XP.md",
+    "Kess.md",
+    "Factions/The Gilt Edge.md",
+    "NPCs/Quest-Specific/Torque.md",
+    "NPCs/Quest-Specific/Brother Ashenveil.md",
+    "NPCs/Quest-Specific/Whisper.md",
+    "NPCs/Quest-Specific/Kess Darrowmere.md",
+    "Factions/The Gold Standard.md",
+    "NPCs/Quest-Specific/Valanthir.md",
+    "[Countess Lysara Veldritch.md",
+    "[Menzoberranzan.md",
+    "Quests/06 - Aboleth Info-Vault.md",
     "Untitled.canvas"
   ]
 }
