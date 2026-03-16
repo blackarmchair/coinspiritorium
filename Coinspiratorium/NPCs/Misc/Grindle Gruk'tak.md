@@ -81,3 +81,72 @@ The key: **this encounter should feel like a throwaway side quest.** Grindle sho
 - He should feel real: a small person crushed by proximity to greatness
 - If the PCs tell him what the IOU is worth, his reaction should be priceless — terror, disbelief, and maybe a little pride
 - Consider giving him a quirk the players remember: a catchphrase, a nervous habit, a terrible potion he's proud of
+
+---
+
+## Statblock
+
+> **Grindle Gruk'tak**
+> **Small Humanoid (Goblinoid), Neutral**
+> **CR 1**
+
+### Core Stats
+| Stat | Value |
+|------|-------|
+| **HP** | 13 (1d6+2d6+3) |
+| **Initiative** | +2 |
+| **Speed** | 30 ft. |
+| **AC** | 14 (+1 size, +2 Dex, +1 padded apron), touch 13, flat-footed 12 |
+| **BAB/Grapple** | +1/-4 |
+| **Saves** | Fort +2, Ref +4, Will +4 |
+
+| Ability | Score |
+|---------|-------|
+| Str | 8 |
+| Dex | 14 |
+| Con | 12 |
+| Int | 13 |
+| Wis | 14 |
+| Cha | 10 |
+
+### Skills
+Craft (alchemy) +11, Appraise +7, Hide +10, Knowledge (nature) +7, Profession (herbalist) +8, Move Silently +8
+
+### Feats
+Skill Focus (Craft [alchemy]), Brew Potion
+
+### Class
+Commoner 1/Expert 2
+
+### Attacks
+- **Kitchen Knife:** +1 melee (1d3-1)
+- Grindle has never used this on a person. He uses it for roots.
+
+---
+
+### Special Abilities
+
+**Goblin Traits**
+Darkvision 60 ft., +4 to Hide checks (size)
+
+**Potion Dabbler (Ex)**
+Grindle can brew basic potions and alchemical remedies (CL 1st equivalent, limited to *cure light wounds*, *endure elements*, antitoxin, smokestick, and tanglefoot bags). His success rate is approximately 70%. The other 30% produces something that "works, technically, but tastes like regret."
+
+**Forgettable (Ex)**
+Grindle is so thoroughly unremarkable that creatures who interact with him briefly must make a DC 10 Intelligence check to remember specific details about him 24 hours later. This is not magical — he's just that easy to overlook.
+
+---
+
+### Equipment
+- Stained apron (functions as padded armor, barely)
+- Kitchen knife
+- 3d4 potions of varying quality (mostly *cure light wounds*, one of which is mislabeled)
+- The drawer: contains junk, old receipts, a pressed flower, and [[Veezy's IOU]] wrapped in rags
+- 12 gp, 7 sp, 23 cp (his entire savings)
+
+---
+
+## Notes
+- Grindle is not a combat encounter. He is a *narrative* encounter. His statblock exists solely so you have it if things go sideways.
+- His CR 1 is generous. He would lose a fight to a moderately aggressive housecat.
+- The most important line on this statblock is under Equipment: the drawer. Everything else is flavor. That drawer is the endgame.

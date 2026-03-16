@@ -1,3 +1,20 @@
+---
+tags:
+  - npc
+  - operative
+  - main-character
+  - construct
+  - inevitable
+type: npc
+race: Inevitable (Construct, Extraplanar, Lawful)
+class: N/A
+level: 13 HD
+cr: 12
+alignment: Lawful Neutral
+location: "[[O.P.E.R.A.T.I.V.E.]] — deployed as needed"
+faction: "[[O.P.E.R.A.T.I.V.E.]]"
+status: active
+---
 ## Agent Docket
 *Tactical Specialist / Enforcement*
 
@@ -31,3 +48,95 @@ When O.P.E.R.A.T.I.V.E. sends Quill, they want cooperation. When they send Docke
 **Role at the table:** Docket is the stick. When the PCs start thinking they can play O.P.E.R.A.T.I.V.E., Docket is the reminder that there are consequences. Docket should appear rarely — but when it does, the table should go quiet. Docket is also accidentally hilarious because of its total lack of personality creates absurd interactions with literally everyone.
 
 **Contrast with EyeRate:** Both are enforcers. But EyeRate is rage — volatile, emotional, personal. Docket is *procedure* — cold, mechanical, utterly impersonal. EyeRate wants to hurt you. Docket doesn't want anything. It just has orders. Somehow that's worse.
+
+---
+
+## Statblock
+
+> **Agent Docket**
+> **Medium Construct (Extraplanar, Inevitable, Lawful), Lawful Neutral**
+> **CR 12**
+
+### Core Stats
+| Stat | Value |
+|------|-------|
+| **HD** | 13d10+20 (91 hp) |
+| **Initiative** | +0 |
+| **Speed** | 30 ft. |
+| **AC** | 28 (+18 natural), touch 10, flat-footed 28 |
+| **BAB/Grapple** | +9/+18 |
+| **Space/Reach** | 5 ft./5 ft. |
+| **Saves** | Fort +4, Ref +4, Will +10 |
+
+| Ability | Score |
+|---------|-------|
+| Str | 28 |
+| Dex | 10 |
+| Con | — |
+| Int | 14 |
+| Wis | 18 |
+| Cha | 16 |
+
+### Skills
+Diplomacy +19, Gather Information +19, Knowledge (law) +18, Listen +20, Search +18, Sense Motive +20, Spot +20, Survival +20
+
+### Feats
+Awesome Blow, Combat Reflexes, Improved Bull Rush, Improved Sunder, Power Attack
+
+### Attacks
+- **Slam:** +18/+13 melee (2d6+9)
+- **Full Attack:** 2 slams +18/+13 melee (2d6+9)
+
+### Damage Reduction
+DR 10/chaotic
+
+### Immunities (Construct)
+Immune to mind-affecting effects, poison, sleep, paralysis, stunning, disease, death effects, necromancy effects, critical hits, nonlethal damage, ability damage, ability drain, energy drain, fatigue, exhaustion, and any effect requiring a Fort save (unless it also affects objects)
+
+### Regeneration
+Fast Healing 5
+
+### Spell Resistance
+SR 22
+
+---
+
+### Special Abilities
+
+**Inevitable Fist of Law (Su)**
+Docket's slam attacks are treated as lawful-aligned for purposes of overcoming damage reduction. Against chaotic-aligned creatures, slams deal an additional 2d6 damage.
+
+**Planar Warrant (Su)**
+Docket can designate one creature as a **subject of warrant** as a standard action. While the warrant is active (24 hours or until dismissed), Docket always knows the direction and distance to the subject (as *discern location*), and the subject cannot benefit from *nondetection*, *mind blank*, or similar concealment against Docket specifically. Only one warrant can be active at a time.
+
+**Procedural Escalation (Ex)**
+Docket operates on a strict escalation protocol. Each round of combat, its effectiveness increases:
+- **Round 1:** Verbal warning. Docket does not attack unless attacked first.
+- **Round 2:** Restraint. Docket uses grapple and pin (Grapple +18). Non-lethal only.
+- **Round 3:** Authorized force. Full attacks, Power Attack.
+- **Round 4+:** Maximum force. Docket adds Awesome Blow to every slam. Targets are knocked back 10 ft. and fall prone (Fort DC 25 negates knockback).
+
+**Compliance Check (Su)** — *3/day*
+Docket speaks a single sentence describing a lawful directive. The target must make a Will save (DC 19) or be compelled to comply with the directive for 1 round (as *command*, but the instruction can be a full sentence). This is a language-dependent, mind-affecting compulsion. *"Please place your weapons on the ground."* *"Please accompany me to the processing facility."*
+
+**Mechanical Patience (Ex)**
+Docket cannot be provoked, taunted, demoralized, or affected by Intimidate checks. It has no ego to bruise. It responds to insults with: *"Your emotional state has been registered. It does not affect the timeline."*
+
+---
+
+### Spell-Like Abilities (CL 13)
+
+| Frequency | Abilities |
+|-----------|-----------|
+| At will | *Command, Detect Chaos, Zone of Truth* |
+| 3/day | *Hold Person, Hold Monster, Dimensional Anchor, Dispel Magic* |
+| 1/day | *Dictum, Mark of Justice, Plane Shift (self plus one subject)* |
+
+---
+
+## Notes
+- Docket is a walking procedural encounter. It doesn't ambush. It doesn't sneak. It announces itself, states its authority, and begins the escalation protocol. The PCs always know exactly what's about to happen. They just can't stop it.
+- It is the only O.P.E.R.A.T.I.V.E. agent the PCs genuinely cannot bluff, bribe, or charm. It has no desires to exploit.
+- Despite having no personality, Docket generates comedy through sheer literalness. It will hold a door open and say "After you" while escorting a prisoner. It will politely ask an unconscious person to confirm their identity.
+- It processes metaphors with a visible 1-2 second delay: *"...That was a metaphor. I have adjusted."*
+- If the PCs somehow destroy Docket, Mechanus sends another one. Same badge. Same voice. Same case number. *"Your previous interaction has been logged. We are resuming from subsection 4, paragraph 2."*

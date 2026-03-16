@@ -1,3 +1,19 @@
+---
+tags:
+  - npc
+  - operative
+  - main-character
+  - gnome
+type: npc
+race: Rock Gnome
+class: Expert 7/Diviner 3
+level: 10
+cr: 7
+alignment: Neutral Good
+location: "[[O.P.E.R.A.T.I.V.E.]] HQ (usually the archives)"
+faction: "[[O.P.E.R.A.T.I.V.E.]]"
+status: alive
+---
 ## Auditor Pentival
 *Forensic Analyst / Financial Crimes*
 
@@ -33,3 +49,97 @@ He is the most dangerous person in O.P.E.R.A.T.I.V.E. — not because he can fig
 **The IOU Reveal:** When the PCs eventually show Pentival the IOU (or he stumbles across it in their records), his reaction should be the most dramatic thing a gnome has ever done. He will go pale. He will go silent. And then he will explain, in precise mathematical terms, exactly how a 49-gold-piece loan for a cape and a mixtape is about to collapse the fabric of reality.
 
 **Contrast with EyeQ:** Both are the brains of their respective organizations. Both understand the Crown Infinite's architecture. But EyeQ is cold and detached — he sees the Crown as an intellectual exercise. Pentival is warm and passionate — he sees it as the most *fascinating* financial structure he's ever encountered. EyeQ keeps his knowledge as leverage. Pentival can't help sharing because the math is just so *interesting.*
+
+---
+
+## Statblock
+
+> **Auditor Pentival**
+> **Small Humanoid (Gnome), Neutral Good**
+> **CR 7**
+
+### Core Stats
+| Stat | Value |
+|------|-------|
+| **HP** | 41 (7d6+3d4+10) |
+| **Initiative** | +1 |
+| **Speed** | 20 ft. |
+| **AC** | 15 (+1 size, +1 Dex, +2 *bracers of armor*, +1 *ring of protection*), touch 13, flat-footed 14 |
+| **BAB/Grapple** | +6/+1 |
+| **Saves** | Fort +4, Ref +4, Will +13 |
+
+| Ability | Score |
+|---------|-------|
+| Str | 8 |
+| Dex | 12 |
+| Con | 12 |
+| Int | 22 |
+| Wis | 16 |
+| Cha | 14 |
+
+### Skills
+Appraise +25, Concentration +14, Decipher Script +21, Forgery +19, Knowledge (arcana) +21, Knowledge (the planes) +19, Knowledge (history) +19, Profession (accountant) +22, Search +19, Spellcraft +19
+
+### Feats
+Investigator, Skill Focus (Appraise), Skill Focus (Profession [accountant]), Scribe Scroll, Spell Focus (Divination)
+
+### Attacks
+- **Quarterstaff:** +2 melee (1d4-1)
+- Pentival does not fight. Pentival audits.
+
+---
+
+### Class Features
+
+**Expert (7th)**
+- 10 class skills of choice (including Appraise, Profession, all Knowledge skills)
+
+**Diviner (3rd)**
+- Specialist wizard (Divination); banned school: Evocation
+- Familiar: *Figment* — a spectral abacus that hovers near his shoulder and clicks softly when numbers are wrong
+
+**Wizard Spells Prepared (CL 3rd):**
+- 0th (4+1): *Detect Magic, Read Magic, Mending, Prestidigitation* + *Detect Poison*
+- 1st (3+1): *Identify, Comprehend Languages, Alarm* + *True Strike*
+- 2nd (2+1): *Locate Object, See Invisibility* + *Detect Thoughts*
+
+---
+
+### Special Abilities
+
+**Gnome Traits**
++2 saves vs. illusions, +1 attack vs. kobolds and goblinoids, +4 dodge vs. giants, low-light vision, *speak with animals* (burrowing mammals) 1/day, +2 to Listen and Craft (alchemy)
+
+**Metaphysical Ledger Sight (Su)**
+Pentival can perceive debt as a physical phenomenon. When he concentrates (full-round action), he can see the invisible threads of obligation, contract, and debt connecting creatures and objects within 60 ft. This allows him to:
+- Identify magical contracts and their terms
+- Detect the presence of binding agreements (even if hidden or dormant)
+- Sense the approximate magnitude of a creature's total debts/obligations
+- Perceive the Crown Infinite's component resonance (similar to EyeQ's ability, but through financial rather than arcane analysis)
+
+**Forensic Analysis (Ex)**
+Given 10 minutes with any financial document, contract, or ledger, Pentival can determine: the original author, the date of creation, any alterations or forgeries, hidden clauses (mundane or magical), and the document's chain of custody. This is an extraordinary ability requiring no magic — just four centuries of practice.
+
+**Accidentally Critical (Ex)**
+Once per session (DM discretion), when Pentival is rambling about something seemingly irrelevant, he drops a piece of information that is *mechanically* useful to the PCs — a vulnerability, a loophole, a connection they hadn't made. He doesn't realize what he's said. He just keeps talking.
+
+---
+
+### Equipment
+- *Bracers of Armor +2* (hidden under ink-stained sleeves)
+- *Ring of Protection +1*
+- *Spectacles of Minute Seeing* (+5 to Search for fine details)
+- Battered leather case containing:
+  - 14 ledgers (cross-referenced, color-coded, incomprehensible to anyone but Pentival)
+  - 7 quills (all leaking)
+  - A chart of the Crown Infinite's debt topology (he doesn't know that's what it is — he thinks it's "an interesting anomaly")
+  - Veezy's complete financial history across 17 planes (reconstructed from fragments over 40 years)
+- Ink. Everywhere. Always.
+
+---
+
+## Notes
+- Pentival is CR 7 because of his divination abilities and knowledge, not because of combat prowess. In a fight, he hides behind whatever is available and continues taking notes.
+- His spectral abacus familiar (*Figment*) is the only creature he talks to without rambling. He is concise and gentle with it. This is the one relationship where his social obliviousness disappears.
+- He has been working the Veezy case for 40 years. He has never been in the same room as Veezy. He is both terrified and desperate for an introduction.
+- When the PCs show him [[Veezy's IOU]], play the moment like a scientist discovering a new element. The rambling stops. The fidgeting stops. He goes *still*. Then: *"Oh. Oh my."*
