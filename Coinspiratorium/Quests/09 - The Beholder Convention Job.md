@@ -198,6 +198,83 @@ The Conclave is, functionally, a trade show. And trade shows are the same across
 
 **The Eye-Ray Range:** A designated space where beholders demonstrate their eye rays on reinforced targets. Think: a shooting range, but every lane fires a different magical effect. The range is loud, flashy, and draws a crowd. **This is tactically useful:** during peak demonstration hours, the antimagic cone coverage around [[The Iris Prime|the Iris Prime]] shifts as beholders turn to watch the range. [[Snitch Ray]] notes this pattern.
 
+#### The Gnome with the Notepad
+
+In the mortal servant gallery — a railed observation platform 40 feet above the convention floor, accessible by a service staircase the PCs were pointedly told not to use — a gnome in a hand-stitched apron reading "EYE-SCREAM CATERING" is taking notes.
+
+He is not catering.
+
+**Spot DC 18** to notice him. The PCs have seen this gnome before: wire-rimmed spectacles, ink-stained fingers, the posture of a man who has forgotten that his body exists because his brain is too busy. This is **[[Auditor Pentival]]**, and his disguise is the worst disguise any of the PCs have ever seen. The apron is on backwards. He's holding a tray of canapes that he hasn't offered to anyone. He's staring at [[The Iris Prime|the Iris Prime]] through a monocle that is very obviously a *detect magic* focus, and he's muttering.
+
+> *"Crystallized ego-mass... if the ego resonance is quantifiable — and it IS, I can SEE the Fibonacci-adjacent resonance spirals, identity as the independent variable — then the Crown's architecture requires a fixed-point attractor. A reference identity. Something that doesn't change. Something that CAN'T change..."*
+
+He trails off. Scribbles something. Eats a canape from his own tray without noticing.
+
+> *"Oh, this is just BEAUTIFUL math."*
+
+**If the PCs approach:**
+
+Pentival looks up. Blinks. Breaks into a genuine smile — the smile of a man who has been doing math alone for months and finally has someone to talk to.
+
+> *"Oh! Oh, it's YOU. Hello! You look — well, you look like people who've been doing dangerous work for an unreasonable employer, which — I mean, of course you do. How are you? Are you eating? These canapes are terrible. I've been holding this tray for three hours."*
+
+He sets the tray down on the railing. A canape slides off and falls 40 feet into the convention crowd below. Neither Pentival nor the beholder it lands on notices.
+
+**What Pentival shares (unprompted, because he cannot help himself):**
+
+He's been studying the [[The Iris Prime|Iris Prime]] for two hours. His observations are accidentally critical:
+
+> *"The Prime is a crystallized ego construct — pure, self-referential identity compressed into mineral form. It's extraordinary. It's also exactly what your employer needs for the... the THING he's building."*
+
+He catches himself. Barely.
+
+> *"I shouldn't say 'thing.' I should say 'reality-restructuring binding construct of civilization-altering significance.' But 'thing' is faster."*
+
+**If PCs ask what he knows about the Crown:**
+
+> *"More than I did six months ago. Less than I will in six months. The mathematics are... converging. I can see the shape of what he's building. I can see most of the components. I can see the structural logic. What I CAN'T see is the flaw."*
+
+He leans forward. The academic excitement drops for exactly one sentence.
+
+> *"Every construct like this has a flaw. Every single one in recorded history. The flaw is always the same category: an unresolved obligation inside the system. A debt the builder forgot about — or thinks doesn't matter."*
+
+Then the excitement returns:
+
+> *"The math says it's there. I just can't find it yet. When I do — oh, when I do — the whole thing becomes so SIMPLE. One number. One obligation. That's all it takes."*
+
+He has no idea he's describing [[Veezy's IOU]]. He has no idea the answer is 49 gold pieces and a goblin. He's going to find it eventually. The math is converging.
+
+**If PCs ask about [[O.P.E.R.A.T.I.V.E.]]'s plans:**
+
+> *"Plans? Oh — I'm not really the plans person. [[Agent Quill|Quill]] handles the plans. [[Director Casseel|The Director]] handles the decisions. I handle the numbers. The numbers are very clear: if the device activates at full capacity, the relationship between debt and reality across all planes of existence changes permanently. Every contract becomes law. Every obligation becomes physics. Every debt becomes — well."*
+
+He gestures at the room full of beholders.
+
+> *"Imagine every creature in the multiverse owing something to one being, and the universe itself enforcing collection. That's the projection. I've run it fourteen times. I keep hoping the math is wrong."*
+
+He picks up another canape. Puts it down.
+
+> *"The math is not wrong."*
+
+**If PCs warn him he'll be noticed:**
+
+> *"Noticed? I'm a caterer. I'm holding canapes."*
+
+He gestures at his backwards apron with complete confidence.
+
+> *"Nobody notices the caterer."*
+
+**Pentival's exit:** When the keynote begins, Pentival produces a second, smaller notebook and starts sketching [[Vizzok the Opulent|Veezy]]'s speech patterns in some kind of linguistic analysis shorthand. He's fully absorbed. If the PCs try to talk to him during the keynote, he shushes them. *"I'm WORKING."*
+
+He vanishes from the gallery at some point during the civil war. The PCs don't see him leave. The tray of canapes remains on the railing, untouched except by Pentival himself.
+
+**DM Notes:**
+- **Pentival at the Conclave serves two functions:** he's a recurring, recognizable face (the PCs have his card, his letter, and now his personality in full bloom), and he independently confirms [[EyeQ]]'s identity architecture conclusions from an external analytical framework. Two different geniuses, working separately, arriving at the same math. The Crown's architecture is knowable. Its flaw is findable. Pentival just hasn't found it yet
+- **The "unresolved obligation" speech is the closest anyone has come to naming the IOU directly.** Pentival is describing the exact mechanism without knowing the specific instance. If the PCs have been paying attention to the Failed Crown vision (Quest 6), to [[Rue Kethani]]'s analysis (Quest 7-8), and now to Pentival's math — the pattern is screaming. One debt. One flaw. One number. 49 gold pieces
+- **Pentival's social obliviousness is genuine, not performed.** He is the worst undercover operative in [[O.P.E.R.A.T.I.V.E.]]'s history. [[Agent Quill|Quill]] would never let him come alone to something this dangerous. The fact that he's here, alone, with a backwards apron and a tray of canapes, means either [[O.P.E.R.A.T.I.V.E.]] is desperate or Pentival went without authorization. Both options are concerning
+
+---
+
 ### Casing [[The Iris Prime|the Iris Prime]]
 
 **The display:** [[The Iris Prime]] floats at the Panopticon's center, approximately 200 feet from the nearest surface in any direction. It's surrounded by a sphere of overlapping antimagic cones — at any given moment, between 8 and 15 beholders have their central eyes partly oriented toward it. The overlap creates a zone roughly 30 feet in diameter where no magic functions. Within this zone, a transparent case of force (mundane, not magical — it persists inside antimagic) holds the Prime on a pedestal that rotates slowly.
@@ -625,6 +702,54 @@ He floats toward the Workshop stairs, toward the Crown, toward the future he's b
 
 **Total expected GP haul:** 00gp. The payouts keep climbing. The cost keeps climbing faster. The Crown has an identity now. It knows who it serves. And it's patient.
 
+### The Letter from the Director
+
+Three days after the Conclave, a letter appears on the shop counter.
+
+Not in anyone's quarters. Not slipped under a door. On the **counter**. In the middle of the day. While [[Snitch Ray]]'s surveillance network was active. While [[Iris Major]]'s security protocols were engaged. While the Crown Infinite's ambient detection field covered every inch of [[The Coinspiratorium (Location)|the Coinspiratorium]].
+
+The letter is on paper that feels heavy — heavier than paper should. Holding it feels like holding a verdict. The handwriting is ancient, precise, and carries a faint radiance that makes the reader's eyes water. Not divine light, exactly. The afterimage of divine light. The memory of what it felt like to glow.
+
+There is no envelope. No seal. No return address.
+
+> *To the operatives of Vizzok the Opulent:*
+>
+> *I have watched your progress with professional interest. You are effective. You are complicit. These are not mutually exclusive.*
+>
+> *The device your employer is constructing will, upon completion, restructure the foundational relationship between debt and reality across all planes of existence. My agency has spent four centuries preventing outcomes of this magnitude.*
+>
+> *Agent Quill believes you can be reasoned with. Auditor Pentival believes the mathematics will convince you. Agent Docket has filed a report recommending immediate extraction and detention.*
+>
+> *I have not yet decided which of them is correct.*
+>
+> *You have until the device reaches twelve components. After that, the decision will no longer be mine.*
+>
+> *— Casseel*
+> *Director, O.P.E.R.A.T.I.V.E.*
+
+The moment the last PC finishes reading, the letter self-destructs. Not with fire — with *light*. The paper brightens, slowly, like a sunrise compressed into three seconds, until the words dissolve into warm, tired radiance. The light fades. The letter is gone. What remains: a faint warmth on the reader's hands that lingers for hours, and the impression — not visual, not magical, just *felt* — of very old, very tired eyes that have seen too many people make the wrong choice.
+
+**The Residue:**
+
+The warmth on the reader's hands is divine residue — trace energy from a being that was once a deva. It's not detectable by *detect magic*. It IS detectable by anyone who knows what divine energy feels like.
+
+[[Snitch Ray]] knows what divine energy feels like.
+
+If the reader interacts with [[Snitch Ray]] within 24 hours of reading the letter, there is a chance he notices. **Spot DC 16** for [[Snitch Ray]] (his eyestalks are calibrated for exactly this kind of anomaly). On success, he stares at the PC's hands for two seconds too long. His eyestalks tighten. He says nothing — immediately. But within 1d4 hours, he reports to [[Vizzok the Opulent|Veezy]] that he detected "residual extraplanar energy consistent with a celestial-class entity" in the shop.
+
+The consequences depend on [[Vizzok the Opulent|Veezy]]'s current paranoia level:
+- **Phase 4 (The Vice):** [[Vizzok the Opulent|Veezy]] interrogates the PCs directly. Not aggressively — worse. Quietly. *"Somebody holy touched something in my shop. I don't got holy friends. Do you?"*
+- If the PCs confess the letter's existence: [[Vizzok the Opulent|Veezy]]'s central eye locks on the speaker. *"Casseel. She used to be an angel. Gave it up to chase people like me. You know what that means? It means she cared enough to stop being divine. That's commitment I gotta respect. It's also commitment that's gonna get her killed."* He doesn't threaten the PCs. He threatens Casseel. Which is worse
+
+**Avoidance:** The divine residue fades naturally within 24 hours. Cold water and salt accelerate the process (Knowledge [religion] DC 15 to know this). If the reader washes their hands with salt water within an hour, the residue dissipates completely. [[Snitch Ray]] detects nothing. The letter becomes a private matter between the PCs and the Director.
+
+**DM Notes:**
+- **This is [[O.P.E.R.A.T.I.V.E.]]'s final patience.** The escalation is complete: Pentival was curiosity. Quill was warmth. Docket was procedure. Casseel is *judgment*. Each agent represents a different kind of pressure, a different appeal to the PCs' better nature. Casseel's letter says: I've watched my agents try everything. Now I'm deciding whether you're worth saving or whether you go down with your employer
+- **"You have until the device reaches twelve components" is a deadline.** Three components remain. Three quests. The PCs now know the clock. After twelve, [[O.P.E.R.A.T.I.V.E.]] stops asking and starts acting. What "acting" means is deliberately unspecified — it could be arrest, extraction, or something worse. The ambiguity is the threat
+- **The letter bypassing all of [[Vizzok the Opulent|Veezy]]'s security is itself a message.** [[O.P.E.R.A.T.I.V.E.]] can reach them anywhere. Inside the shop. Inside [[Offledger]]. Inside the Crown's detection radius. If Casseel wanted [[Vizzok the Opulent|Veezy]], she could get to him. She hasn't — because she wants the case to be complete. But the *capability* is demonstrated
+- **The self-destructing letter contrasts with Pentival's persistent letters.** Pentival sends paper that stays. Casseel sends paper that burns. Pentival wants a conversation. Casseel wants a decision. The medium is the message
+- **The divine residue subplot creates immediate tension.** The PCs must decide within hours: wash their hands (literally), or risk [[Snitch Ray]] detecting the contact. This forces a choice before they've had time to process the letter's contents. Casseel planned this — the residue is not accidental. It's a test of operational security. If the PCs can't hide a letter from their employer's surveillance, they can't be trusted as informants
+
 ### DM Notes
 - **"The Crown now knows who it serves" is the debrief's most chilling revelation.** [[EyeQ]]'s assessment means the device has achieved a form of... consciousness? Intentionality? It's not alive. But it has a preference. It waits for [[Vizzok the Opulent|Veezy]] the way a throne waits for a king. Even unfinished, the Crown has committed to its purpose. The remaining three artifacts will complete its power. But its loyalty is already resolved. This changes the endgame calculus: even sabotaging individual components won't change the Crown's fundamental alignment. It's [[Vizzok the Opulent|Veezy]]'s. Period
 - **[[Vizzok the Opulent|Veezy]]'s final speech — "I'm the only one who's RIGHT" — is the campaign's villain thesis crystallized.** Every beholder believes they're the center. [[Vizzok the Opulent|Veezy]]'s the one building the infrastructure to prove it. He's not wrong about the belief — he's wrong about the solution. The Crown doesn't validate his certainty. It weaponizes it. The difference between confidence and tyranny is consent: a confident being believes they're important. A tyrant makes sure nobody else CAN be
@@ -730,7 +855,7 @@ He floats toward the Workshop stairs, toward the Crown, toward the future he's b
 - The ego-dampening case holds for only 3 minutes
 - Civil war hazard DCs increased by 2. Add a d8 to the hazard table: 7 = **Cone Collision** (two beholders' antimagic cones overlap on the PCs — all magic items suppressed for 1d4 rounds, not just 1), 8 = **Prime Echo** (the uncased [[The Iris Prime|Iris Prime]]'s ego resonance hits a PC directly — Will DC 20 or spend 1 round convinced they're a beholder and must defend "their" Prime)
 - **[[Dazrathuur]] confronts the PCs directly.** During the escape, the elder beholder blocks the service exit. He's not fooled by the civil war — he KNOWS. His antimagic cone covers the entire exit corridor. No spells. No items. Just a 400-year-old beholder between the PCs and the door. Resolution: [[Snitch Ray]]'s lie buys them 2 rounds. [[Vizzok the Opulent|Veezy]] arrives and engages [[Dazrathuur]] personally — two titanic beholders, eye rays vs. eye rays, antimagic cones clashing. The PCs flee through the gap. The [[Vizzok the Opulent|Veezy]] vs. [[Dazrathuur]] fight destroys the keynote stage and concludes with [[Dazrathuur]] retreating. [[Vizzok the Opulent|Veezy]] takes no visible damage. He doesn't mention it afterward. But [[EyeQ]] notes, quietly: *"Lord Vizzok's regenerative capacity has increased 340% since the Crown reached nine components. This is consistent with Law I projections."* The Crown is already making [[Vizzok the Opulent|Veezy]] harder to kill
-- **[[Auditor Pentival]]** is at the Conclave. Not as an attendee — as an observer. He's in the mortal servant gallery, taking notes, disguised (poorly) as a gnomish event caterer. If the PCs notice him (Spot DC 20), he's sketching diagrams of [[The Iris Prime|the Iris Prime]] and muttering: *"Crystallized ego-mass... if the ego resonance is quantifiable... and the Crown's identity architecture requires a fixed-point attractor... oh, this is just BEAUTIFUL math."* He's building the theoretical framework that will eventually let him understand the IOU's significance. He doesn't know it yet. The PCs don't know it yet. But the math is converging
+- **[[Auditor Pentival]] is accompanied by [[Agent Quill]]** — also disguised as convention staff (Spot DC 22 for Quill separately; she's competent at this). The two share a brief, tense exchange visible to PCs who are watching: Quill advising patience with a hand on Pentival's arm, Pentival already walking toward the PCs with notebook open, Quill closing her eyes in professional despair. The dynamic is clear: Quill is the handler, Pentival is the asset who thinks he's on a research trip. Additionally, [[Director Casseel]]'s letter includes an additional line: *"P.S. — Article VII, Subsection 3 of your Terms of Incoinspiration addresses transferability of obligation upon completion of a 'Great Work.' You should read it again. Carefully."* This proves [[O.P.E.R.A.T.I.V.E.]] has a copy of the PCs' contract — and has found clauses the PCs may not have noticed
 
 ---
 

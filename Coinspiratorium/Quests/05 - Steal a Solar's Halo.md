@@ -466,6 +466,80 @@ If the PCs refuse to drop the case, she shifts to physical form and fights — s
 - If the PCs kill [[Aelindra]] on Mount Celestia, the plane responds as described (hostile response, -4 penalties, radiant damage). But worse: a bralani is chaotic good. She's not a soldier. She's a poet, a wind spirit, someone who came to a festival to celebrate second chances. The PCs just killed someone who was crying while she fought them. Let that sit
 - If the PCs befriend or spare [[Aelindra]], she becomes a minor ally — a voice in the celestial network who knows what the [[The Device|Crown Infinite]] is. She contacts them once, much later, with a warning from the upper planes: *"The thing your employer is building — the angels can feel it. All of them. It tastes like a prayer someone said backwards."*
 
+### Encounter: The Pilgrim Who Knows Your Name ([[O.P.E.R.A.T.I.V.E.]])
+
+Somewhere on the Silver Staircase — between the archons and the beach, during the press of pilgrims and hymns — one of the PCs notices a halfling pilgrim who has been walking near them for a while. White robes. Humble expression. Bare feet on the silver steps. Completely unremarkable.
+
+Except he called one of the PCs by name.
+
+Not their cover name. Their *real* name.
+
+The halfling falls into step beside the party. He moves through the pilgrim crowd with the ease of someone who belongs here — or someone trained to look like they belong everywhere.
+
+> *"Don't react. Keep walking. You're doing fine."*
+
+A warm smile. Kind eyes. The exact face you'd trust at a moment like this.
+
+> *"My name is Quill. My colleague — the gnome with the spectacles — said he gave you a card in Waterdeep. You kept it, I hope? Good. You're smarter than your employer thinks you are."*
+
+This is **[[Agent Quill]]** — changeling, [[O.P.E.R.A.T.I.V.E.]] handler, and the warmest knife in the agency's drawer. He's been on Mount Celestia since before the PCs arrived. He attended the festival. He watched the theft. He watched the PCs steal a Solar's halo, carry it through a celestial patrol, and fight a weeping eladrin on a bridge of starlight. He watched all of it.
+
+He didn't intervene.
+
+> *"I'm not here to stop you. I'm not here to arrest you. I'm here because my superiors think you're worth talking to, and I agree with them."*
+
+**The Halo's Effect on Quill:**
+
+Here's the problem: the reliquary case bleeds. The halo's confession aura extends in a 5-foot radius, and Quill is walking right beside the carrier. The zone of truth (Will DC 24) and the confession compulsion (Will DC 18) affect everyone in range — including Quill.
+
+Quill is good. His Will save is +11. He passes the zone of truth easily — changeling training, decades of practice.
+
+The confession compulsion gets him.
+
+Mid-sentence — between one smooth, professional statement and the next — Quill's composure cracks. His face flickers. For one instant, the halfling features blur, revealing something featureless underneath. And then he says, involuntarily, in a voice that is not the halfling's:
+
+> *"I'm afraid of what happens when your boss finishes building it. Not professionally. Personally. I'm afraid."*
+
+One second. Two seconds. The features reset. The halfling smile returns. Quill's composure reassembles with practiced speed, but there's a hairline fracture in it now. He heard himself. The PCs heard him.
+
+> *"...That wasn't planned."*
+
+A beat.
+
+> *"But it's true. For whatever that's worth."*
+
+**What Quill Offers:**
+
+He doesn't hard-sell. He plants a seed and walks away.
+
+> *"You work for Vizzok. I understand the position you're in — better than you think. My agency has been studying your employer for a very long time. We know what the artifacts are for. We know what he's building. We don't know how to stop it yet."*
+
+He glances at the reliquary case.
+
+> *"But we think you might. Eventually. When you're ready."*
+
+**The Contact Method:**
+
+> *"If you ever want to talk — and you don't have to, not today, not tomorrow, take your time — speak the following phrase into any mirror in [[Offledger]]: 'I'd like to make a withdrawal.' Someone will hear it. Someone will come."*
+
+He lets that sit.
+
+> *"Don't use it unless you mean it. And don't use it where [[Snitch Ray]] can see you. He watches mirrors. It's a whole thing."*
+
+**Quill's Exit:**
+
+A group of pilgrims passes between the PCs and Quill — singing, radiant, completely oblivious to the espionage happening in their midst. When the group passes, the halfling is gone. In his place, a different pilgrim — human, female, older — is walking at the same pace, in the same position. She doesn't look at the PCs. She might be Quill. She might be an actual pilgrim.
+
+The PCs will never be sure.
+
+**DM Notes:**
+- **This scene escalates [[O.P.E.R.A.T.I.V.E.]] from "a friendly gnome with a business card" to "an agency that can find you on Mount Celestia."** The progression: Quest 4, [[Auditor Pentival|Pentival]] was a chance encounter (or seemed like one). Quest 5, Quill is a deliberate contact. The message is clear — [[O.P.E.R.A.T.I.V.E.]] has the resources and the will to track the PCs across planes
+- **The confession beat is the scene's payload.** Quill is a professional. He controls every word, every expression, every interaction. The halo strips that away for one sentence. "I'm afraid" — not "my agency assesses risk" or "the threat level is elevated." *Afraid*. Personally. The PCs have now seen behind two masks: the halfling mask (professional) and the changeling mask (biological). What they glimpsed underneath both is a person who is genuinely scared of the Crown Infinite. That fear is more persuasive than any recruitment pitch
+- **The mirror contact method — "I'd like to make a withdrawal" — is a loaded phrase.** In [[The Coinspiratorium (Location)|the Coinspiratorium]], a "withdrawal" means taking gold out of the operation. [[Vizzok the Opulent|Veezy]] would hear it as a business term. [[O.P.E.R.A.T.I.V.E.]] would hear it as a code phrase. The double meaning is Quill's design — it can be spoken in public, in the shop, even in front of other people, without sounding suspicious. Unless [[Snitch Ray]] has been told what it means
+- **Don't overplay this scene.** Quill appears, delivers his lines, gets hit by one confession, and vanishes. The whole encounter should take 5-7 minutes of real time. It's a whisper on a staircase, not a negotiation. The PCs should be left with questions, not answers — and with a mirror phrase they can use whenever they're ready
+
+---
+
 **The Confession Gauntlet:**
 Every 10 minutes of the descent, the carrier must make a Will save (DC 18) or blurt a secret. On the Silver Staircase, surrounded by pilgrims, this creates a rolling disaster:
 
@@ -675,7 +749,7 @@ He doesn't punish them immediately. That's worse. He leaves. [[Iris Major]] info
 - [[Seraphiel]] is present AND a second Solar observes the ritual from the Inner Sanctum. Two sets of *true seeing* eyes
 - The confession save DC increases to 20 and occurs every 5 minutes instead of 10
 - [[Valanthir]] is accompanied by two Hound Archons who DO pursue the PCs down the staircase
-- An [[O.P.E.R.A.T.I.V.E.]] observer is present at the festival — **[[Agent Quill]]**, disguised as a pilgrim. She's been tracking the PCs since Blackstaff Tower. She doesn't intervene during the theft, but approaches the PCs on the Silver Staircase: *"Stealing from a Solar. That's new. [[Vizzok the Opulent|Veezy]]'s getting ambitious."* She offers her card — another line to [[O.P.E.R.A.T.I.V.E.]] If the PCs already have [[Auditor Pentival|Pentival]]'s card, Quill references it: *"I see [[Auditor Pentival|Pentival]] already introduced himself. He's thorough. I'm here to offer something more concrete. Let's talk."*
+- **[[Agent Quill]]'s staircase encounter is more aggressive.** Instead of planting a seed and leaving, Quill directly asks the PCs to share intelligence: *"I need to know what the artifacts do when he puts them together. Anything you've seen. Anything you've heard."* He produces a thin dossier — a summary of [[Vizzok the Opulent|Veezy]]'s known artifact acquisitions, with four of the five components documented and annotated. He offers it freely. *"Take it. Read it. When you see how the pieces fit, you'll understand why we're scared."* The dossier is dangerous to carry — if [[Snitch Ray]] or [[Iris Major]] finds it, the consequences are immediate. But the intelligence it contains is the most complete external picture of the Crown Infinite the PCs have ever seen
 
 **If the PCs returned the halo (failure consequence quest):**
 - [[Vizzok the Opulent|Veezy]] sends [[EyeRate]] to Mount Celestia three weeks later. [[EyeRate]] does not attend festivals. [[EyeRate]] does not wear pilgrim robes. [[EyeRate]] takes the halo by force. The PCs hear about it secondhand — [[Valanthir]] was injured defending the Solarium. [[Seraphiel]] surrendered the halo to prevent further violence. The PCs' mercy led to a worse outcome

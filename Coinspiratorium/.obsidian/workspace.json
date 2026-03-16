@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Store Management.md",
+                "file": "Templates/Session Prep Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Store Management"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ddd4b7b1388385e6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "501bd71c3f9d9b47",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session Prep Template"
             }
           }
         ]
@@ -182,9 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83888d3f661c3356",
+  "active": "ebc8700ff79f95bf",
   "lastOpenFiles": [
+    "Templates/Session Template.md",
+    "Templates/Session Prep Template.md",
     "Rules/Store Management.md",
+    "Quests/05 - Steal a Solar's Halo.md.tmp.25008.1773629871961",
+    "Quests/05 - Steal a Solar's Halo.md.tmp.25008.1773629853537",
+    "Quests/08 - Hoard of Tiamat Dragon Egg.md.tmp.25008.1773629794989",
+    "Quests/08 - Hoard of Tiamat Dragon Egg.md.tmp.25008.1773629777295",
+    "Quests/09 - The Beholder Convention Job.md.tmp.25008.1773629720425",
+    "Quests/09 - The Beholder Convention Job.md.tmp.25008.1773629704460",
+    "Campaign Tracker.md",
+    "Campaign Tracker.md.tmp.25008.1773629594346",
+    "Templates/Session Prep Template.md.tmp.25008.1773629551099",
     "Untitled.md",
     "Untitled.base",
     "Rules/Revised Treasure Values.md",
@@ -193,10 +188,7 @@
     "NPCs/Enemies/EyeRate.md",
     "NPCs/Enemies/EyeQ.md",
     "NPCs/Main Characters/Auditor Pentival.md.tmp.2844.1773627747009",
-    "NPCs/Main Characters/Director Casseel.md.tmp.2844.1773627655764",
     "The Coinspiratorium.md",
-    "NPCs/Enemies/Major Look.md.tmp.2844.1773627609946",
-    "NPCs/Enemies/EyeRate.md.tmp.2844.1773627581817",
     "NPCs/Quest-Specific/Drenna Valk.md",
     "NPCs/Quest-Specific/Dazrathuur.md",
     "NPCs/Quest-Specific/Countess Lysara Veldritch.md",
@@ -212,14 +204,6 @@
     "NPCs/Main Characters/Agent Docket.md",
     "NPCs/Enemies/Vizzok the Opulent.md",
     "NPCs/Enemies/Snitch Ray.md",
-    "NPCs/Enemies/Major Look.md",
-    "Lore/Campaign Interludes.md",
-    "Locations/The Superiority Complex.md",
-    "Untitled 1.base",
-    "The Coinspiratorium.md.tmp.2004.1772729973590",
-    "The Coinspiratorium.md.tmp.2004.1772729063672",
-    "Rules/Revised Treasure Values.md.tmp.1701.1771217938819",
-    "Rules/Revised Treasure Values.md.tmp.1701.1771217924466",
     "Pasted image 20260215223411.png",
     "Pasted image 20260215222954.png",
     "Pasted image 20260215222941.png",

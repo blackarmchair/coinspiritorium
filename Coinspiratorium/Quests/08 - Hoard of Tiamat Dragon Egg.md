@@ -526,6 +526,98 @@ The PCs emerge into the caldera. The egg is still screaming. The portal cave is 
 
 She doesn't pursue. Not yet. But she knows.
 
+### The Caldera — Compliance Check
+
+Halfway across the caldera, the egg screaming, ash falling, the portal cave still fifteen minutes away — the PCs see a figure.
+
+It's standing on a basalt ridge ahead of them. Motionless. Seven feet tall. Matte gray geometric plates of interlocking metal. A featureless oval face with a single horizontal line that pulses with steady, cold light. An [[O.P.E.R.A.T.I.V.E.]] badge is pinned directly into its chest plate.
+
+**[[Agent Docket]]** has been standing on this ridge for fourteen hours. It does not mind. It was assigned this position. It has not moved. It has not shifted its weight. The volcanic heat, the ash, the ambient draconic rage bleeding from the Clutch below — none of it is operationally relevant.
+
+It steps into the PCs' path. The egg screams. [[Agent Docket|Docket]] does not react to the screaming.
+
+> *"Subjects identified. Confirmation: visual match to Case File VZK-7734-OMEGA, subsection: field operatives. Good afternoon. I am Agent Docket, Tactical Specialist, Orderly Planar Enforcement, Retrieval, and Tactical Intervention Vigilance Executive."*
+
+A pause. The horizontal line pulses.
+
+> *"I am here to serve notice."*
+
+[[Agent Docket|Docket]] produces a document from somewhere inside its torso — a folded parchment sealed with a geometric sigil that glows faintly. It extends the document toward the nearest PC with mechanical precision.
+
+> *"This is Planar Warrant 7734-OMEGA-12. You are hereby designated persons of interest in the ongoing investigation of the entity Vizzok the Opulent, designation: Class-7 Extradimensional Threat. This designation carries the following implications."*
+
+[[Agent Docket|Docket]] lists them. It does not rush. The egg screams throughout.
+
+> *"One. Your movements across planar boundaries are now monitored by the Office of Planar Transit. Two. Your financial transactions within the jurisdiction designated 'Offledger' are subject to review. Three. You are requested to submit to a voluntary interview at your earliest convenience."*
+
+A pause.
+
+> *"The word 'voluntary' is technically accurate."*
+
+Another pause.
+
+> *"The implication is not."*
+
+**The Question:**
+
+[[Agent Docket|Docket]] turns to each PC in sequence. The horizontal line focuses on each face like a scanner.
+
+> *"I am authorized to ask each of you one question. Your response will be recorded. You are not compelled to answer truthfully. Your answer will be evaluated by Director Casseel, who can detect falsehoods at will. This has been disclosed for procedural transparency."*
+
+The question, delivered to each PC individually:
+
+> *"Have you, at any point during your association with the entity designated Vizzok the Opulent, been asked to retrieve artifacts of civilization-altering significance?"*
+
+The PCs can lie. [[Agent Docket|Docket]] records each answer with the same flat acknowledgment: *"Response logged."* It does not react to the content. It does not judge. It files.
+
+**[[EyeRate]]'s Reaction:**
+
+[[EyeRate]] is behind the PCs — injured, exhausted, one eyestalk missing, acid-eaten hide exposing golden circuits. He sees [[Agent Docket|Docket]] and stops. Every remaining eyestalk locks onto the construct.
+
+The silence between [[EyeRate]] and [[Agent Docket|Docket]] is the scene's real tension. Rage and procedure. A creature built to destroy and a creature built to document. They stare at each other for three seconds that feel much longer.
+
+[[EyeRate]]'s remaining eye rays power up. The air crackles with contained violence.
+
+[[Agent Docket|Docket]] registers this. Its horizontal line brightens slightly.
+
+> *"Eyecon designate 'EyeRate.' Structural damage observed. Filing injury report under Case File VZK-7734-OMEGA, subsection: personnel casualties."*
+
+[[EyeRate]]: *"Say one more word."*
+
+[[Agent Docket|Docket]]: *"Compliance is recommended. Escalation protocols are as follows: verbal warning, restraint, authorized force, maximum force. You are currently at stage one."*
+
+[[EyeRate]] does not attack. Not because he's afraid — because even rage has a calculation, and [[EyeRate]] knows [[Vizzok the Opulent|Veezy]] would not want [[O.P.E.R.A.T.I.V.E.]] to have footage of an Eyecon assaulting a federal agent. Instead, [[EyeRate]] floats past [[Agent Docket|Docket]] at a distance of exactly six inches, close enough to feel the construct's ambient heat, and continues toward the portal without a word.
+
+[[Agent Docket|Docket]] logs this too. *"Eyecon designate 'EyeRate': non-compliant but non-hostile. Escalation status: holding at stage one. Note: subject's emotional regulation is... adequate."*
+
+The one-second pause before "adequate" is the closest [[Agent Docket|Docket]] gets to surprise.
+
+**The Metaphor:**
+
+If a PC says something like "we've been through hell" or any figurative expression:
+
+[[Agent Docket|Docket]]'s horizontal line flickers. A 1.5-second processing delay.
+
+> *"This location does not correspond to any catalogued layer of the Nine Hells. Terrain classification: volcanic caldera, demiplanar. Correction filed."*
+
+If a PC tells [[Agent Docket|Docket]] to "go to hell":
+
+> *"I am not currently authorized for infernal jurisdiction. Your suggestion has been noted and will be included in the case file."*
+
+**Docket's Exit:**
+
+[[Agent Docket|Docket]] does not teleport. It does not fly. It does not fade dramatically. It turns 180 degrees — precisely, as if mounted on a swivel — and walks. Across the caldera. Toward the far rim. At exactly 30 feet per round. The steady, unhurried pace of a bureaucratic process that will outlive everyone present.
+
+The PCs watch a seven-foot construct walk across a volcanic island, through falling ash, past venting magma, without changing speed or direction. It does not look back.
+
+Where it goes afterward is classified.
+
+**DM Notes:**
+- **This scene is a tonal collision by design.** The PCs just experienced real danger, real sacrifice, real feeling — [[EyeRate]] lost an eyestalk for them. And now a filing cabinet with legs is serving them paperwork on a volcano while an egg screams. The absurdity is the point, and the absurdity is also genuinely threatening. [[Agent Docket|Docket]] tracked them across planes to a demiplanar volcanic caldera. It stood on a ridge for fourteen hours. It will stand on another ridge tomorrow. It does not get tired. It does not get bored. It does not stop
+- **The [[EyeRate]]-Docket standoff is the scene's emotional center.** [[EyeRate]] is everything [[Agent Docket|Docket]] is not: volatile, personal, alive. The moment where [[EyeRate]] powers up his eye rays and [[Agent Docket|Docket]] calmly begins listing escalation protocols is the campaign's most compact expression of the OPERATIVE/Eyecon mirror. Rage vs. procedure. Loyalty vs. law. And [[EyeRate]] backs down — not from fear, but from tactical awareness. That restraint should surprise the PCs. [[EyeRate]] is learning
+- **The yes/no question is a trap regardless of answer.** If the PCs say yes, they've confirmed involvement. If they say no, Casseel will detect the lie when she reviews the recording. If they refuse to answer, that's logged too. There is no correct response — only responses that reveal different things about the PCs' relationship to [[Vizzok the Opulent|Veezy]]
+- **[[Agent Docket|Docket]]'s walking exit is important.** It's not dramatic. It's not impressive. It's just... inevitable. The construct walks away at the speed of bureaucracy, and it will arrive wherever it's going exactly on schedule. [[O.P.E.R.A.T.I.V.E.]] is not fast. [[O.P.E.R.A.T.I.V.E.]] is patient. And patience, in this campaign, is the most dangerous quality anything can have
+
 ### DM Notes
 - **The escape should feel like a heist movie's third act: everything going wrong simultaneously, solved through speed, creativity, and controlled panic.** Each chamber presents a different obstacle that rewards different party skills. The Red Vault rewards combat/tanking. The Blue rewards navigation. The Green rewards saves/resistance. The Black rewards emotional resilience. The White rewards straightforward violence. A diverse party shines here
 - **The Black Aspect broadcasting the PC's secret is the escape's cruelest moment.** It costs nothing mechanically but potentially damages inter-party trust. If a PC's secret was about the [[The Device|Crown Infinite]], [[O.P.E.R.A.T.I.V.E.]], or [[Vizzok the Opulent|Veezy]], every other PC now knows. If the secret was personal, the vulnerability is exposed. This is the Clutch's final price: you don't leave with your dignity intact
@@ -767,7 +859,7 @@ This is the most dangerous thing [[EyeQ]] has ever said in front of the PCs. And
 - The egg's grief aura has a mechanical effect: Will DC 20 or -2 to all rolls for 1 hour (representing distraction from unfulfilled-potential memories)
 - During the escape, the aspects can briefly leave their chambers (up to 100 ft. beyond their borders), creating overlap zones where two aspects attack simultaneously
 - **Tiamat's Whisper:** At the moment the egg is taken, Tiamat speaks directly to the PC holding it. One sentence. In her voice — five voices, five elements, five types of fury: *"I will remember this. I will find you. And I will take from you something that was supposed to be."* This is not a bluff. This is a campaign-long threat. Tiamat is patient
-- **[[Agent Docket]]** is on the island. [[O.P.E.R.A.T.I.V.E.]] tracked the PCs to the Clutch's location (Quill's intelligence from Sigil is paying off). [[Agent Docket|Docket]] is not here to help — [[Agent Docket|Docket]] is here to observe and document. If the PCs notice [[Agent Docket|Docket]] (Spot DC 22), the construct is standing on the caldera rim, motionless, watching them emerge with the screaming egg. [[Agent Docket|Docket]] records everything. [[Agent Docket|Docket]] says nothing. [[Agent Docket|Docket]] files a report. *"Mission outcome: artifact successfully retrieved by subjects. Collateral damage: one Eyecon combatant, partial. Tactical assessment: subjects are increasingly effective. Risk assessment: elevated."*
+- **[[Agent Docket]] is not alone.** A second, smaller inevitable accompanies it — a recorder-type construct the size of a halfling, covered in crystalline lenses that capture everything in a 360-degree radius. It does not speak. It does not interact. It documents. [[Agent Docket|Docket]] introduces it as *"Auxiliary Unit 7734-R. Purpose: evidentiary recording. It does not have a name. It does not need one."* Additionally, [[Agent Docket|Docket]] attempts to **confiscate the egg** as evidence of interplanar artifact trafficking. *"The object you are carrying matches the description of a divine-class artifact reported missing from a demiplanar hoard. Under Section 12 of the Planar Evidence Preservation Act, I am authorized to secure this object pending investigation."* This creates a tense standoff — [[EyeRate]] will not allow confiscation, [[Agent Docket|Docket]] will not withdraw the request, and the PCs are caught between a wounded beholder and an unbreakable bureaucrat on a volcano. Resolution likely requires Diplomacy DC 20 or a creative legal argument. [[Agent Docket|Docket]] accepts "the artifact is currently in transit to a secure location" as technically compliant — it files a note and steps aside, but the precedent is set: [[O.P.E.R.A.T.I.V.E.]] considers the Crown components evidence, not property
 
 ---
 
