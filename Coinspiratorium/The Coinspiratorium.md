@@ -8,7 +8,7 @@
 ## Campaign Overview
 A **D&D v3.5** campaign in which the players are indentured adventurer-retailers, running a magic item shop on behalf of a beholder crime lord. You must delve dungeons under contract, stock your shelves with loot, repay an impossible debt, and level up — but only as fast as you can afford to.
 
-**System:** D&D 3.5e | **Leveling:** [[GP is XP]] | **Patron:** [[Vizzok the Opulent]]
+**System:** D&D 3.5e | **Patron:** [[Vizzok the Opulent]]
 
 ---
 
@@ -29,6 +29,7 @@ A **D&D v3.5** campaign in which the players are indentured adventurer-retailers
 - [[Terms of Incoinspiration]] — The founding contract
 - [[Debt and Economy]] — How money works (against you)
 - [[The Device|The Crown Infinite]] — What Veezy's really building (DM only)
+- [[Campaign Interludes]] — What happens between dungeons (DM only)
 - [[Veezy's IOU]] — The endgame MacGuffin (DM only)
 
 ### Vault Folders
