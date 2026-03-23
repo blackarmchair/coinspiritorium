@@ -324,14 +324,6 @@ On a shelf beside the door: forty-seven keys, each uniquely shaped, each labeled
 > *STATUS: FUNCTIONAL*
 > *NOTE: TRANSPORTS ORGANIC MATTER ONLY."*
 
-Below that, in different ink, hastier handwriting:
-
-> *"CORRECTION: Transports organic matter EXCLUSIVELY. Inorganic matter (clothing, equipment, armor, weapons, EVERYTHING ELSE) does not transport. All items remain at origin point. Personnel arrive at destination... unencumbered."*
-
-Below THAT, in red ink:
-
-> *"DO NOT DEMONSTRATE FOR VISITORS. AGAIN."*
-
 **The mechanic:** The teleporter works perfectly. It transports any living creature standing on the platform directly to the Archive (Scene 4's destination). However, it ONLY transports organic matter. Clothing, armor, weapons, spell components, magic items, bags, boots, hats, cloaks, rings, and anything else that isn't part of the PC's body stays behind on the platform in a neat pile.
 
 The PC arrives at the destination naked. Their gear arrives 1d4 rounds later via a secondary transport pulse ([[Keraptis]] added this as a patch after the first "incident"), scattered around the arrival room.

@@ -6,6 +6,20 @@ Dungeons in this campaign are **thematic artifact vaults**, not generic monster 
 
 ---
 
+# Exploration System
+
+All dungeons should be designed with the **Dungeon Exploration System** in mind (see `Rules/Dungeon Exploration.md`). This means:
+
+* Distances between rooms matter (movement costs turns)
+* Light conditions and duration affect resource pressure
+* Noise-generating obstacles create encounter risk tradeoffs
+* Environmental timers (flooding, collapse, alarms) add macro-urgency
+* Room density and searchable content create thoroughness-vs-speed decisions
+
+When generating dungeons, consider how the turn structure will interact with the layout. Dead ends cost time. Long corridors burn movement. Locked doors and traps force the party to spend turns — and every turn is a roll on the encounter clock.
+
+---
+
 # Dungeon Generation Framework
 
 Generate the following elements.

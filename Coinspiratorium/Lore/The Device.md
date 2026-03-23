@@ -99,7 +99,7 @@ Each dungeon-of-the-week job delivers one of these "keystones." Together, they f
 | 8   | Platinum Dragon Egg (Sterile)             | Lair of Tiamat                      | Draconic potential battery | [[08 - Hoard of Tiamat Dragon Egg]]    |
 | 9   | The Iris Prime                            | Conclave of Eyefellows              | Beholder reality anchor    | [[09 - The Beholder Convention Job]]   |
 | 10  | Keraptis Binder                           | White Plume Mountain                | Paradox engineering        | [[10 - White Plume Mountain Redux]]    |
-| 11  | *TBD*                                     |                                     |                            |                                        |
+| 11  | The Instrument of Contested Debt          | The Recession (Offledger)           | Contractual jurisdiction   | [[11 - The Debt Collector's Wake]]     |
 | 12  | *TBD*                                     |                                     |                            |                                        |
 
 These aren't optional. They are required to stabilize the Crown Infinite.

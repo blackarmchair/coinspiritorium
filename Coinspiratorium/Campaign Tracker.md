@@ -55,7 +55,7 @@ See [[Debt and Economy]] and [[Terms of Incoinspiration]] for rules.
 | 8 | [[Platinum Dragon Egg]] | [[08 - Hoard of Tiamat Dragon Egg]] | | Egg's scream harmonized into Crown hum; desperate customers drawn to shop |
 | 9 | [[The Iris Prime]] | [[09 - The Beholder Convention Job]] | | Shop feels more like Veezy; social physics rewritten; reverence effect |
 | 10 | [[The Keraptis Binder]] | [[10 - White Plume Mountain Redux]] | | |
-| 11 | TBD | TBD | Pending | |
+| 11 | [[The Instrument of Contested Debt]] | [[11 - The Debt Collector's Wake]] | | Contracts self-enforce; debts activate; economy becomes frictionless/merciless; Crown hum acquires gavel-beat |
 | 12 | TBD | TBD | Pending | |
 
 **Crown behavioral notes:** *(any changes to the device's "personality" or environmental bleed?)*
