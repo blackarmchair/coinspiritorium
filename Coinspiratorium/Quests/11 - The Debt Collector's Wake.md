@@ -118,7 +118,7 @@ He pauses.
 
 **If PCs ask why they'd need commercial papers at a party:**
 
-> *"These people are creditors, darlings. They don't make small talk. They make inquiries. Having your paperwork ready is the difference between being a guest and being a curiosity."*
+> *"These people are creditors. They don't make small talk. They make inquiries. Having your paperwork ready is the difference between being a guest and being a curiosity."*
 
 **If PCs press for more details about the gathering or Voss:**
 
