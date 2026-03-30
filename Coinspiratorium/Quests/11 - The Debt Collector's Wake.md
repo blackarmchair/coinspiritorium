@@ -404,9 +404,79 @@ The most accessible investigation catches **[[Pettifer Groan]]** as the killer. 
 
 **Tier 1 resolution:** The PCs identify Pettifer, confront him, and he either confesses or is exposed by the adjudication field. A complete, satisfying solution. They report to Sareth, she takes Pettifer into custody (or whatever passes for custody in a locked manor), and the murder is solved. The PCs can stop here and it works.
 
+### Seams in the Tier 1 Solution
+
+Even at Tier 1, the Pettifer solution has visible cracks. These aren't hidden behind high DCs — they're baked into the evidence. The PCs don't have to notice them. But if they're paying attention, the "case closed" feeling should itch.
+
+**Seam 1: The timeline doesn't quite fit.**
+Threader's Bane kills within sixty seconds. Pettifer entered the study via the servants' passage after Voss sat down. But the servant who discovered the body knocked after ten minutes of silence. If Pettifer injected the needle shortly after entering, Voss should have died almost immediately — and the document on his desk (the amended will) is half-read. He had time to sit, pour wine, begin reading, and get partway through a page. That's several minutes of lucid activity after a poison that kills in one. A PC who asks "how did he read half a page after a sixty-second poison?" is asking the right question. (No check required — just attention to the established facts.)
+
+**Seam 2: The wine glass.**
+It's on the desk. Half-empty. Nobody poisoned it with Threader's Bane — Pettifer used a needle, not a drink. So why is the wine glass relevant? It's not, at Tier 1. But it's *there*. If any PC says "I check the wine glass" for any reason — habit, thoroughness, paranoia — Craft (Alchemy) DC 18 finds arcanotoxin. A completely different poison. The glass is sitting in plain sight, waiting for someone to be curious.
+
+**Seam 3: Pettifer is too easy.**
+His hands were shaking. He left residue on the door handle. His alibi references the wrong room. An information broker who survives in [[Offledger]] should be better at this. If a PC remarks that Pettifer seems like an amateur, they're right — he was panicking because he believed his life was at stake. He was *manufactured* into a killer on short notice. A professional would have been cleaner. (Sense Motive DC 15 on Pettifer after his confession: he doesn't feel like a man who planned a murder. He feels like a man who was cornered into one.)
+
+**Seam 4: The body tells a longer story than the needle does.**
+Even at Heal DC 15, the examiner identifies the needle wound. But Voss's body language at death is wrong for a fast-acting paralytic. He's slumped, not rigid. His expression is discomfort, not surprise. A PC who's seen death before (any combat veteran, any cleric) might notice that this doesn't look like a man who was ambushed by a needle. It looks like a man who was already feeling terrible when the needle arrived. (Spot DC 18 or Heal DC 18 — slightly above the Tier 1 threshold but below the Tier 2 Heal DC 20. This is deliberately positioned in the gap.)
+
+**Seam 5: Sareth isn't satisfied.**
+After the PCs report their findings, Sareth accepts the Pettifer solution — she agrees the evidence supports it. But she doesn't close her notebook. She's still looking at the body. If a PC asks why, she's honest:
+
+> *"The evidence against Pettifer is solid. I believe he did what you say he did. But the body's telling me more than one story. There's ingested poison in his bloodstream. There's a wound on his arm that has nothing to do with the needle. These might be unrelated to the murder. They might be medical conditions. Or they might not. I'd feel better if we were sure."*
+
+She doesn't insist. She doesn't overrule the PCs' findings. She just leaves the door open. If the PCs take the hint and investigate the additional anomalies, they've entered Tier 2. If they don't, the Pettifer solution stands and the adventure proceeds to the claim.
+
+**DM Notes on the Seams:**
+- **These seams are not failure states.** They're invitations. A party that catches Pettifer and moves on has completed a genuine mystery. A party that notices the seams and keeps digging gets a richer experience. The seams reward attention without punishing inattention.
+- **The seams work because Pettifer IS guilty.** The Tier 1 solution isn't wrong — it's incomplete. The PCs didn't convict an innocent man. They caught the most proximate killer and missed the four others. That's different from being tricked, and it matters for how the revelation lands at Tier 2.
+- **Sareth's dissatisfaction is the most reliable bridge.** If the PCs ignore the timeline, the wine glass, Pettifer's amateurishness, and the body language, Sareth's "but the body's telling me more" is the safety net. She's the NPC most likely to pull the PCs into Tier 2 without making them feel railroaded, because she's an investigator who isn't satisfied with "close enough."
+
 ### Tier 2: The Depth (Everyone Is Guilty)
 
-This tier opens when the PCs realize the needle wasn't the only thing killing Voss. Maybe a good Heal check told them. Maybe they found something strange while searching the study. Maybe they noticed the wine glass and got curious. However they arrive here, the question is the same: **how does one man die five different ways at the same party?**
+This tier opens when the PCs realize the needle wasn't the only thing killing Voss. There are multiple on-ramps — the Heal check is the most direct, but not the only one.
+
+#### Tier 2 Entry Points
+
+The PCs need to discover that Voss was being killed by more than one person. Any of these paths gets them there:
+
+**Path A: The body itself (Heal DC 20).** The most direct route. Multiple toxins, the arm wound, unexplained vitality drain. The body says "there were others."
+
+**Path B: The wine glass (no Heal check required).** Any PC who examines the wine glass on Voss's desk — out of habit, thoroughness, or because the Seams prompted them — finds arcanotoxin with Craft (Alchemy) DC 18. That's a completely different poison from the needle. One body, two poisons, two methods of delivery. The Pettifer solution just cracked.
+
+**Path C: The coat search (no Heal check required).** Any PC who searches the body thoroughly (Search DC 18 on the coat) finds the Debtor's Nail — warm, glowing, necromantic. That's not a poison. It's a curse object. Whatever killed Voss, someone was also draining his life force through his coat pocket.
+
+**Path D: Sareth's dissatisfaction (automatic, if PCs completed Tier 1).** If the PCs reported Pettifer and stopped investigating, Sareth keeps working. After 15-20 minutes of game time (one clock milestone), she approaches the PCs with findings of her own:
+
+> *"I've been looking at the body more closely. Your gnome used a needle. Fast-acting paralytic, death in under a minute. But there's ingested poison in his bloodstream that has nothing to do with the needle. Different compound entirely. And there's a wound on his forearm — partially healed, coated in something I can't identify. That predates tonight."*
+
+She pauses.
+
+> *"I think your solution is correct. Pettifer stuck the needle. But I also think Pettifer may have been redundant."*
+
+This is the DM's safety net. Sareth doesn't take over the investigation — she shares a finding and hands it back to the PCs. But she's telling them explicitly: there's more here.
+
+**Path E: Background guest testimony (automatic if PCs mingle after Tier 1).** [[Vorta and Sulim]], the twin elves, approach the PCs after Pettifer is taken into custody. They've been watching the room all evening and something has been bothering them:
+
+> Vorta: *"We saw the dwarf — Harath — do something odd during the greeting. He reached toward Voss's coat."*
+> Sulim: *"And the half-elf woman. Meralda. She was alone with the wine decanter for quite some time."*
+> Vorta: *"We thought nothing of it. But now a man is dead."*
+> Sulim: *"And we can't stop thinking about it."*
+
+This hands the PCs two specific leads (Harath's handshake, Meralda's decanter access) without requiring any check. The twins are observant, anxious, and volunteering because they're scared.
+
+**Path F: [[Fennick Brass]] notices something (automatic if PCs interact with him).** The halfling appraiser has been examining the Instrument but keeps glancing at the body. If approached, or if the PCs bring him to examine any magical evidence:
+
+> *"I don't do bodies. I do objects. But that nail in his coat pocket — you did find that, yes? — that's a Debtor's Nail. Dwarven folk-curse. Necromantic drain. It has nothing to do with needles or gnome-craft. Someone else wanted this man dead."*
+
+If the PCs haven't found the nail yet, Fennick's statement gives them reason to search the coat.
+
+**DM Notes on Tier 2 Entry:**
+- **You need at most ONE of these paths to fire.** Don't use all of them. If the PCs enter Tier 2 via the Heal check, the other paths become corroborating evidence they find along the way. If they miss the Heal check, deploy the lowest-friction backup that fits the flow of play.
+- **Priority order for backups:** Sareth (most natural), then the wine glass (most accessible), then Vorta/Sulim (most direct), then Fennick (most targeted), then the coat search (most physical). Use whichever matches what the PCs are already doing.
+- **The goal is not to force Tier 2.** The goal is to ensure Tier 2 is *reachable* for any party that's paying attention. A party that catches Pettifer, ignores the seams, waves off Sareth, skips the wine glass, and never searches the coat has chosen to stop. That's valid. But it should be a choice, not a locked door.
+
+Once the PCs realize there's more than one killer, the question becomes: **how does one man die five different ways at the same party?**
 
 Each of the four remaining murder attempts is uncovered through a different combination of searching the manor, interviewing staff and guests, and confronting the suspect. The PCs have to do the legwork. The body pointed them in a direction. The house holds the evidence.
 
@@ -524,6 +594,56 @@ She doesn't say Veezy's name. She doesn't know it's him. But she knows it's some
 
 This should feel like the floor dropping out from under a mystery the PCs thought they'd already solved. The whodunit answer isn't "Pettifer." The answer is "everyone." And the real question becomes: why did all of them decide to act *tonight*?
 
+### The "Why Tonight?" Prompt
+
+The transition from "everyone is guilty" to "someone made them guilty" is the hardest leap in the adventure. The PCs need to shift from asking "who?" to asking "why all at once?" This won't always happen naturally. The following tools help the DM surface the question without answering it.
+
+**Prompt 1: Tesslyn's reaction (automatic if she's confronted as the 3rd+ suspect).**
+Tesslyn is the smartest NPC at the party. When she learns multiple people tried to kill Voss on the same night, she says:
+
+> *"Five of us. Five. And none of us knew about the others."*
+
+Then, if the PCs don't pick up the thread:
+
+> *"Doesn't that strike you as... unlikely? Five independent decisions to kill the same man on the same night? That's not coincidence. That's a guest list."*
+
+She's not naming Veezy. She doesn't know it's him. But she's asking the right question out loud. If the PCs are listening, this is their Tier 3 entry.
+
+**Prompt 2: Sareth's pattern recognition (automatic if the PCs have reported 3+ suspects).**
+Sareth has been taking notes. After the third suspect is identified, she pulls the PCs aside:
+
+> *"I want to show you something. Look at the timeline."*
+
+She lays out the antecedents she's collected from the PCs' reports — the leaked documents, the paid-off debts, the anonymous dossier, the unsigned letter, the fabricated threat. She doesn't have to have all five; three is enough.
+
+> *"These all arrived within the same few weeks. Different channels, different targets, same window. Does that look organic to you?"*
+
+She's not answering the question. She's teaching the PCs how to ask it. If they've been honest with her about what each suspect said, she has enough to lay out the pattern visually. Maps, notes, dates on a table.
+
+**Prompt 3: Harath names Auric Holdings (automatic if he cooperates).**
+Harath is the most forthcoming suspect. If the PCs showed him any kindness during his breakdown, he volunteers everything — including the name "Auric Holdings" as the entity that paid off his debts. He mentions it casually, like a detail he doesn't understand the significance of:
+
+> *"Someone called Auric Holdings paid off my remaining debts last month. I don't know who they are. I didn't ask. I was just grateful I could attend."*
+
+He doesn't know the name means anything. But the PCs have worked for [[The Gold Standard]] for ten quests. If anyone at the table recognizes the naming convention (Knowledge [Local] DC 15 — deliberately low), the connection to Veezy's network is immediate.
+
+**Prompt 4: The amended will (free, sitting in plain sight).**
+Voss was reading his amended will when he died. It's on the desk, half-read, under his hand. Any PC who reads it (no check required) sees that the will was recently changed to reduce Tesslyn's inheritance — which is her motive. But the document also names the solicitor who drafted the amendment: [[Madame Inkwell]]. If the PCs ask Inkwell who requested the change, she's matter-of-fact: "Aldenmere did. Three months ago. He received information suggesting Tesslyn was positioning against him." Who provided that information? Inkwell doesn't know. It came through a financial intelligence service Voss subscribed to. The service's name? She checks her records. "Auric Advisory. A subsidiary of... let me see... Auric Holdings."
+
+This creates a second, lower-DC path to the Auric Holdings name — no locked desk required. Just reading the document that's already sitting on the desk and talking to an NPC who's already in the room.
+
+**Prompt 5: The guest list itself (Gather Information DC 15 from [[Lendara Quill-Sable]]).**
+The chronicler has been covering the Recession for years. If the PCs ask her about the guest list, she notes something odd:
+
+> *"The Recession's guest list is usually static. Same families, same creditors, same faces. This year, four unusual additions: the dwarf who was too poor to attend last year, the githyanki who hasn't come in five years, the gnome who usually sends a proxy, and your lot. Four new faces at a party that hasn't changed in a decade. Someone rewrote the guest list."*
+
+She doesn't know who. But she knows the list was *curated*. This independently confirms the pattern without requiring any suspect to confess it.
+
+**DM Guidance on Prompting Tier 3:**
+- **Use prompts in order of subtlety.** Tesslyn's reaction is the most organic. Sareth's pattern recognition is the most direct. Harath's name-drop is the most specific. The will and Lendara are backup paths. Deploy them based on what the PCs are already engaging with.
+- **Don't stack prompts.** If Tesslyn's reaction landed and the PCs are asking the right questions, don't also have Sareth lay out the timeline. Let the PCs do the work. Only deploy additional prompts if the first one didn't take.
+- **Tier 3 should feel earned.** The PCs should arrive at "Veezy did this" through their own reasoning, using evidence they collected. The prompts give them the *question*. The Tier 3 clues give them the *answer*. Don't let NPCs do both.
+
 ### Tier 3: The Architecture (Veezy Built the Machine)
 
 This tier opens when the PCs connect the antecedents. They've been collecting "why now?" details from each suspect throughout Tier 2: Meralda's leaked documents, Harath's mysterious benefactor, Zhaal's anonymous dossier, Tesslyn's unsigned letter, Pettifer's fabricated threat. Each push arrived independently, through different channels, to different people. But the PCs have been reporting their findings to Sareth. And if they lay the evidence out together, the pattern becomes visible.
@@ -537,10 +657,12 @@ The question isn't "who killed Aldenmere Voss?" anymore. It's **"who loaded the 
 **Clue: The timing** (no check required, just attention)
 If the PCs have collected three or more antecedent details from Tier 2, they can simply lay the evidence on a table and look at the dates. Meralda's documents arrived three weeks ago. Harath's debts were paid off last month. Tesslyn's letter arrived two months ago. Zhaal's dossier arrived four weeks ago. Pettifer's warning came through in the past two weeks. The window is tight. This is coordination, not coincidence.
 
-**Clue: Auric Holdings** (two paths to discovery)
-- Path 1: Harath mentioned that his debts were paid by an entity called "Auric Holdings." Search DC 22 in Voss's locked desk drawer (Open Lock DC 25) turns up correspondence with the same name. Auric Holdings was buying Voss's outstanding obligations, consolidating financial pressure against him. The same entity that enabled Harath to attend the party was simultaneously squeezing the host.
-- Path 2: Voss's private ledger (Search DC 15 in the study desk) shows unusual financial pressure in recent months. Debts called in from multiple sources. Reserve funds declining. Contracts terminated. The pattern is systematic. Cross-referencing the creditor names with the locked drawer correspondence identifies Auric Holdings as the consolidator.
-- Either way: Knowledge (Local) DC 18 connects Auric Holdings to [[The Gold Standard]]. The PCs have worked for the Gold Standard for ten quests. They know what that name means.
+**Clue: Auric Holdings** (four paths to discovery — at least one should fire for any investigating party)
+- Path 1 (hardest): Search DC 22 in Voss's locked desk drawer (Open Lock DC 25) turns up Auric Holdings correspondence directly. The entity was buying Voss's outstanding obligations and consolidating financial pressure. This is the most complete evidence but the highest DC.
+- Path 2 (moderate): Voss's private ledger (Search DC 15 in the study desk, unlocked) shows unusual financial pressure in recent months. Debts called in from multiple sources. Reserve funds declining. Contracts terminated. The pattern is systematic. Cross-referencing the creditor names (Knowledge [Local] DC 18 or Gather Information DC 18 from [[Councilor Dresh]] or [[Madame Inkwell]]) identifies Auric Holdings as the consolidator.
+- Path 3 (easiest): Harath names Auric Holdings voluntarily if he cooperates (see "Why Tonight?" Prompt 3 above). No check required — he just says the name. The PCs then need Knowledge (Local) DC 15 to connect Auric Holdings to [[The Gold Standard]], or they can ask [[Councilor Dresh]], who recognizes the name as a financial district shell entity (Gather Information DC 12).
+- Path 4 (narrative): The amended will on Voss's desk leads to [[Madame Inkwell]], who traces the intelligence that prompted Voss's will change back to "Auric Advisory, a subsidiary of Auric Holdings" (see "Why Tonight?" Prompt 4 above). No check required — just reading the document and asking the solicitor.
+- **Connecting the name:** Knowledge (Local) DC 15 connects Auric Holdings to [[The Gold Standard]]. DC 15, not 18 — the PCs have worked for the Gold Standard for ten quests. The naming conventions are familiar. "Auric" is gold. "Gold Standard." The connection should click. If it doesn't, [[Councilor Dresh]] or Sareth can confirm it at Gather Information DC 12.
 
 **Clue: The information sources converge** (Gather Information DC 22, or DC 18 if the PCs have already found Auric Holdings)
 Meralda's leaked documents came from a private archive accessible only to major financial players. Tesslyn's letter contained information from Voss's private legal filings. Zhaal's dossier was injected into a secure githyanki network by an outside source. Pettifer's threat was fabricated entirely. Harath was bankrolled by Auric Holdings. Five different channels, five different methods, one common requirement: deep financial resources and access to private information networks across multiple planes. The list of entities in [[Offledger]] with that reach is very short.
@@ -955,10 +1077,38 @@ Use this tracker during play to record what the PCs have discovered. Check boxes
 - [ ] Tesslyn confronted (argues vial didn't kill him)
 - [ ] **Tier 3 seed:** Letter from "concerned friend" about amended will (Search DC 15 in guest room)
 
+### Seams in the Tier 1 Solution (Tier 1 → 2 bridges)
+- [ ] Timeline doesn't fit: Threader's Bane kills in 60 seconds but Voss read half a page (no check, just attention)
+- [ ] Wine glass on desk checked — arcanotoxin found (Craft [Alchemy] DC 18)
+- [ ] Pettifer seems too amateur for an Offledger professional (Sense Motive DC 15)
+- [ ] Body language wrong for fast-acting paralytic (Spot DC 18 or Heal DC 18)
+- [ ] Sareth voices dissatisfaction with the single-killer theory (automatic after Tier 1 report)
+
+### Tier 2 Entry Points (any one opens Tier 2)
+- [ ] Path A: Heal DC 20 on the body
+- [ ] Path B: Wine glass examined (Craft [Alchemy] DC 18)
+- [ ] Path C: Coat searched, Debtor's Nail found (Search DC 18)
+- [ ] Path D: Sareth shares additional body findings (automatic, 15-20 min after Tier 1)
+- [ ] Path E: Vorta and Sulim volunteer observations about Harath and Meralda (automatic)
+- [ ] Path F: Fennick Brass identifies the Debtor's Nail (automatic if PCs interact with him)
+
 ### Tier 3: The Architecture
-- [ ] Timing pattern noticed (three-week window, no check required)
-- [ ] Auric Holdings found in Voss's locked desk (Search DC 22, Open Lock DC 25) — or — Voss's private ledger shows financial pressure (Search DC 15)
-- [ ] Auric Holdings connected to [[The Gold Standard]] (Knowledge [Local] DC 18)
+**"Why Tonight?" prompts fired:**
+- [ ] Tesslyn's reaction: "Five of us. Five." (automatic when confronted as 3rd+ suspect)
+- [ ] Sareth's pattern recognition: lays out the timeline (automatic after 3+ suspects reported)
+- [ ] Harath names "Auric Holdings" (automatic if he cooperates)
+- [ ] Amended will on desk → Madame Inkwell → "Auric Advisory" (no check, just reading + asking)
+- [ ] Lendara Quill-Sable notes the curated guest list (Gather Information DC 15)
+
+**Auric Holdings discovery:**
+- [ ] Path 1: Voss's locked desk (Search DC 22, Open Lock DC 25) — direct correspondence
+- [ ] Path 2: Voss's private ledger (Search DC 15) → cross-reference → Auric Holdings (Knowledge [Local] / Gather Info DC 18)
+- [ ] Path 3: Harath names it voluntarily (no check)
+- [ ] Path 4: Amended will → Madame Inkwell → "Auric Advisory, subsidiary of Auric Holdings" (no check)
+- [ ] Auric Holdings connected to [[The Gold Standard]] (Knowledge [Local] DC 15 / Gather Info DC 12 from Dresh)
+
+**Confirmation clues:**
+- [ ] Timing pattern noticed (three-week window, no check required with 3+ antecedents)
 - [ ] Information sources converge (Gather Information DC 22 / DC 18 with Auric Holdings)
 - [ ] Snitch Ray's warning letter found in Voss's desk (Search DC 20)
 - [ ] EyeQ's transmission received (if PCs contact EyeQ)
@@ -967,9 +1117,11 @@ Use this tracker during play to record what the PCs have discovered. Check boxes
 
 ### Tier Thresholds
 - **Tier 1 complete:** Pettifer identified and confronted.
-- **Tier 2 entry:** PCs find evidence of a second killer (any of the four). Can enter via Heal DC 20 on the body OR by stumbling onto physical evidence (the wine, the nail, the cut, the vial).
-- **Tier 2 complete:** PCs understand all five killers acted independently. Tesslyn voices the key question.
-- **Tier 3 entry:** PCs connect two or more "why tonight?" antecedents and notice the pattern. Often triggered by finding Auric Holdings or Snitch Ray's letter.
+- **Tier 1 → 2 bridge:** Seams in the Pettifer solution invite further investigation. Sareth's dissatisfaction is the safety net. At least six independent paths into Tier 2 exist.
+- **Tier 2 entry:** PCs find evidence of a second killer (any of the four). Can enter via Heal DC 20, the wine glass, the coat, Sareth, background guest testimony, or Fennick Brass.
+- **Tier 2 complete:** PCs understand all five killers acted independently.
+- **Tier 2 → 3 bridge:** "Why Tonight?" prompts surface the question. Tesslyn and Sareth are the primary bridges. Harath's Auric Holdings name-drop and the amended will are backup paths.
+- **Tier 3 entry:** PCs connect two or more "why tonight?" antecedents and notice the pattern. Four independent paths to the Auric Holdings name exist (DC range: free to DC 22). Connection to Gold Standard is Knowledge [Local] DC 15.
 - **Tier 3 complete:** PCs understand Veezy's role. Sareth confirms the architecture.
 
 ---
@@ -1011,6 +1163,17 @@ Use this tracker during play to record what the PCs have discovered. Check boxes
 | Gather Information (staff) | 15 | Servants' passage connects to study |
 | Sense Motive | 20 | Pettifer's alibi has holes (wrong wine, wrong book) |
 | Gather Information | 18 | Pettifer names his most recent intermediary |
+
+### Seams / Tier 1→2 Bridges
+| Check | DC | Result |
+|-------|-----|--------|
+| *(attention)* | — | Timeline: 60-second poison but Voss read half a page |
+| Craft (Alchemy) | 18 | Wine glass on desk contains arcanotoxin (different poison) |
+| Sense Motive (Pettifer) | 15 | Pettifer seems too amateur for a professional |
+| Spot or Heal | 18 | Body language wrong for fast-acting paralytic |
+| *(automatic)* | — | Sareth voices dissatisfaction after Tier 1 report |
+| *(automatic)* | — | Vorta/Sulim volunteer observations about Harath and Meralda |
+| *(automatic)* | — | Fennick Brass identifies the Debtor's Nail if shown |
 
 ### Scene 4: Tier 2 — Meralda
 | Check | DC | Result |
@@ -1057,13 +1220,26 @@ Use this tracker during play to record what the PCs have discovered. Check boxes
 | Search (guest room) | 15 | Letter from "concerned friend" about amended will |
 | Forgery | 18 | Handwriting deliberately anonymized |
 
+### "Why Tonight?" Prompts (Tier 2→3 bridges)
+| Check | DC | Result |
+|-------|-----|--------|
+| *(automatic)* | — | Tesslyn: "Five of us. And none of us knew about the others." (3rd+ suspect) |
+| *(automatic)* | — | Sareth lays out the timeline pattern (3+ suspects reported) |
+| *(automatic)* | — | Harath names "Auric Holdings" voluntarily (if he cooperates) |
+| *(reading + asking)* | — | Amended will → Madame Inkwell → "Auric Advisory / Auric Holdings" |
+| Gather Information (Lendara) | 15 | Chronicler notes four unusual additions to this year's guest list |
+
 ### Scene 4: Tier 3 — The Architecture
 | Check | DC | Result |
 |-------|-----|--------|
-| Search (locked desk) | 22 | Auric Holdings correspondence in Voss's desk |
+| Search (locked desk) | 22 | Auric Holdings correspondence in Voss's desk (hardest path) |
 | Open Lock | 25 | Unlock Voss's desk drawer |
-| Search (desk) | 15 | Voss's private ledger showing financial pressure |
-| Knowledge (Local) | 18 | Auric Holdings connects to The Gold Standard |
+| Search (desk) | 15 | Voss's private ledger showing financial pressure (moderate path) |
+| Knowledge (Local) / Gather Info | 18 | Cross-reference ledger creditors → Auric Holdings |
+| *(automatic)* | — | Harath names Auric Holdings (easiest path) |
+| *(automatic)* | — | Amended will → Inkwell → Auric Advisory (narrative path) |
+| Knowledge (Local) | 15 | Auric Holdings connects to The Gold Standard |
+| Gather Information (Dresh) | 12 | Dresh confirms Auric Holdings is a financial district shell entity |
 | Gather Information | 22 (18 w/ Auric) | All five information sources converge on one entity |
 | Search (desk) | 20 | Snitch Ray's warning letter on Coinspiratorium stationery |
 
