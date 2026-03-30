@@ -8,7 +8,7 @@ race: Human
 class: Expert 12
 level: 12
 alignment: Lawful Neutral
-location: "[[The Superiority Complex]], [[Offledger]]"
+location: "[[The Upper Ledger]], [[Offledger]]"
 faction: Independent
 status: deceased
 ---

@@ -8,7 +8,7 @@ race: Human
 class: Expert 6
 level: 6
 alignment: Neutral
-location: "[[The Superiority Complex]], [[Offledger]]"
+location: "[[The Upper Ledger]], [[Offledger]]"
 faction: Independent
 status: alive
 ---

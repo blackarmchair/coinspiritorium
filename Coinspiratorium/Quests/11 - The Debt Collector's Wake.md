@@ -10,7 +10,7 @@ status: available
 assigned-by: "[[Vizzok the Opulent]]"
 reward: Dungeon loot + Veezy's favor
 danger-level: High (social / investigative)
-location: The Superiority Complex (Offledger)
+location: The Upper Ledger (Offledger)
 crown-component: 11
 level-range: 12-13
 estimated-sessions: 2-3
@@ -24,7 +24,7 @@ estimated-sessions: 2-3
 ---
 
 ## Adventure Summary
-[[Vizzok the Opulent|Veezy]] sends the PCs to attend **The Recession**, an invitation-only salon hosted by a reclusive debt magnate named **[[Aldenmere Voss]]** at his private estate in [[The Superiority Complex]], [[Offledger]]'s most exclusive district. Veezy's stated reason is mundane: represent the brand, network, make nice with old money. He can't attend himself. Prior engagements. The PCs go in his stead.
+[[Vizzok the Opulent|Veezy]] sends the PCs to attend **The Recession**, an invitation-only salon hosted by a reclusive debt magnate named **[[Aldenmere Voss]]** at his private estate in [[The Upper Ledger]], [[Offledger]]'s most exclusive district. Veezy's stated reason is mundane: represent the brand, network, make nice with old money. He can't attend himself. Prior engagements. The PCs go in his stead.
 
 During the gathering, [[Aldenmere Voss]] is murdered.
 
@@ -151,8 +151,8 @@ A Knowledge (Local) or Forgery check at DC 30 notices that one section of the fi
 
 ## Scene 2: The Recession
 
-### The Superiority Complex
-[[The Superiority Complex]] is [[Offledger]]'s wealthiest district, a neighborhood that sits slightly above the rest of the plane in both altitude and attitude. The streets are paved with compressed contract paper, centuries of fulfilled obligations underfoot. The air smells like expensive parchment.
+### The Upper Ledger
+[[The Upper Ledger]] is [[Offledger]]'s wealthiest district, a neighborhood that sits slightly above the rest of the plane in both altitude and attitude. The streets are paved with compressed contract paper, centuries of fulfilled obligations underfoot. The air smells like expensive parchment.
 
 [[Aldenmere Voss]]'s estate occupies a corner that angles away from the rest of [[Offledger]] like a jaw set in disapproval. A three-story structure of dark wood and brass, older than Veezy's arrival in Offledger by at least fifty years. The front door is ironwood carved with interlocking debt-chains. It opens only for invited guests. It remembers.
 
@@ -210,9 +210,69 @@ Presents as a minor debt-holder from a distant plane. Polite, unremarkable. Actu
 - **Role:** She is not guilty. She did not attempt to kill Voss. She is a complication during the claim process and a potential source of deeper insight if the PCs earn her trust.
 - **Reveal timing:** She approaches the PCs mid-investigation, after the lockdown. She drops cover when the situation moves faster than she can control alone.
 
+### The Other Guests
+
+Beyond the five suspects and Envoy Sareth, eight additional guests fill the room. They provide atmosphere, alibis, misdirection, and the social texture of a gathering where everyone is watching everyone else. None of them attempted to kill Voss. All of them have opinions.
+
+**[[Lendara Quill-Sable]]** — *The Chronicler*
+Tiefling woman, early forties, ink-stained fingers she hasn't bothered to hide. Writes a financial gazette read by most of [[Offledger]]'s upper crust. She's here for material. She takes notes openly. She will want to interview the PCs after the murder.
+- **Useful for:** Providing gossip about other guests. She knows everyone's public reputation and most of their private feuds. Gather Information checks made through Lendara get a +2 circumstance bonus during the cocktail hour.
+- **Red herring potential:** She was near the study door shortly before Voss entered. She was eavesdropping on a conversation between two minor guests, not doing anything sinister, but she looks suspicious on a timeline.
+
+**[[Councilor Dresh]]** — *The Regulator*
+Hobgoblin in formal military dress adapted for civilian wear. Sits on [[Offledger]]'s Debt Arbitration Council. He's here because he's always here. He and Voss have a professional respect that never became friendship.
+- **Useful for:** Explaining [[Offledger]] debt law, the contestation process, and the three-hour accelerated window. He's the most likely NPC to provide this exposition if the PCs need it. He also knows the Instrument's legal history.
+- **Red herring potential:** None. He's transparently bureaucratic. His presence is calming.
+
+**[[Osska Redledger]]** — *The Collector*
+Orc woman, immaculately dressed, heavy jewelry. Runs a debt-collection firm that competes with Voss's operation. She's here to see and be seen. She and Meralda have a tense, clipped exchange early in the evening.
+- **Useful for:** Confirming Meralda's history with Voss. Osska knows the buyout story, the partnership dissolution, the decades of resentment. She'll share freely because it's not her secret.
+- **Red herring potential:** She openly dislikes Voss. She says so. "The man's a monument to his own rectitude." Her candor makes her look suspicious to PCs who expect murderers to be subtle.
+
+**[[Fennick Brass]]** — *The Appraiser*
+Halfling man, nervous energy, constantly adjusting his cufflinks. Independent appraiser who values high-end magical artifacts. He's been examining the Instrument all evening from a respectful distance. He's deeply interested in it and deeply aware he shouldn't touch it.
+- **Useful for:** Identifying magical properties of evidence. If the PCs need a Craft (Alchemy) or Knowledge (Arcana) check they can't make themselves, Fennick can assist. He charges for the service, naturally. 50gp per identification.
+- **Red herring potential:** His obsession with the Instrument looks acquisitive. After the murder, he immediately asks about the Instrument's status, which reads as suspicious until the PCs realize he's just professionally fixated.
+
+**[[Vorta and Sulim]]** — *The Silent Partners*
+Twin elves, male and female, who run a joint investment concern. They speak in alternating sentences and finish each other's thoughts. They've been clients of Voss's for decades. Genuinely grieved by his death.
+- **Useful for:** Alibis. They were together all evening and watched the room carefully out of social anxiety. They can confirm the movements of multiple suspects during the cocktail hour. They noticed Meralda near the sideboard, Harath's odd handshake, and Zhaal's private meeting. They provide corroborating testimony without realizing its significance.
+- **Red herring potential:** Minimal. Their grief is real and obvious.
+
+**[[Brace Colling]]** — *The Bodyguard*
+Human man, massive, standing near the wall with a drink he hasn't touched. Voss's personal security. He was posted outside the study during Zhaal's private meeting and outside the main salon during the cocktail hour. He heard the sharp sound during Zhaal's visit but didn't intervene because Voss had instructed him to allow the private conversation.
+- **Useful for:** Confirming timeline and access. He knows who entered the study and when. He's devastated by Voss's death and blames himself. If treated with respect, he cooperates fully.
+- **Red herring potential:** He's the bodyguard who failed. Some PCs will suspect inside help. His guilt reads like complicity until the PCs understand the scope of the conspiracy.
+
+**[[Madame Inkwell]]** — *The Solicitor*
+Gnome woman, elderly, sharp-eyed. Voss's personal solicitor for thirty years. She drafted his will, his contracts, and his custodial documents. She is the person most likely to examine the charter folio during the claim scene and recognize the chain-of-obligation structure.
+- **Useful for:** Legal exposition. She can explain the contestation process, validate or challenge claims, and serve as the "estate solicitor" referenced in Scene 5. She's also the person most capable of recognizing the charter folio's hidden structure if the adjudication points to the PCs.
+- **Red herring potential:** She drafted the amended will that enraged Tesslyn. Some PCs may suspect her of involvement. She's innocent but angry about being in a building with a dead client.
+
+### Running the Cocktail Hour
+
+The cocktail hour is the mystery's foundation. Every observation the PCs make here becomes evidence later. But "let them mingle" needs structure at the table.
+
+**Format: Social Rounds.** Divide the cocktail hour into **four rounds** of approximately 15 in-game minutes each. Each round, each PC can take **one social action**:
+- **Mingle:** Talk to a specific guest. The PC chooses who and what they ask about. Role-play the conversation, then call for relevant checks.
+- **Observe:** Watch the room. Spot checks to notice specific behaviors (Meralda near the sideboard, Harath's handshake, Zhaal's arm-rub, etc.). The DC depends on what's happening that round.
+- **Investigate:** Examine the room, the Instrument, the food and drink, or any other element. Search or Knowledge checks as appropriate.
+- **Assist:** Help another PC's social action. Standard Aid Another rules apply.
+
+**Round-by-Round Events:**
+
+| Round | Time | Key Events | Observable Actions |
+|-------|------|------------|--------------------|
+| 1 | Arrival | PCs arrive, greeted by Voss. Introductions. The room fills. | Meralda takes position near the sideboard (Spot DC 18). Fennick orbits the Instrument. |
+| 2 | Mingling | Conversations establish. Voss circulates. Drinks flow. | Meralda doses the decanter (Spot DC 22 to catch in the act, DC 18 to notice her lingering). Harath approaches Voss for a handshake (Spot DC 20 to notice the palm). |
+| 3 | Private meeting | Zhaal requests a private word with Voss. They leave for the study. | Zhaal and Voss absent 10 minutes (automatic). Voss returns rubbing his arm (Spot DC 20). Zhaal washes hands in washroom. |
+| 4 | The toast | Voss makes his speech. The toast. The evening's tone shifts. | Voss's hesitation (Spot DC 20 or Sense Motive DC 18). The room's collective tension (Sense Motive DC 15). |
+
+**DM Guidance:** Don't announce the rounds. Just ask each PC what they're doing and move through the evening naturally. The round structure is scaffolding for you, not visible mechanics for the players. If a PC wants to do something that doesn't fit a round, let them — flexibility is more important than structure. The goal is to ensure everyone gets to act and observe before the murder.
+
 ### The Evening (Before the Murder)
 
-The first hour establishes:
+The cocktail hour establishes:
 
 1. **Voss is respected.** Guests approach him with deference. He speaks to each one personally. He remembers details. He is good at this.
 
@@ -274,7 +334,29 @@ This is how the PCs become investigators. Not because the plot demands it, but b
 
 Sareth notices the Instrument's activation. She doesn't understand its full significance yet, but she's watching it carefully.
 
-**The clock starts.** Because Voss died during the renewal anniversary, the contestation period is three hours, not thirty days. Claims must be asserted and validated before the window closes or the Instrument defaults to [[Offledger]]'s general treasury. Most of the guests don't know this. Zhaal does. Tesslyn might. The PCs probably don't, unless they've been reading up on Offledger debt law.
+**The clock starts.** Because Voss died during the renewal anniversary, the contestation period is three hours, not thirty days. Claims must be asserted and validated before the window closes or the Instrument defaults to [[Offledger]]'s general treasury. Most of the guests don't know this. Zhaal does. Tesslyn might. The PCs probably don't, unless they've been reading up on Offledger debt law. [[Councilor Dresh]] can explain the accelerated timeline if asked.
+
+### The Contestation Clock
+
+The three-hour window creates mechanical tension alongside the investigation. Track it in real time at the table using the milestones below. The clock starts when the Instrument's seal cracks and the adjudication field activates.
+
+**Pacing principle:** Each hour of in-game time corresponds roughly to one major phase of the adventure. Don't track minutes literally — use the milestones to create pressure at the right moments.
+
+| Clock | Milestone | What Happens |
+|-------|-----------|-------------|
+| **0:00** | Seal cracks | The Instrument activates. Adjudication field deploys. Zhaal immediately asserts a claim. The investigation begins. |
+| **0:30** | First claim window | Tesslyn asserts her claim as heir. Minor guests may posture. [[Councilor Dresh]] or [[Madame Inkwell]] can explain the rules if the PCs ask. |
+| **1:00** | Pressure builds | If the PCs are deep in investigation, a guest reminds the room that time is passing. Zhaal grows visibly agitated. Tesslyn begins making legal arguments. Any PC carrying the charter folio feels the Instrument pulse faintly in their direction (Spot DC 25 to notice the vibration through the bag). |
+| **1:30** | Halfway | Sareth notes the clock. If the PCs haven't finished Tier 1 yet, she suggests they focus. If they're in Tier 2, she helps prioritize remaining threads. The Instrument's pulse toward the folio strengthens (Spot DC 20). |
+| **2:00** | Urgency | Zhaal threatens to invoke debt-combat to force adjudication. Tesslyn pushes for an immediate ruling. Minor guests begin withdrawing claims. The Instrument's direction toward the folio becomes obvious to anyone within 10 feet (Spot DC 15). |
+| **2:30** | Final warning | The Instrument vibrates audibly. The adjudication field flickers. [[Madame Inkwell]] announces that claims must be finalized within thirty minutes or the Instrument defaults to the treasury. If the charter folio hasn't been opened yet, the Instrument's pull is unmistakable. |
+| **3:00** | Adjudication closes | All validated claims are ranked. The Instrument chooses its new custodian. If the folio was presented, the PCs win. If not, the Instrument defaults to [[Offledger]]'s general treasury — and Veezy's plan fails. |
+
+**DM Notes on the Clock:**
+- **The clock is pressure, not a puzzle.** The PCs don't need to manage it. It manages them. Its purpose is to create tension between investigating thoroughly and resolving the claim.
+- **Don't let the clock punish good investigation.** If the PCs are doing excellent work in Tier 2 or Tier 3, stretch the milestones. The clock should accelerate when they're stalling and breathe when they're engaged.
+- **The folio's pull is the clock's narrative payoff.** The Instrument increasingly points toward the PCs as time passes. This is the adventure revealing its hidden heist layer through environmental storytelling. Even if no PC opens the folio, the Instrument's behavior tells them something is in their bag that matters.
+- **If the clock runs out without the folio being presented:** This is a valid outcome. Veezy's plan fails. He's furious but controlled. The campaign continues, but the Crown is missing a component, and Veezy's next move will be more desperate.
 
 ### Immediate Reactions
 
@@ -743,6 +825,22 @@ Track which seeds your PCs encountered:
 
 ## Appendix: Stat References
 
+### Zhaal's Debt-Combat Arena
+
+If the PCs accept Zhaal's challenge, the ritual combat takes place in the estate's **entrance hall**, cleared of furniture by Zhaal's demand. The space is formal, austere, and echoes.
+
+**Terrain:**
+- **Dimensions:** 40 ft. × 30 ft., high-ceilinged (20 ft.). The ironwood front door is sealed. Brass sconces line the walls.
+- **The Instrument's pedestal** stands at the north end of the hall, still radiating the adjudication field (30-ft. radius). Combatants within the field cannot lie about debts or obligations. This means Zhaal's strike-announcements (naming obligations) must be truthful, and PCs who respond in kind are also bound to honesty.
+- **Compressed contract paper floor.** The floor is layered centuries of fulfilled obligations. Stable footing, but a creature knocked prone disturbs the surface, releasing a cloud of old parchment dust (5-ft. square, concealment for 1 round).
+- **Brass sconces** can be wrenched from the wall (Strength DC 18) for an improvised weapon (1d6 bludgeoning). Zhaal considers this dishonorable but not illegal.
+- **Spectators ring the hall.** Guests watch from the perimeter. Zhaal will not strike a spectator. If a PC retreats behind the spectator line, Zhaal halts and waits, granting a free round of recovery but refusing to resume until the PC re-enters the space. He fights with honor even when fighting for his life.
+
+**Combat Notes:**
+- **First blood rules:** Zhaal fights to 50% HP (54 HP). If reduced to 54 HP or below, he yields. If the PC is reduced to 50% HP first, Zhaal expects a yield but does not kill a yielding opponent.
+- **Dishonorable conduct:** If the PC uses poison, concealment, flanking allies, or attacks while Zhaal is speaking, he abandons first-blood rules and fights to kill.
+- **Strike announcements:** Zhaal names the obligation behind each attack. "For the githyanki courts' unanswered petition!" "For twenty years of patience!" If the PC responds in kind — naming their own debts, obligations, or reasons for fighting — Zhaal gains a +2 morale bonus to attacks but the PC gains +2 insight bonus to AC. He respects an opponent who knows what they're fighting for.
+
 ### Combat Encounters
 
 **Creditor Zhaal** — Githyanki Fighter 12, Lawful Neutral
@@ -796,3 +894,181 @@ After this adventure, the Instrument is integrated into the [[The Device|Crown I
 - **O.P.E.R.A.T.I.V.E. escalates.** Sareth's report triggers a priority reassessment. [[Agent Quill]] contacts the PCs with new urgency. [[Auditor Pentival]] begins correlating the Instrument's integration with Offledger's economic anomalies. [[Director Casseel]] authorizes contingency planning for a forced raid.
 - **Snitch Ray's fracture.** If the PCs found the warning letter, their next encounter with him is different. Something new in his eyestalks. Not suspicion. Guilt. If the PCs reach out, he doesn't respond immediately. But he doesn't report them either.
 - **Thematic echo with [[Veezy's IOU]].** The Instrument enforces all debts. The IOU is a debt the Instrument's master forgot to pay. When the endgame arrives and the PCs invoke the IOU, the Instrument validates it. The Crown's own gavel comes down on Veezy's head. The weapon he built becomes the weapon that destroys him.
+
+---
+
+## Appendix: Investigation Progress Tracker
+
+Use this tracker during play to record what the PCs have discovered. Check boxes as evidence is found. The tier thresholds tell you when the mystery has opened a new layer.
+
+### Body Examination
+- [ ] Heal DC 15 — Needle wound identified (Tier 1 entry point)
+- [ ] Heal DC 20 — Second toxin and arm wound discovered (Tier 2 entry point via body)
+- [ ] Heal DC 25 — All five lethal agents identified (full scope from body alone)
+
+### Tier 1: Pettifer Groan (The Needle)
+- [ ] Poison residue on servants' passage door handle (Search DC 18)
+- [ ] Threader's Bane identified as gnome-crafted (Knowledge [Nature] / Craft [Alchemy] DC 20)
+- [ ] Servants' passage connects to study (Gather Information DC 15)
+- [ ] Pettifer's alibi has holes (Sense Motive DC 20)
+- [ ] Adjudication field catches Pettifer's financial lie
+- [ ] Pettifer confronted / confessed
+- [ ] **Tier 3 seed:** Pettifer names intermediary who told him about the documents (Gather Information DC 18)
+
+### Tier 2: Meralda Thorne (The Poisoned Wine)
+- [ ] Arcanotoxin in Voss's wine glass (Craft [Alchemy] DC 18)
+- [ ] Arcanotoxin traces on decanter (Search DC 15, then Craft [Alchemy] DC 18)
+- [ ] Servant saw Meralda near sideboard (Gather Information DC 15)
+- [ ] PC observed Meralda during cocktail hour (Spot DC 18 in Scene 2)
+- [ ] Guest mentions Meralda seemed "calmer than usual" (Gather Information DC 12)
+- [ ] Adjudication field silences Meralda's financial denial
+- [ ] **Tier 3 seed:** Leaked buyout documents in Meralda's handbag (Search DC 12)
+
+### Tier 2: Creditor Zhaal (The Venom Cut)
+- [ ] Cut on Voss's forearm examined (Search DC 15 on body)
+- [ ] Residue identified as githyanki debt-venom (Knowledge [Arcana / Planes] DC 20)
+- [ ] Matching residue on Zhaal's sword (Search DC 15 with consent / DC 20 without)
+- [ ] Guest saw Zhaal washing hands (Gather Information DC 18)
+- [ ] PC observed private meeting in Scene 2 (Spot DC 20 for arm-rub)
+- [ ] Servant heard sharp sound during private meeting (Gather Information DC 15)
+- [ ] Zhaal confronted (he does not deny)
+- [ ] **Tier 3 seed:** Zhaal's dossier on custodial weakness (he shows it freely)
+
+### Tier 2: Harath Kull (The Debtor's Nail)
+- [ ] Iron nail found in Voss's coat (Search DC 18 on body)
+- [ ] Identified as Debtor's Nail (Knowledge [Arcana] DC 18)
+- [ ] Necromantic residue on Harath's hands/pocket (Search DC 15)
+- [ ] Guest noticed Harath's odd handshake (Gather Information DC 18)
+- [ ] PC observed the handshake in Scene 2 (Spot DC 20)
+- [ ] Servant noticed Harath asking about estate layout (Gather Information DC 15)
+- [ ] Harath confronted / breaks down
+- [ ] **Tier 3 seed:** Unsigned note "He took everything from you" (Search DC 10 on Harath)
+- [ ] **Tier 3 seed:** "Auric Holdings" name mentioned by Harath
+
+### Tier 2: Tesslyn Voss (The Swapped Vial)
+- [ ] Emergency healing vial in desk drawer (Search DC 12)
+- [ ] Vial identified as belladonna extract (Craft [Alchemy] DC 20)
+- [ ] Alchemical supplies and matching empty vial in Tesslyn's guest room (Search DC 18)
+- [ ] Maid confirms Tesslyn visited two days ago (Gather Information DC 15)
+- [ ] No birthday card found (Search DC 10)
+- [ ] Steward confirms frequent recent visits (Gather Information DC 18)
+- [ ] Tesslyn confronted (argues vial didn't kill him)
+- [ ] **Tier 3 seed:** Letter from "concerned friend" about amended will (Search DC 15 in guest room)
+
+### Tier 3: The Architecture
+- [ ] Timing pattern noticed (three-week window, no check required)
+- [ ] Auric Holdings found in Voss's locked desk (Search DC 22, Open Lock DC 25) — or — Voss's private ledger shows financial pressure (Search DC 15)
+- [ ] Auric Holdings connected to [[The Gold Standard]] (Knowledge [Local] DC 18)
+- [ ] Information sources converge (Gather Information DC 22 / DC 18 with Auric Holdings)
+- [ ] Snitch Ray's warning letter found in Voss's desk (Search DC 20)
+- [ ] EyeQ's transmission received (if PCs contact EyeQ)
+- [ ] Sareth fills in gaps from her O.P.E.R.A.T.I.V.E. investigation
+- [ ] PCs decide whether to share findings with Sareth
+
+### Tier Thresholds
+- **Tier 1 complete:** Pettifer identified and confronted.
+- **Tier 2 entry:** PCs find evidence of a second killer (any of the four). Can enter via Heal DC 20 on the body OR by stumbling onto physical evidence (the wine, the nail, the cut, the vial).
+- **Tier 2 complete:** PCs understand all five killers acted independently. Tesslyn voices the key question.
+- **Tier 3 entry:** PCs connect two or more "why tonight?" antecedents and notice the pattern. Often triggered by finding Auric Holdings or Snitch Ray's letter.
+- **Tier 3 complete:** PCs understand Veezy's role. Sareth confirms the architecture.
+
+---
+
+## Appendix: DM Quick-Reference — All Skill Checks
+
+### Scene 1: The Briefing
+| Check | DC | Result |
+|-------|-----|--------|
+| Knowledge (Local) or Forgery | 30 | Notice unusual structure in charter folio |
+| Knowledge (Local) or Forgery | 35 | Recognize chain-of-obligation disguised as trade license |
+
+### Scene 2: The Cocktail Hour
+| Check | DC | Result |
+|-------|-----|--------|
+| Sense Motive | 15 | Guests are tense; fixed smiles, glances at Instrument |
+| Knowledge (Local) / Gather Info | 18 | Guest list has been curated; several don't belong |
+| Spot | 18 | Notice Meralda lingering near the sideboard |
+| Spot | 20 | Notice Harath's hand move toward Voss's coat during handshake |
+| Spot | 20 | Notice Voss rubbing his forearm after Zhaal's meeting |
+| Spot | 20 | Notice the Instrument's seal matches Veezy's pendant |
+| Spot / Sense Motive | 20/18 | Voss hesitates before his toast; he sees too many enemies |
+| Spot | 22 | Catch Meralda dosing the decanter in the act |
+| Sense Motive | 25 | Recognize O.P.E.R.A.T.I.V.E. phrasing from Envoy Sareth |
+
+### Scene 3: The Body
+| Check | DC | Result |
+|-------|-----|--------|
+| Heal | 15 | Needle wound behind left ear. Cause of death (surface) |
+| Heal | 20 | Second toxin (ingested), arm wound with residue, vitality drain |
+| Heal | 25 | All five lethal agents identified simultaneously |
+| Craft (Alchemy) | 18 | Emergency vial in desk is not a healing potion |
+
+### Scene 4: Tier 1 Investigation (Pettifer)
+| Check | DC | Result |
+|-------|-----|--------|
+| Search | 18 | Poison residue on servants' passage door handle |
+| Knowledge (Nature) / Craft (Alchemy) | 20 | Threader's Bane is gnome-crafted |
+| Gather Information (staff) | 15 | Servants' passage connects to study |
+| Sense Motive | 20 | Pettifer's alibi has holes (wrong wine, wrong book) |
+| Gather Information | 18 | Pettifer names his most recent intermediary |
+
+### Scene 4: Tier 2 — Meralda
+| Check | DC | Result |
+|-------|-----|--------|
+| Craft (Alchemy) | 18 | Arcanotoxin in Voss's wine glass |
+| Search | 15 | Locate Voss's personal decanter on sideboard |
+| Craft (Alchemy) | 18 | Arcanotoxin traces on decanter rim and stopper |
+| Gather Information (servant) | 15 | Meralda was alone with the decanter |
+| Gather Information (guest) | 12 | Meralda seemed "calmer than usual" |
+| Search | 12 | Leaked buyout documents in Meralda's handbag |
+| Knowledge (Local) / Forgery | 20-22 | Documents required Voss's authorization or financial leverage to access |
+
+### Scene 4: Tier 2 — Zhaal
+| Check | DC | Result |
+|-------|-----|--------|
+| Search | 15 | Cut on Voss's forearm (if looking for it) |
+| Knowledge (Arcana / Planes) | 20 | Residue is githyanki debt-venom |
+| Search | 15/20 | Matching residue on Zhaal's sword (with/without consent) |
+| Gather Information (guest) | 18 | Guest saw Zhaal washing hands after private meeting |
+| Gather Information (guests) | 12 | Confirm private meeting happened |
+| Gather Information (servant) | 15 | Heard raised voices and sharp sound during meeting |
+| Knowledge (Planes) / Gather Info | 22/25 | Zhaal's dossier intelligence was injected from outside source |
+
+### Scene 4: Tier 2 — Harath
+| Check | DC | Result |
+|-------|-----|--------|
+| Search (body) | 18 | Iron nail in Voss's coat pocket |
+| Knowledge (Arcana) | 18 | Debtor's Nail identified |
+| Search (Harath) | 15 | Necromantic residue on his hands and pocket |
+| Gather Information (guest) | 18 | Harath's handshake was oddly long |
+| Gather Information (servant) | 15 | Harath was asking about estate layout all evening |
+| Search (Harath) | 10 | Unsigned note: "He took everything from you" |
+| Knowledge (Local) | 18 | Note's paper stock from specific Offledger supplier |
+
+### Scene 4: Tier 2 — Tesslyn
+| Check | DC | Result |
+|-------|-----|--------|
+| Search (desk) | 12 | Emergency healing vial in top drawer |
+| Craft (Alchemy) | 20 | Vial is concentrated belladonna extract |
+| Search (guest room) | 18 | Alchemical supplies, empty matching vial, dosage notes |
+| Gather Information (maid) | 15 | Tesslyn visited two days ago ("leaving a birthday card") |
+| Search (study) | 10 | No birthday card exists |
+| Gather Information (steward) | 18 | Tesslyn visited frequently, asked about Voss's habits |
+| Search (guest room) | 15 | Letter from "concerned friend" about amended will |
+| Forgery | 18 | Handwriting deliberately anonymized |
+
+### Scene 4: Tier 3 — The Architecture
+| Check | DC | Result |
+|-------|-----|--------|
+| Search (locked desk) | 22 | Auric Holdings correspondence in Voss's desk |
+| Open Lock | 25 | Unlock Voss's desk drawer |
+| Search (desk) | 15 | Voss's private ledger showing financial pressure |
+| Knowledge (Local) | 18 | Auric Holdings connects to The Gold Standard |
+| Gather Information | 22 (18 w/ Auric) | All five information sources converge on one entity |
+| Search (desk) | 20 | Snitch Ray's warning letter on Coinspiratorium stationery |
+
+### Scene 5: The Claim
+| Check | DC | Result |
+|-------|-----|--------|
+| Spot | 25/20/15 | Feel the Instrument pulsing toward the charter folio (DC decreases as clock advances) |
+| Diplomacy / Knowledge (Local) | 20 | Counter Tesslyn's legal challenge to the chain of custody |
